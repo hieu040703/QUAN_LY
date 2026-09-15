@@ -9,6 +9,7 @@ import { fileModule } from "@/modules/file";
 import { roleModule } from "@/modules/role";
 import { logModule } from "@/modules/log";
 import { deviceModule } from "@/modules/device";
+import { seenMessageModule } from "@/modules/seenMessage";
 
 //# ================== Container Setup ====================
 const container = new Container();
@@ -23,6 +24,7 @@ container.load(
   roleModule,
   logModule,
   deviceModule,
+  seenMessageModule,
 );
 
 export { container };

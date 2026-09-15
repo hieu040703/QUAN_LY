@@ -7,6 +7,7 @@ import { FileEntity } from "./File";
 import { OperationLog } from "./OperationLog";
 import { Role } from "./Role";
 import { Device } from "./Device";
+import { SeenMessage } from "./SeenMessage";
 export const entities = [
   User,
   Role,
@@ -17,4 +18,5 @@ export const entities = [
   FileEntity,
   OperationLog,
   Device,
+  SeenMessage,
 ];

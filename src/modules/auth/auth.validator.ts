@@ -11,7 +11,7 @@ export const LoginSchema = z.object({
 });
 
 export const SeenNotificationSchema = z.object({
-  ids: z.array(z.number().min(1, "notificationIds.min")),
+  ids: z.array(z.uuid()).min(1, "notificationIds.min"),
 });
 
 export const RefreshTokenSchema = z.object({

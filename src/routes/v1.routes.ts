@@ -8,6 +8,8 @@ import { USER_TYPES, UserRouter } from "@/modules/user";
 import { getCode } from "@/shared/utils/code.utils";
 import { Router } from "express";
 import { LOG_TYPES, LogRouter } from "@/modules/log";
+import { SEEN_MESSAGE_TYPES, SeenMessageRouter } from "@/modules/seenMessage";
+import { NOTIFICATION_TYPES, NotificationRouter } from "@/modules/notification";
 import customerRouter from "./user.route";
 import managerRouter from "./manager.route";
 
@@ -17,6 +19,8 @@ const userRouter = container.get<UserRouter>(USER_TYPES.UserRouter);
 const fileRouter = container.get<FileRouter>(FILE_TYPES.FileRouter);
 const roleRouter = container.get<RoleRouter>(ROLE_TYPES.RoleRouter);
 const logRouter = container.get<LogRouter>(LOG_TYPES.LogRouter);
+const seenMessageRouter = container.get<SeenMessageRouter>(SEEN_MESSAGE_TYPES.SeenMessageRouter);
+const notificationRouter = container.get<NotificationRouter>(NOTIFICATION_TYPES.NotificationRouter);
 
 router.use("/auth", authRouter.getRouter());
 
@@ -28,6 +32,8 @@ router.use("/user", userRouter.getRouter());
 router.use("/file", fileRouter.getRouter());
 router.use("/role", roleRouter.getRouter());
 router.use("/log", logRouter.getRouter());
+router.use("/seen-message", seenMessageRouter.getRouter());
+router.use("/notification", notificationRouter.getRouter());
 router.use("/code", getCode);
 
 export default router;

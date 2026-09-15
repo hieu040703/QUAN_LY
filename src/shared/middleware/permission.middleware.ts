@@ -2,7 +2,7 @@
 import { Request, Response, NextFunction } from "express";
 import { ForbiddenError, UnauthorizedError } from "../types/errors";
 
-export const MODULES = ["permission", "user", "role", "notification", "device", "file", "log"] as const;
+export const MODULES = ["permission", "user", "role", "notification", "device", "file", "log", "seenMessage"] as const;
 export type Module = (typeof MODULES)[number];
 
 export const PERMISSIONS = ["create", "read", "update", "confirm", "approve", "delete", "block", "kick"] as const;

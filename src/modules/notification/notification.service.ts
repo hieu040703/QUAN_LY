@@ -79,7 +79,7 @@ export class NotificationService extends BaseService<Notification> {
       }
 
       // Nếu trong danh sách nhận có nhân viên → gửi luôn cho admin
-      const targetUserIds = await this.includeAdminForEmployees(userIds, manager);
+      const targetUserIds = [...new Set(userIds.filter(Boolean))];
 
       // Tạo notification trước
       const notification = await this.repository.create(notificationData, manager);
@@ -189,7 +189,7 @@ export class NotificationService extends BaseService<Notification> {
     },
     manager?: EntityManager,
   ): Promise<number> {
-    const { title, content, branchId, collectorIds, senderId, senderName } = payload;
+    const { title, content, collectorIds, senderId, senderName } = payload;
 
     const qb = this.repository
       .getRepository(manager)
@@ -197,12 +197,7 @@ export class NotificationService extends BaseService<Notification> {
       .select("collector.id", "id")
       .where("collector.deletedAt IS NULL")
       .andWhere("collector.isActive = :isActive", { isActive: true })
-      .andWhere("collector.canLogin = :canLogin", { canLogin: true })
-      .andWhere("collector.isCollector = :isCollector", { isCollector: true });
-
-    if (branchId) {
-      qb.andWhere("collector.branchId = :branchId", { branchId });
-    }
+      .andWhere("collector.type = :employeeType", { employeeType: UserType.EMPLOYEE });
 
     if (collectorIds?.length) {
       qb.andWhere("collector.id IN (:...collectorIds)", { collectorIds });
