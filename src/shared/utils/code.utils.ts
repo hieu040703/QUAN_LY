@@ -5,9 +5,6 @@ import DatabaseConfig from "@/config/database";
 import logger from "./logger";
 import { User } from "@/database/models/User";
 import dayjs from "dayjs";
-import { Attribute } from "@/database/models/Attribute";
-import { Booking } from "@/database/models/Booking";
-import { Club } from "@/database/models/Club";
 
 type ResetPeriod = "none" | "yearly" | "monthly";
 
@@ -20,30 +17,6 @@ type CodeConfig = {
 
 const codeConfig: Record<string, CodeConfig> = {
   user: { entity: User, prefix: "FC", length: 4, resetPeriod: "none" },
-  attribute: {
-    entity: Attribute,
-    length: 5,
-    prefix: "AT",
-    resetPeriod: "none",
-  },
-  checkin: {
-    entity: Attribute,
-    length: 5,
-    prefix: "CI",
-    resetPeriod: "monthly",
-  },
-  booking: {
-    entity: Booking,
-    length: 5,
-    prefix: "BK",
-    resetPeriod: "monthly",
-  },
-  club: {
-    entity: Club,
-    length: 5,
-    prefix: "CLB",
-    resetPeriod: "none",
-  },
 };
 
 function getPeriodInfo(period: ResetPeriod = "none") {

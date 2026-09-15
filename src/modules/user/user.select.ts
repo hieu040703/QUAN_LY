@@ -15,16 +15,6 @@ export const UserSelectBasic: FindOptionsSelect<User> = {
   email: true,
   phone: true,
   dob: true,
-  job: true,
-  about: true,
-  target: true,
-  contactChannel: true,
-  arrivalTimes: true,
-  healthStatus: true,
-  referralCode: true,
-  isLeader: true,
-  zalo: true,
-  messenger: true,
 };
 
 export const UserSelectFull: FindOptionsSelect<User> = {

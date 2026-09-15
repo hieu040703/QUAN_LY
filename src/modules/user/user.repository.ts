@@ -26,26 +26,12 @@ export class UserRepository extends BaseRepository<User> {
   ): Promise<void> {
     await super.extendQueryBuilder?.(qb, options);
     const moreQuery = (options.moreQuery as UserQueryDto) || {};
-    const { packetId, clubId, onlyMember, isManager, isLeader } = moreQuery;
-    if (packetId) {
-      qb.innerJoin("entity.userPacket", "userPacket").distinct(true);
-      if (packetId) {
-        qb.andWhere("userPacket.packetId = :packetId", { packetId });
-      }
-    }
-
-    if (clubId && onlyMember) {
-      qb.innerJoin("entity.clubMembers", "clubMember").distinct(true);
-      qb.andWhere("clubMember.clubId = :clubId", { clubId });
-    }
+    const { isManager } = moreQuery;
 
     if (isManager !== undefined) {
       qb.andWhere(isManager ? "entity.roleId IS NOT NULL" : "entity.roleId IS NULL");
     }
 
-    if (isLeader !== undefined) {
-      qb.andWhere(isLeader ? "entity.isLeader = true" : "entity.isLeader = false");
-    }
   }
 
   async getSnapshot(userId: string, manager?: EntityManager): Promise<UserSnapshot | null> {

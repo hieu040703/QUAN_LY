@@ -14,16 +14,6 @@ export const AuthSelectBasic: FindOptionsSelect<User> = {
   dob: true,
   gender: true,
   address: true,
-  job: true,
-  about: true,
-  target: true,
-  contactChannel: true,
-  arrivalTimes: true,
-  healthStatus: true,
-  referralCode: true,
-  isLeader: true,
-  zalo: true,
-  messenger: true,
 };
 
 export const AuthSelectFull: FindOptionsSelect<User> = {

@@ -45,7 +45,6 @@ echo ""
 echo "📁 Files generated:"
 echo "   • src/modules/user/user.validator.generated.ts"
 echo "   • src/modules/product/product.validator.generated.ts"
-echo "   • src/modules/attribute/attribute.validator.generated.ts"
 echo ""
 
 echo "🎯 Usage in your controllers:"

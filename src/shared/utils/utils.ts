@@ -1,8 +1,6 @@
 import dayjs from "dayjs";
 import { ErrorsMessages } from "../constants/errors";
 import dns from "dns";
-import { Attribute } from "@/database/models/Attribute";
-import { DeepPartial } from "typeorm";
 import { User } from "@/database/models/User";
 import { UserSnapshot } from "../base/BaseEntity";
 
@@ -137,8 +135,5 @@ export function getUserSnapshot(user: User): UserSnapshot {
     username: user.username,
     name: user.name,
     type: user.type,
-    isLeader: user.isLeader,
-    messenger: user.messenger,
-    zalo: user.zalo,
   };
 }

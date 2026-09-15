@@ -10,9 +10,5 @@ module.exports = {
   moduleNameMapper: {
     "^@/(.*)$": "<rootDir>/src/$1",
   },
-  setupFilesAfterEnv: ["<rootDir>/src/tests/setup.ts"],
   testTimeout: 10000,
-  // Ignore database connection issues in tests for now
-  globalSetup: "<rootDir>/src/tests/globalSetup.ts",
-  globalTeardown: "<rootDir>/src/tests/globalTeardown.ts",
 };

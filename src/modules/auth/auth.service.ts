@@ -20,7 +20,6 @@ import { Request, Response } from "express";
 import { AuthRepository } from "./auth.repository";
 import { AuthRelations, AuthSelectFull } from "./auth.select";
 import { User } from "@/database/models/User";
-import { MemberStatus, RoleClub } from "@/database/models/ClubMember";
 import { Token } from "@/database/models/Token";
 import { ErrorsMessages } from "@/shared/constants/errors";
 import dayjs from "dayjs";
@@ -28,7 +27,6 @@ import { VerifyOtpRepository } from "../verifyOtp/verifyOtp.repository";
 import { AUTH_TYPES } from "./auth.types";
 import { VERIFY_OTP_TYPES } from "../verifyOtp";
 import { createPermissions, PermissionStructure } from "@/shared/middleware/permission.middleware";
-import { CLUB_MODULES, PermissionClubStructure } from "@/shared/middleware/clubPermission.middleware";
 import { UserRelations } from "../user/user.select";
 import { DeepPartial, EntityManager, In, Not } from "typeorm";
 import logger from "@/shared/utils/logger";
@@ -44,21 +42,6 @@ import { Utils } from "@/shared/utils/utils";
 import DatabaseConfig from "@/config/database";
 import { DeviceService } from "../device/device.service";
 import { DEVICE_TYPES } from "../device/device.types";
-import { USER_TARGET_TYPES, UserTargetRepository } from "../userTarget";
-import { UserTarget, UserTargetStatus } from "@/database/models/UserTarget";
-import { CLUB_MEMBER_TYPES, ClubMemberRepository } from "../clubMember";
-import { USER_PACKET_TYPES } from "../userPacket/userPacket.types";
-import { UserPacketService } from "../userPacket/userPacket.service";
-
-type ClubPermissionsByClub = Record<string, PermissionClubStructure>;
-
-const createFullClubPermissions = (): PermissionClubStructure => {
-  const fullPermissions = createPermissions();
-
-  return Object.fromEntries(
-    CLUB_MODULES.map((module) => [module, fullPermissions[module] || []]),
-  ) as PermissionClubStructure;
-};
 
 /**
  * Chuẩn hóa số điện thoại về dạng đầu 0 (0xxxxxxxxx).
@@ -86,16 +69,9 @@ export class AuthService extends BaseService<User> {
     private verifyOtpRepository: VerifyOtpRepository,
     @inject(DEVICE_TYPES.DeviceService)
     private deviceService: DeviceService,
-    @inject(USER_TARGET_TYPES.UserTargetRepository) private userTargetRepository: UserTargetRepository,
-    @inject(CLUB_MEMBER_TYPES.ClubMemberRepository) private clubMemberRepository: ClubMemberRepository,
-    @inject(USER_PACKET_TYPES.UserPacketService) private userPacketService: UserPacketService,
   ) {
     super();
     this.repository = authRepository;
-  }
-
-  async registerTrialPackage(userId: string, clubId: string) {
-    return this.userPacketService.registerTrialPackage(userId, clubId);
   }
 
   // ==================== ĐĂNG KÝ KHÁCH HÀNG (OTP qua Redis) ====================
@@ -327,10 +303,7 @@ export class AuthService extends BaseService<User> {
   async getCurrent(userId: string): Promise<{
     user: User;
     permissions: PermissionStructure;
-    clubPermissions: ClubPermissionsByClub;
-    currentTarget: UserTarget | null;
     hasManager: boolean;
-    registeredTrialPacket: boolean;
   }> {
     const user = await this.repository.findOne({
       where: { id: userId },
@@ -345,34 +318,12 @@ export class AuthService extends BaseService<User> {
 
     let permissions: PermissionStructure = user.role?.permissions || {};
 
-    const currentTarget = await this.userTargetRepository.findOne({
-      where: { userId, status: UserTargetStatus.PENDING },
-      order: { createdAt: "DESC" },
-    });
-
-    const clubMembers = await this.clubMemberRepository.find({
-      where: { userId, status: MemberStatus.ACTIVE },
-      relations: { clubRole: true },
-    });
-
-    const clubPermissions = clubMembers.reduce<ClubPermissionsByClub>((permissionsByClub, member) => {
-      permissionsByClub[member.clubId] =
-        member.role === RoleClub.LEADER ? createFullClubPermissions() : member.clubRole?.permissions || {};
-      return permissionsByClub;
-    }, {});
-
-    const registeredTrialPacket = await this.userPacketService.checkUsedPacketTrail(userId);
-
-    // 1️⃣ ADMIN
     if (user.username === "admin") {
       permissions = createPermissions();
       return {
         user: userWithFiles,
         permissions,
-        clubPermissions,
-        currentTarget,
         hasManager: true,
-        registeredTrialPacket,
       };
     }
 
@@ -381,10 +332,7 @@ export class AuthService extends BaseService<User> {
     return {
       user: userWithFiles,
       permissions,
-      clubPermissions,
-      currentTarget,
       hasManager: hasRoleId,
-      registeredTrialPacket,
     };
   }
 
@@ -617,13 +565,6 @@ export class AuthService extends BaseService<User> {
         name,
         email,
         phone,
-        job: payload.job,
-        about: payload.about,
-        target: payload.target,
-        contactChannel: payload.contactChannel,
-        arrivalTimes: payload.arrivalTimes,
-        healthStatus: payload.healthStatus,
-        referralCode: payload.referralCode,
       } as Partial<User>);
 
       return userEntity;

@@ -25,8 +25,6 @@ import { initializePassport } from "./config/passport";
 import { S3CleanupJob } from "./jobs/s3-cleanup.job";
 import { RetryS3UploadJob } from "./jobs/retry-s3-upload.job";
 import { CleanupFilesJob } from "./jobs/cleanup-files.job";
-import { CancelPacketJob } from "./jobs/cancelPacket.job";
-import { SendNotificationJob } from "./jobs/sendNotification";
 
 class App {
   public app: express.Application;
@@ -89,8 +87,8 @@ class App {
     this.app.use(compression() as any);
     this.app.use(
       morgan("short", {
-        skip: (req) => !req.originalUrl.startsWith("/v1"),
-      }),
+        skip: (req) => !((req as any).originalUrl || "").startsWith("/v1"),
+      }) as any,
     );
     this.app.use(express.json({ limit: "100mb" }));
     this.app.use(express.urlencoded({ limit: "100mb", extended: true }));
@@ -108,12 +106,12 @@ class App {
           httpOnly: true,
           maxAge: 24 * 60 * 60 * 1000, // 24 hours
         },
-      }),
+      }) as any,
     );
 
     // ✅ Initialize Passport SAU session
-    this.app.use(passport.initialize());
-    this.app.use(passport.session()); // ← Quan trọng!
+    this.app.use(passport.initialize() as any);
+    this.app.use(passport.session() as any);
     initializePassport();
     logger.info("✅ Passport initialized");
   }
@@ -150,12 +148,10 @@ class App {
 
   private async initializeJobs(): Promise<void> {
     AutoClearTempJob.start();
-    CancelPacketJob.start();
-    AutoClearTempJob.start();
+      AutoClearTempJob.start();
     S3CleanupJob.start();
     RetryS3UploadJob.start();
     CleanupFilesJob.start();
-    SendNotificationJob.start();
   }
 
   private initializeErrorHandling(): void {

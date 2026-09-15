@@ -24,13 +24,6 @@ export const UpdateInfoSchema = z.object({
   gender: z.enum(GenderEnum).nullish(),
   dob: DateTransform.nullish(),
   address: AddressSchema.nullish(),
-  job: z.string().trim().max(255).nullish(),
-  about: z.string().trim().max(255).nullish(),
-  target: z.string().trim().max(255).nullish(),
-  contactChannel: z.string().trim().max(255).nullish(),
-  arrivalTimes: z.string().trim().max(255).nullish(),
-  healthStatus: z.string().trim().max(255).nullish(),
-  referralCode: z.string().trim().max(255).nullish(),
 });
 
 export const PayloadWithEmailSchema = z.object({
@@ -71,13 +64,6 @@ export const FirebaseRegisterSchema = z.object({
   gender: z.enum(GenderEnum),
   dob: DateTransform,
   address: AddressSchema.nullish(),
-  job: z.string().trim().max(255).nullish(),
-  about: z.string().trim().max(255).nullish(),
-  target: z.string().trim().max(255).nullish(),
-  contactChannel: z.string().trim().max(255).nullish(),
-  arrivalTimes: z.string().trim().max(255).nullish(),
-  healthStatus: z.string().trim().max(255).nullish(),
-  referralCode: z.string().trim().max(255).nullish(),
 });
 
 // ===== Đăng ký khách hàng (OTP/verifyKey qua Redis) =====
@@ -121,9 +107,6 @@ export const ChangePasswordSchema = z.object({
   newPassword: z.string().trim().min(6, "password.min").max(128, "password.max"),
 });
 
-export const RegisterTrialPackageSchema = z.object({
-  clubId: z.uuid(),
-});
 
 export type LoginDto = z.infer<typeof LoginSchema>;
 export type SeenNotificationDto = z.infer<typeof SeenNotificationSchema>;
@@ -142,4 +125,3 @@ export type VerifyEmailDto = z.infer<typeof VerifyEmailSchema>;
 export type RegisterPhoneDto = z.infer<typeof RegisterPhoneSchema>;
 export type RegisterDto = z.infer<typeof RegisterSchema>;
 export type ChangePasswordDto = z.infer<typeof ChangePasswordSchema>;
-export type RegisterTrialPackageDto = z.infer<typeof RegisterTrialPackageSchema>;

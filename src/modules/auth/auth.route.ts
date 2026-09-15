@@ -18,7 +18,6 @@ import {
   RegisterPhoneSchema,
   RegisterSchema,
   ForgotPasswordPhoneSchema,
-  RegisterTrialPackageSchema,
 } from "./auth.validator";
 import { authenticate } from "@/shared/middleware/auth.middleware";
 import { AUTH_TYPES } from "./auth.types";
@@ -95,12 +94,6 @@ export class AuthRouter {
       authenticate,
       zodValidate(UpdateInfoSchema, "body"),
       this.authController.updateInfo,
-    );
-    this.router.post(
-      "/register-trial-package",
-      authenticate,
-      zodValidate(RegisterTrialPackageSchema, "body"),
-      this.authController.registerTrialPackage,
     );
     this.router.get("/notification", authenticate, this.authController.getUserNotifications);
     this.router.put("/change-password", authenticate, this.authController.changePassword);

@@ -18,7 +18,7 @@ Dự án backend sử dụng Express.js, TypeORM, và kiến trúc module với 
 ```
 src/
 ├── config/           # Cấu hình ứng dụng
-├── database/         # Entities, migrations, seeders
+├── database/         # Entities, schema helpers, seeders
 ├── modules/          # Các module nghiệp vụ
 │   ├── auth/         # Module xác thực
 │   ├── user/         # Module người dùng
@@ -61,10 +61,10 @@ src/
    CREATE DATABASE backend_db;
    ```
 
-5. **Chạy migrations** (nếu có)
+5. **Đồng bộ schema từ entities**
 
    ```bash
-   npm run db:migrate
+   npm run db:sync
    ```
 
 6. **Seed dữ liệu ban đầu**
@@ -205,7 +205,7 @@ Cookie: access_token=<jwt_token>
 - `npm run dev` - Chạy ở mode development
 - `npm run build` - Build production
 - `npm start` - Chạy production build
-- `npm run db:migrate` - Chạy migrations
+- `npm run db:sync` - Đồng bộ schema từ entities
 - `npm run db:seed` - Seed dữ liệu
 
 ## 🗃️ Database Schema

@@ -21,9 +21,6 @@ export const CreateUserSchema = BaseCreateSchema.extend({
   name: z.string(),
   phone: z.string().trim().nullish(),
   email: z.string().trim().nullish(),
-  isLeader: z.boolean().optional(),
-  zalo: z.string().trim().nullish(),
-  messenger: z.string().trim().nullish(),
 });
 
 export const UpdateUserSchema = BaseUpdateSchema.extend({
@@ -35,18 +32,11 @@ export const UpdateUserSchema = BaseUpdateSchema.extend({
   dob: DateTransform.nullish(),
   phone: z.string().trim().nullish(),
   email: z.string().trim().nullish(),
-  isLeader: z.boolean().optional(),
-  zalo: z.string().trim().nullish(),
-  messenger: z.string().trim().nullish(),
 });
 
 export const UserQuerySchema = BaseQuerySchema.extend({
-  clubId: z.uuid().nullish(),
-  packetId: z.uuid().nullish(),
   code: z.string().trim().optional(),
-  onlyMember: zBooleanLike().optional(),
   isManager: zBooleanLike().optional(),
-  isLeader: zBooleanLike().optional(),
 });
 
 export const UserParamsSchema = BaseParamsSchema;

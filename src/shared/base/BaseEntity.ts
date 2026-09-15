@@ -4,9 +4,6 @@ export interface UserSnapshot {
   name: string;
   username: string;
   type: UserType;
-  isLeader: boolean;
-  zalo: string | null;
-  messenger: string | null;
 }
 
 import { UserType } from "@/database/models/User";

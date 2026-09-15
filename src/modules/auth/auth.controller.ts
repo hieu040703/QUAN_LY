@@ -168,7 +168,7 @@ export class AuthController {
         throw new UnauthorizedError("Không tìm thấy người dùng");
       }
 
-      const { user, permissions, clubPermissions, currentTarget, hasManager, registeredTrialPacket } =
+      const { user, permissions, hasManager } =
         await this.service.getCurrent(userId);
 
       const { password, ...userResponse } = user;
@@ -178,10 +178,7 @@ export class AuthController {
         data: {
           ...userResponse,
           permissions,
-          clubPermissions,
-          currentTarget,
           hasManager,
-          registeredTrialPacket,
         },
       });
     } catch (error: any) {
@@ -245,33 +242,6 @@ export class AuthController {
         res,
         message: "Failed to change user info",
         statusCode: 400,
-        errors: error.errors || [],
-      });
-    }
-  });
-
-  registerTrialPackage = asyncHandler(async (req: Request, res: Response, next: NextFunction) => {
-    try {
-      const userId = req.user?.userId;
-      if (!userId) {
-        throw new UnauthorizedError("Người dùng chưa đăng nhập");
-      }
-
-      const { clubId } = req.body;
-      const data = await this.service.registerTrialPackage(userId, clubId);
-
-      sendResponse({
-        res,
-        data,
-        message: "Đăng ký gói trải nghiệm thành công",
-        statusCode: 201,
-      });
-    } catch (error: any) {
-      logger.error("Error AuthController:[registerTrialPackage]:", error);
-      sendError({
-        res,
-        message: error.message || "Đăng ký gói trải nghiệm thất bại",
-        statusCode: error.statusCode || 400,
         errors: error.errors || [],
       });
     }
