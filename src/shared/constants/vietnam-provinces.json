@@ -1,0 +1,10169 @@
+﻿[
+  {
+    "Name": "Thành phố Hà Nội",
+    "Wards": [
+      {
+        "Name": "Xã Minh Châu"
+      },
+      {
+        "Name": "Xã Ngọc Hồi"
+      },
+      {
+        "Name": "Phường Tây Mỗ"
+      },
+      {
+        "Name": "Phường Phú Diễn"
+      },
+      {
+        "Name": "Phường Tây Tựu"
+      },
+      {
+        "Name": "Phường Thượng Cát"
+      },
+      {
+        "Name": "Phường Xuân Đỉnh"
+      },
+      {
+        "Name": "Phường Xuân Phương"
+      },
+      {
+        "Name": "Xã Đại Xuyên"
+      },
+      {
+        "Name": "Phường Phương Liệt"
+      },
+      {
+        "Name": "Phường Tùng Thiện"
+      },
+      {
+        "Name": "Xã Đoài Phương"
+      },
+      {
+        "Name": "Xã Gia Lâm"
+      },
+      {
+        "Name": "Xã Suối Hai"
+      },
+      {
+        "Name": "Xã Ba Vì"
+      },
+      {
+        "Name": "Xã Cổ Đô"
+      },
+      {
+        "Name": "Phường Hoàng Liệt"
+      },
+      {
+        "Name": "Phường Lĩnh Nam"
+      },
+      {
+        "Name": "Phường Tương Mai"
+      },
+      {
+        "Name": "Phường Thanh Liệt"
+      },
+      {
+        "Name": "Xã Đại Thanh"
+      },
+      {
+        "Name": "Xã Thường Tín"
+      },
+      {
+        "Name": "Xã Ô Diên"
+      },
+      {
+        "Name": "Xã Quảng Bị"
+      },
+      {
+        "Name": "Xã Trần Phú"
+      },
+      {
+        "Name": "Xã Liên Minh"
+      },
+      {
+        "Name": "Xã Thư Lâm"
+      },
+      {
+        "Name": "Xã Đông Anh"
+      },
+      {
+        "Name": "Xã Phú Xuyên"
+      },
+      {
+        "Name": "Xã Quảng Oai"
+      },
+      {
+        "Name": "Xã Dương Hòa"
+      },
+      {
+        "Name": "Xã Phúc Thịnh"
+      },
+      {
+        "Name": "Xã Vĩnh Thanh"
+      },
+      {
+        "Name": "Xã Thiên Lộc"
+      },
+      {
+        "Name": "Xã Quang Minh"
+      },
+      {
+        "Name": "Xã Hương Sơn"
+      },
+      {
+        "Name": "Xã Mê Linh"
+      },
+      {
+        "Name": "Xã Tiến Thắng"
+      },
+      {
+        "Name": "Xã Yên Lãng"
+      },
+      {
+        "Name": "Xã Mỹ Đức"
+      },
+      {
+        "Name": "Phường Định Công"
+      },
+      {
+        "Name": "Xã Bất Bạt"
+      },
+      {
+        "Name": "Xã Vật Lại"
+      },
+      {
+        "Name": "Xã Yên Bài"
+      },
+      {
+        "Name": "Phường Chương Mỹ"
+      },
+      {
+        "Name": "Xã Xuân Mai"
+      },
+      {
+        "Name": "Xã Phú Nghĩa"
+      },
+      {
+        "Name": "Xã Yên Xuân"
+      },
+      {
+        "Name": "Phường Phúc Lợi"
+      },
+      {
+        "Name": "Phường Việt Hưng"
+      },
+      {
+        "Name": "Xã Hòa Lạc"
+      },
+      {
+        "Name": "Xã Thanh Oai"
+      },
+      {
+        "Name": "Xã Bình Minh"
+      },
+      {
+        "Name": "Xã Dân Hòa"
+      },
+      {
+        "Name": "Phường Ba Đình"
+      },
+      {
+        "Name": "Phường Giảng Võ"
+      },
+      {
+        "Name": "Phường Ngọc Hà"
+      },
+      {
+        "Name": "Phường Cầu Giấy"
+      },
+      {
+        "Name": "Phường Nghĩa Đô"
+      },
+      {
+        "Name": "Xã Phù Đổng"
+      },
+      {
+        "Name": "Xã Hoài Đức"
+      },
+      {
+        "Name": "Xã An Khánh"
+      },
+      {
+        "Name": "Xã Phúc Sơn"
+      },
+      {
+        "Name": "Xã Sơn Đồng"
+      },
+      {
+        "Name": "Xã Chuyên Mỹ"
+      },
+      {
+        "Name": "Phường Vĩnh Tuy"
+      },
+      {
+        "Name": "Phường Hồng Hà"
+      },
+      {
+        "Name": "Phường Cửa Nam"
+      },
+      {
+        "Name": "Phường Yên Nghĩa"
+      },
+      {
+        "Name": "Xã Hồng Vân"
+      },
+      {
+        "Name": "Phường Vĩnh Hưng"
+      },
+      {
+        "Name": "Phường Bồ Đề"
+      },
+      {
+        "Name": "Xã Kiều Phú"
+      },
+      {
+        "Name": "Xã Phú Cát"
+      },
+      {
+        "Name": "Xã Sóc Sơn"
+      },
+      {
+        "Name": "Xã Kim Anh"
+      },
+      {
+        "Name": "Xã Nội Bài"
+      },
+      {
+        "Name": "Xã Trung Giã"
+      },
+      {
+        "Name": "Xã Quốc Oai"
+      },
+      {
+        "Name": "Phường Long Biên"
+      },
+      {
+        "Name": "Phường Khương Đình"
+      },
+      {
+        "Name": "Phường Phú Lương"
+      },
+      {
+        "Name": "Phường Dương Nội"
+      },
+      {
+        "Name": "Phường Kiến Hưng"
+      },
+      {
+        "Name": "Phường Hà Đông"
+      },
+      {
+        "Name": "Phường Hai Bà Trưng"
+      },
+      {
+        "Name": "Xã Thượng Phúc"
+      },
+      {
+        "Name": "Xã Thạch Thất"
+      },
+      {
+        "Name": "Xã Hạ Bằng"
+      },
+      {
+        "Name": "Xã Nam Phù"
+      },
+      {
+        "Name": "Xã Thanh Trì"
+      },
+      {
+        "Name": "Phường Đại Mỗ"
+      },
+      {
+        "Name": "Xã Vân Đình"
+      },
+      {
+        "Name": "Phường Yên Hòa"
+      },
+      {
+        "Name": "Phường Ô Chợ Dừa"
+      },
+      {
+        "Name": "Phường Kim Liên"
+      },
+      {
+        "Name": "Phường Láng"
+      },
+      {
+        "Name": "Phường Đống Đa"
+      },
+      {
+        "Name": "Phường Văn Miếu-Quốc Tử Giám"
+      },
+      {
+        "Name": "Phường Phú Thượng"
+      },
+      {
+        "Name": "Phường Hoàng Mai"
+      },
+      {
+        "Name": "Phường Từ Liêm"
+      },
+      {
+        "Name": "Phường Đông Ngạc"
+      },
+      {
+        "Name": "Xã Hòa Phú"
+      },
+      {
+        "Name": "Xã Tây Phương"
+      },
+      {
+        "Name": "Xã Hòa Xá"
+      },
+      {
+        "Name": "Xã Bát Tràng"
+      },
+      {
+        "Name": "Xã Thuận An"
+      },
+      {
+        "Name": "Phường Bạch Mai"
+      },
+      {
+        "Name": "Phường Thanh Xuân"
+      },
+      {
+        "Name": "Phường Sơn Tây"
+      },
+      {
+        "Name": "Xã Đan Phượng"
+      },
+      {
+        "Name": "Xã Chương Dương"
+      },
+      {
+        "Name": "Xã Phượng Dực"
+      },
+      {
+        "Name": "Xã Ứng Thiên"
+      },
+      {
+        "Name": "Xã Hồng Sơn"
+      },
+      {
+        "Name": "Xã Hưng Đạo"
+      },
+      {
+        "Name": "Xã Tam Hưng"
+      },
+      {
+        "Name": "Xã Ứng Hòa"
+      },
+      {
+        "Name": "Xã Hát Môn"
+      },
+      {
+        "Name": "Xã Phúc Thọ"
+      },
+      {
+        "Name": "Xã Đa Phúc"
+      },
+      {
+        "Name": "Xã Phúc Lộc"
+      },
+      {
+        "Name": "Phường Hoàn Kiếm"
+      },
+      {
+        "Name": "Phường Yên Sở"
+      },
+      {
+        "Name": "Phường Tây Hồ"
+      }
+    ],
+    "Plates": [29, 30, 31, 32, 33, 40]
+  },
+  {
+    "Name": "Thành phố Hồ Chí Minh",
+    "Wards": [
+      {
+        "Name": "Xã Thạnh An"
+      },
+      {
+        "Name": "Phường Xóm Chiếu"
+      },
+      {
+        "Name": "Phường Vĩnh Hội"
+      },
+      {
+        "Name": "Phường Khánh Hội"
+      },
+      {
+        "Name": "Xã Bình Chánh"
+      },
+      {
+        "Name": "Xã Vĩnh Lộc"
+      },
+      {
+        "Name": "Xã Tân Vĩnh Lộc"
+      },
+      {
+        "Name": "Xã An Thới Đông"
+      },
+      {
+        "Name": "Xã Bình Khánh"
+      },
+      {
+        "Name": "Phường Bàn Cờ"
+      },
+      {
+        "Name": "Phường Xuân Hòa"
+      },
+      {
+        "Name": "Phường Bình Đông"
+      },
+      {
+        "Name": "Phường Phú Thuận"
+      },
+      {
+        "Name": "Phường Tân Mỹ"
+      },
+      {
+        "Name": "Phường Phú Định"
+      },
+      {
+        "Name": "Phường Chánh Hưng"
+      },
+      {
+        "Name": "Phường Long Bình"
+      },
+      {
+        "Name": "Phường Tăng Nhơn Phú"
+      },
+      {
+        "Name": "Phường Bình Tân"
+      },
+      {
+        "Name": "Phường Bình Trị Đông"
+      },
+      {
+        "Name": "Xã Phú Giáo"
+      },
+      {
+        "Name": "Xã Bình Hưng"
+      },
+      {
+        "Name": "Xã Thường Tân"
+      },
+      {
+        "Name": "Phường Phú Nhuận"
+      },
+      {
+        "Name": "Phường Cầu Kiệu"
+      },
+      {
+        "Name": "Phường Tân Bình"
+      },
+      {
+        "Name": "Phường Phú Thạnh"
+      },
+      {
+        "Name": "Phường Tân Định"
+      },
+      {
+        "Name": "Phường Cầu Ông Lãnh"
+      },
+      {
+        "Name": "Phường Sài Gòn"
+      },
+      {
+        "Name": "Phường Bến Thành"
+      },
+      {
+        "Name": "Phường Diên Hồng"
+      },
+      {
+        "Name": "Phường Hòa Hưng"
+      },
+      {
+        "Name": "Phường Bình Thới"
+      },
+      {
+        "Name": "Phường Phú Thọ"
+      },
+      {
+        "Name": "Phường Bình Phú"
+      },
+      {
+        "Name": "Phường Tân Sơn Nhì"
+      },
+      {
+        "Name": "Phường Tây Thạnh"
+      },
+      {
+        "Name": "Phường Thủ Đức"
+      },
+      {
+        "Name": "Phường Hiệp Bình"
+      },
+      {
+        "Name": "Phường Linh Xuân"
+      },
+      {
+        "Name": "Phường Bình Trưng"
+      },
+      {
+        "Name": "Phường An Khánh"
+      },
+      {
+        "Name": "Phường Phú An"
+      },
+      {
+        "Name": "Phường Thuận Giao"
+      },
+      {
+        "Name": "Phường Bình Hòa"
+      },
+      {
+        "Name": "Phường Thủ Dầu Một"
+      },
+      {
+        "Name": "Phường Lái Thiêu"
+      },
+      {
+        "Name": "Phường An Phú"
+      },
+      {
+        "Name": "Phường Rạch Dừa"
+      },
+      {
+        "Name": "Xã Long Hòa"
+      },
+      {
+        "Name": "Xã Minh Thạnh"
+      },
+      {
+        "Name": "Phường Tân Tạo"
+      },
+      {
+        "Name": "Phường Long Nguyên"
+      },
+      {
+        "Name": "Xã Trừ Văn Thố"
+      },
+      {
+        "Name": "Phường Bến Cát"
+      },
+      {
+        "Name": "Xã Dầu Tiếng"
+      },
+      {
+        "Name": "Phường Tân Khánh"
+      },
+      {
+        "Name": "Phường Tân Uyên"
+      },
+      {
+        "Name": "Xã Phước Hòa"
+      },
+      {
+        "Name": "Phường Chánh Hiệp"
+      },
+      {
+        "Name": "Phường Thới Hòa"
+      },
+      {
+        "Name": "Phường Tây Nam"
+      },
+      {
+        "Name": "Xã Thanh An"
+      },
+      {
+        "Name": "Xã Tân Nhựt"
+      },
+      {
+        "Name": "Phường Dĩ An"
+      },
+      {
+        "Name": "Phường Tân Đông Hiệp"
+      },
+      {
+        "Name": "Phường Phú Lợi"
+      },
+      {
+        "Name": "Đặc Khu Côn Đảo"
+      },
+      {
+        "Name": "Xã Long Điền"
+      },
+      {
+        "Name": "Phường Bình Hưng Hòa"
+      },
+      {
+        "Name": "Phường Nhiêu Lộc"
+      },
+      {
+        "Name": "Phường Chợ Quán"
+      },
+      {
+        "Name": "Phường An Đông"
+      },
+      {
+        "Name": "Phường Chợ Lớn"
+      },
+      {
+        "Name": "Phường Bình Tiên"
+      },
+      {
+        "Name": "Phường Phú Lâm"
+      },
+      {
+        "Name": "Phường Tân Hưng"
+      },
+      {
+        "Name": "Phường Tân Thuận"
+      },
+      {
+        "Name": "Phường Vườn Lài"
+      },
+      {
+        "Name": "Phường Minh Phụng"
+      },
+      {
+        "Name": "Phường Hòa Bình"
+      },
+      {
+        "Name": "Phường Đông Hưng Thuận"
+      },
+      {
+        "Name": "Phường Trung Mỹ Tây"
+      },
+      {
+        "Name": "Phường Tân Thới Hiệp"
+      },
+      {
+        "Name": "Phường Thới An"
+      },
+      {
+        "Name": "Phường An Phú Đông"
+      },
+      {
+        "Name": "Phường Gia Định"
+      },
+      {
+        "Name": "Phường Bình Thạnh"
+      },
+      {
+        "Name": "Phường Bình Lợi Trung"
+      },
+      {
+        "Name": "Phường Thạnh Mỹ Tây"
+      },
+      {
+        "Name": "Phường Bình Quới"
+      },
+      {
+        "Name": "Phường An Lạc"
+      },
+      {
+        "Name": "Phường Hạnh Thông"
+      },
+      {
+        "Name": "Phường An Nhơn"
+      },
+      {
+        "Name": "Phường Gò Vấp"
+      },
+      {
+        "Name": "Phường Thông Tây Hội"
+      },
+      {
+        "Name": "Phường An Hội Tây"
+      },
+      {
+        "Name": "Phường An Hội Đông"
+      },
+      {
+        "Name": "Phường Đức Nhuận"
+      },
+      {
+        "Name": "Phường Tân Sơn Hòa"
+      },
+      {
+        "Name": "Phường Tân Sơn Nhất"
+      },
+      {
+        "Name": "Phường Tân Hòa"
+      },
+      {
+        "Name": "Phường Bảy Hiền"
+      },
+      {
+        "Name": "Xã Bình Lợi"
+      },
+      {
+        "Name": "Xã Hưng Long"
+      },
+      {
+        "Name": "Xã An Nhơn Tây"
+      },
+      {
+        "Name": "Xã Thái Mỹ"
+      },
+      {
+        "Name": "Xã Nhuận Đức"
+      },
+      {
+        "Name": "Xã Tân An Hội"
+      },
+      {
+        "Name": "Xã Củ Chi"
+      },
+      {
+        "Name": "Xã Phú Hòa Đông"
+      },
+      {
+        "Name": "Xã Bình Mỹ"
+      },
+      {
+        "Name": "Xã Cần Giờ"
+      },
+      {
+        "Name": "Xã Đông Thạnh"
+      },
+      {
+        "Name": "Xã Hóc Môn"
+      },
+      {
+        "Name": "Xã Xuân Thới Sơn"
+      },
+      {
+        "Name": "Xã Bà Điểm"
+      },
+      {
+        "Name": "Xã Nhà Bè"
+      },
+      {
+        "Name": "Xã Hiệp Phước"
+      },
+      {
+        "Name": "Phường Tam Bình"
+      },
+      {
+        "Name": "Phường Phước Long"
+      },
+      {
+        "Name": "Phường Long Phước"
+      },
+      {
+        "Name": "Phường Long Trường"
+      },
+      {
+        "Name": "Phường Cát Lái"
+      },
+      {
+        "Name": "Phường Bình Tây"
+      },
+      {
+        "Name": "Phường Tân Sơn"
+      },
+      {
+        "Name": "Phường Phú Thọ Hòa"
+      },
+      {
+        "Name": "Phường Tân Phú"
+      },
+      {
+        "Name": "Xã Bàu Bàng"
+      },
+      {
+        "Name": "Phường Tam Thắng"
+      },
+      {
+        "Name": "Phường Phước Thắng"
+      },
+      {
+        "Name": "Phường Bà Rịa"
+      },
+      {
+        "Name": "Phường Long Hương"
+      },
+      {
+        "Name": "Phường Tam Long"
+      },
+      {
+        "Name": "Phường Phú Mỹ"
+      },
+      {
+        "Name": "Phường Tân Thành"
+      },
+      {
+        "Name": "Phường Tân Phước"
+      },
+      {
+        "Name": "Phường Tân Hải"
+      },
+      {
+        "Name": "Xã Châu Pha"
+      },
+      {
+        "Name": "Xã Ngãi Giao"
+      },
+      {
+        "Name": "Xã Bình Giã"
+      },
+      {
+        "Name": "Xã Kim Long"
+      },
+      {
+        "Name": "Xã Châu Đức"
+      },
+      {
+        "Name": "Xã Xuân Sơn"
+      },
+      {
+        "Name": "Xã Nghĩa Thành"
+      },
+      {
+        "Name": "Xã Hồ Tràm"
+      },
+      {
+        "Name": "Xã Xuyên Mộc"
+      },
+      {
+        "Name": "Xã Hòa Hội"
+      },
+      {
+        "Name": "Xã Bàu Lâm"
+      },
+      {
+        "Name": "Xã Đất Đỏ"
+      },
+      {
+        "Name": "Xã Long Hải"
+      },
+      {
+        "Name": "Xã Phước Hải"
+      },
+      {
+        "Name": "Xã Long Sơn"
+      },
+      {
+        "Name": "Xã Hòa Hiệp"
+      },
+      {
+        "Name": "Xã Bình Châu"
+      },
+      {
+        "Name": "Phường Vũng Tàu"
+      },
+      {
+        "Name": "Phường Bình Cơ"
+      },
+      {
+        "Name": "Xã Bắc Tân Uyên"
+      },
+      {
+        "Name": "Xã An Long"
+      },
+      {
+        "Name": "Xã Phước Thành"
+      },
+      {
+        "Name": "Phường Bình Dương"
+      },
+      {
+        "Name": "Phường Tân Hiệp"
+      },
+      {
+        "Name": "Phường Hòa Lợi"
+      },
+      {
+        "Name": "Phường Chánh Phú Hòa"
+      },
+      {
+        "Name": "Phường Vĩnh Tân"
+      },
+      {
+        "Name": "Phường Đông Hòa"
+      },
+      {
+        "Name": "Phường Thuận An"
+      }
+    ],
+    "Plates": [41, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 61, 72]
+  },
+  {
+    "Name": "Thành phố Đà Nẵng",
+    "Wards": [
+      {
+        "Name": "Xã Tam Hải"
+      },
+      {
+        "Name": "Xã Núi Thành"
+      },
+      {
+        "Name": "Phường Hải Vân"
+      },
+      {
+        "Name": "Xã Thạnh Mỹ"
+      },
+      {
+        "Name": "Xã Tân Hiệp"
+      },
+      {
+        "Name": "Đặc Khu Hoàng Sa"
+      },
+      {
+        "Name": "Phường Quảng Phú"
+      },
+      {
+        "Name": "Phường Hương Trà"
+      },
+      {
+        "Name": "Phường Bàn Thạch"
+      },
+      {
+        "Name": "Xã Tây Hồ"
+      },
+      {
+        "Name": "Xã Chiên Đàn"
+      },
+      {
+        "Name": "Xã Phú Ninh"
+      },
+      {
+        "Name": "Xã Lãnh Ngọc"
+      },
+      {
+        "Name": "Xã Tiên Phước"
+      },
+      {
+        "Name": "Xã Thạnh Bình"
+      },
+      {
+        "Name": "Xã Sơn Cẩm Hà"
+      },
+      {
+        "Name": "Xã Trà Liên"
+      },
+      {
+        "Name": "Xã Trà Giáp"
+      },
+      {
+        "Name": "Xã Trà Tân"
+      },
+      {
+        "Name": "Xã Trà Đốc"
+      },
+      {
+        "Name": "Xã Trà My"
+      },
+      {
+        "Name": "Xã Nam Trà My"
+      },
+      {
+        "Name": "Xã Trà Tập"
+      },
+      {
+        "Name": "Xã Trà Vân"
+      },
+      {
+        "Name": "Xã Trà Linh"
+      },
+      {
+        "Name": "Xã Trà Leng"
+      },
+      {
+        "Name": "Xã Thăng Bình"
+      },
+      {
+        "Name": "Xã Thăng An"
+      },
+      {
+        "Name": "Xã Thăng Trường"
+      },
+      {
+        "Name": "Xã Thăng Điền"
+      },
+      {
+        "Name": "Xã Thăng Phú"
+      },
+      {
+        "Name": "Xã Đồng Dương"
+      },
+      {
+        "Name": "Xã Quế Sơn Trung"
+      },
+      {
+        "Name": "Xã Quế Sơn"
+      },
+      {
+        "Name": "Xã Xuân Phú"
+      },
+      {
+        "Name": "Xã Nông Sơn"
+      },
+      {
+        "Name": "Xã Quế Phước"
+      },
+      {
+        "Name": "Xã Duy Nghĩa"
+      },
+      {
+        "Name": "Xã Nam Phước"
+      },
+      {
+        "Name": "Xã Duy Xuyên"
+      },
+      {
+        "Name": "Xã Thu Bồn"
+      },
+      {
+        "Name": "Phường Điện Bàn"
+      },
+      {
+        "Name": "Phường Điện Bàn Đông"
+      },
+      {
+        "Name": "Phường An Thắng"
+      },
+      {
+        "Name": "Phường Điện Bàn Bắc"
+      },
+      {
+        "Name": "Xã Điện Bàn Tây"
+      },
+      {
+        "Name": "Xã Gò Nổi"
+      },
+      {
+        "Name": "Phường Hội An"
+      },
+      {
+        "Name": "Phường Hội An Đông"
+      },
+      {
+        "Name": "Phường Hội An Tây"
+      },
+      {
+        "Name": "Xã Đại Lộc"
+      },
+      {
+        "Name": "Xã Hà Nha"
+      },
+      {
+        "Name": "Xã Thượng Đức"
+      },
+      {
+        "Name": "Xã Vu Gia"
+      },
+      {
+        "Name": "Xã Phú Thuận"
+      },
+      {
+        "Name": "Xã Bến Giằng"
+      },
+      {
+        "Name": "Xã Nam Giang"
+      },
+      {
+        "Name": "Xã Đắc Pring"
+      },
+      {
+        "Name": "Xã La Dêê"
+      },
+      {
+        "Name": "Xã La Êê"
+      },
+      {
+        "Name": "Xã Sông Vàng"
+      },
+      {
+        "Name": "Xã Sông Kôn"
+      },
+      {
+        "Name": "Xã Đông Giang"
+      },
+      {
+        "Name": "Xã Bến Hiên"
+      },
+      {
+        "Name": "Xã Avương"
+      },
+      {
+        "Name": "Xã Tây Giang"
+      },
+      {
+        "Name": "Xã Hùng Sơn"
+      },
+      {
+        "Name": "Xã Hiệp Đức"
+      },
+      {
+        "Name": "Xã Việt An"
+      },
+      {
+        "Name": "Xã Phước Trà"
+      },
+      {
+        "Name": "Xã Khâm Đức"
+      },
+      {
+        "Name": "Xã Phước Năng"
+      },
+      {
+        "Name": "Xã Phước Chánh"
+      },
+      {
+        "Name": "Xã Phước Thành"
+      },
+      {
+        "Name": "Xã Phước Hiệp"
+      },
+      {
+        "Name": "Phường Hải Châu"
+      },
+      {
+        "Name": "Phường Hòa Cường"
+      },
+      {
+        "Name": "Phường Thanh Khê"
+      },
+      {
+        "Name": "Phường An Khê"
+      },
+      {
+        "Name": "Phường An Hải"
+      },
+      {
+        "Name": "Phường Sơn Trà"
+      },
+      {
+        "Name": "Phường Ngũ Hành Sơn"
+      },
+      {
+        "Name": "Phường Hòa Khánh"
+      },
+      {
+        "Name": "Phường Liên Chiểu"
+      },
+      {
+        "Name": "Phường Cẩm Lệ"
+      },
+      {
+        "Name": "Phường Hòa Xuân"
+      },
+      {
+        "Name": "Xã Hòa Vang"
+      },
+      {
+        "Name": "Xã Hòa Tiến"
+      },
+      {
+        "Name": "Xã Bà Nà"
+      },
+      {
+        "Name": "Xã Tam Mỹ"
+      },
+      {
+        "Name": "Xã Tam Anh"
+      },
+      {
+        "Name": "Xã Đức Phú"
+      },
+      {
+        "Name": "Xã Tam Xuân"
+      },
+      {
+        "Name": "Phường Tam Kỳ"
+      }
+    ],
+    "Plates": [43, 92]
+  },
+  {
+    "Name": "Thành phố Hải Phòng",
+    "Wards": [
+      {
+        "Name": "Xã Mao Điền"
+      },
+      {
+        "Name": "Phường Việt Hòa"
+      },
+      {
+        "Name": "Xã Cẩm Giàng"
+      },
+      {
+        "Name": "Phường Tân Hưng"
+      },
+      {
+        "Name": "Phường Ái Quốc"
+      },
+      {
+        "Name": "Xã An Khánh"
+      },
+      {
+        "Name": "Xã Tân Minh"
+      },
+      {
+        "Name": "Phường Hải An"
+      },
+      {
+        "Name": "Phường Nam Đồ Sơn"
+      },
+      {
+        "Name": "Phường Dương Kinh"
+      },
+      {
+        "Name": "Phường Đông Hải"
+      },
+      {
+        "Name": "Xã Đường An"
+      },
+      {
+        "Name": "Xã Thượng Hồng"
+      },
+      {
+        "Name": "Xã Bình Giang"
+      },
+      {
+        "Name": "Xã Gia Phúc"
+      },
+      {
+        "Name": "Xã An Lão"
+      },
+      {
+        "Name": "Xã Kiến Hải"
+      },
+      {
+        "Name": "Phường Kiến An"
+      },
+      {
+        "Name": "Phường Phù Liễn"
+      },
+      {
+        "Name": "Phường An Biên"
+      },
+      {
+        "Name": "Xã Quyết Thắng"
+      },
+      {
+        "Name": "Xã Tiên Minh"
+      },
+      {
+        "Name": "Phường Trần Liễu"
+      },
+      {
+        "Name": "Phường Lê Thanh Nghị"
+      },
+      {
+        "Name": "Phường Thạch Khôi"
+      },
+      {
+        "Name": "Xã Tân Kỳ"
+      },
+      {
+        "Name": "Xã Nguyên Giáp"
+      },
+      {
+        "Name": "Xã Nam An Phụ"
+      },
+      {
+        "Name": "Phường Bắc An Phụ"
+      },
+      {
+        "Name": "Xã Hà Nam"
+      },
+      {
+        "Name": "Xã Hà Tây"
+      },
+      {
+        "Name": "Xã Nguyễn Lương Bằng"
+      },
+      {
+        "Name": "Xã Lạc Phượng"
+      },
+      {
+        "Name": "Phường Trần Nhân Tông"
+      },
+      {
+        "Name": "Phường Trần Hưng Đạo"
+      },
+      {
+        "Name": "Xã Đại Sơn"
+      },
+      {
+        "Name": "Đặc Khu Bạch Long Vĩ"
+      },
+      {
+        "Name": "Phường An Hải"
+      },
+      {
+        "Name": "Xã Kiến Hưng"
+      },
+      {
+        "Name": "Phường Gia Viên"
+      },
+      {
+        "Name": "Xã Vĩnh Am"
+      },
+      {
+        "Name": "Xã Trường Tân"
+      },
+      {
+        "Name": "Phường Hồng An"
+      },
+      {
+        "Name": "Phường An Phong"
+      },
+      {
+        "Name": "Xã Kim Thành"
+      },
+      {
+        "Name": "Phường Thiên Hương"
+      },
+      {
+        "Name": "Phường Lưu Kiếm"
+      },
+      {
+        "Name": "Phường Hòa Bình"
+      },
+      {
+        "Name": "Phường Nam Triệu"
+      },
+      {
+        "Name": "Xã Việt Khê"
+      },
+      {
+        "Name": "Phường Lê Ích Mộc"
+      },
+      {
+        "Name": "Xã An Phú"
+      },
+      {
+        "Name": "Xã Hà Bắc"
+      },
+      {
+        "Name": "Xã Lai Khê"
+      },
+      {
+        "Name": "Xã An Hưng"
+      },
+      {
+        "Name": "Xã An Quang"
+      },
+      {
+        "Name": "Xã An Trường"
+      },
+      {
+        "Name": "Xã Kiến Minh"
+      },
+      {
+        "Name": "Xã Nghi Dương"
+      },
+      {
+        "Name": "Xã Tiên Lãng"
+      },
+      {
+        "Name": "Xã Chấn Hưng"
+      },
+      {
+        "Name": "Xã Hùng Thắng"
+      },
+      {
+        "Name": "Xã Vĩnh Bảo"
+      },
+      {
+        "Name": "Xã Nguyễn Bỉnh Khiêm"
+      },
+      {
+        "Name": "Xã Vĩnh Hải"
+      },
+      {
+        "Name": "Xã Vĩnh Hòa"
+      },
+      {
+        "Name": "Xã Vĩnh Thịnh"
+      },
+      {
+        "Name": "Xã Vĩnh Thuận"
+      },
+      {
+        "Name": "Phường Bạch Đằng"
+      },
+      {
+        "Name": "Phường Hải Dương"
+      },
+      {
+        "Name": "Phường Thành Đông"
+      },
+      {
+        "Name": "Phường Nam Đồng"
+      },
+      {
+        "Name": "Phường Chí Linh"
+      },
+      {
+        "Name": "Phường Nguyễn Trãi"
+      },
+      {
+        "Name": "Phường Lê Đại Hành"
+      },
+      {
+        "Name": "Phường Kinh Môn"
+      },
+      {
+        "Name": "Phường Nguyễn Đại Năng"
+      },
+      {
+        "Name": "Phường Phạm Sư Mạnh"
+      },
+      {
+        "Name": "Phường Nhị Chiểu"
+      },
+      {
+        "Name": "Xã Nam Sách"
+      },
+      {
+        "Name": "Xã Thái Tân"
+      },
+      {
+        "Name": "Xã Trần Phú"
+      },
+      {
+        "Name": "Xã Hợp Tiến"
+      },
+      {
+        "Name": "Xã Thanh Hà"
+      },
+      {
+        "Name": "Xã Hà Đông"
+      },
+      {
+        "Name": "Xã Cẩm Giang"
+      },
+      {
+        "Name": "Xã Tuệ Tĩnh"
+      },
+      {
+        "Name": "Xã Tứ Kỳ"
+      },
+      {
+        "Name": "Xã Chí Minh"
+      },
+      {
+        "Name": "Xã Ninh Giang"
+      },
+      {
+        "Name": "Xã Vĩnh Lại"
+      },
+      {
+        "Name": "Xã Khúc Thừa Dụ"
+      },
+      {
+        "Name": "Xã Tân An"
+      },
+      {
+        "Name": "Xã Hồng Châu"
+      },
+      {
+        "Name": "Xã Thanh Miện"
+      },
+      {
+        "Name": "Xã Bắc Thanh Miện"
+      },
+      {
+        "Name": "Xã Hải Hưng"
+      },
+      {
+        "Name": "Xã Nam Thanh Miện"
+      },
+      {
+        "Name": "Xã An Thành"
+      },
+      {
+        "Name": "Đặc Khu Cát Hải"
+      },
+      {
+        "Name": "Xã Kiến Thụy"
+      },
+      {
+        "Name": "Phường Thủy Nguyên"
+      },
+      {
+        "Name": "Phường Hồng Bàng"
+      },
+      {
+        "Name": "Phường Ngô Quyền"
+      },
+      {
+        "Name": "Phường Lê Chân"
+      },
+      {
+        "Name": "Phường Đồ Sơn"
+      },
+      {
+        "Name": "Phường Hưng Đạo"
+      },
+      {
+        "Name": "Phường An Dương"
+      },
+      {
+        "Name": "Phường Tứ Minh"
+      },
+      {
+        "Name": "Phường Chu Văn An"
+      },
+      {
+        "Name": "Xã Kẻ Sặt"
+      },
+      {
+        "Name": "Xã Gia Lộc"
+      },
+      {
+        "Name": "Xã Yết Kiêu"
+      },
+      {
+        "Name": "Xã Phú Thái"
+      }
+    ],
+    "Plates": [15, 16, 34]
+  },
+  {
+    "Name": "Thành phố Cần Thơ",
+    "Wards": [
+      {
+        "Name": "Xã Phong Nẫm"
+      },
+      {
+        "Name": "Xã Lai Hòa"
+      },
+      {
+        "Name": "Xã Vĩnh Hải"
+      },
+      {
+        "Name": "Xã Mỹ Phước"
+      },
+      {
+        "Name": "Xã Thạnh Phú"
+      },
+      {
+        "Name": "Xã Thới Hưng"
+      },
+      {
+        "Name": "Xã Trường Long"
+      },
+      {
+        "Name": "Phường Long Tuyền"
+      },
+      {
+        "Name": "Phường Cái Khế"
+      },
+      {
+        "Name": "Phường An Bình"
+      },
+      {
+        "Name": "Phường Tân Lộc"
+      },
+      {
+        "Name": "Phường Ninh Kiều"
+      },
+      {
+        "Name": "Phường Tân An"
+      },
+      {
+        "Name": "Phường Thới An Đông"
+      },
+      {
+        "Name": "Phường Cái Răng"
+      },
+      {
+        "Name": "Phường Hưng Phú"
+      },
+      {
+        "Name": "Phường Ô Môn"
+      },
+      {
+        "Name": "Phường Thới Long"
+      },
+      {
+        "Name": "Phường Phước Thới"
+      },
+      {
+        "Name": "Phường Trung Nhứt"
+      },
+      {
+        "Name": "Xã Phong Điền"
+      },
+      {
+        "Name": "Xã Nhơn Ái"
+      },
+      {
+        "Name": "Xã Thới Lai"
+      },
+      {
+        "Name": "Xã Đông Thuận"
+      },
+      {
+        "Name": "Xã Trường Xuân"
+      },
+      {
+        "Name": "Xã Trường Thành"
+      },
+      {
+        "Name": "Xã Cờ Đỏ"
+      },
+      {
+        "Name": "Xã Đông Hiệp"
+      },
+      {
+        "Name": "Xã Trung Hưng"
+      },
+      {
+        "Name": "Xã Vĩnh Thạnh"
+      },
+      {
+        "Name": "Xã Vĩnh Trinh"
+      },
+      {
+        "Name": "Xã Thạnh An"
+      },
+      {
+        "Name": "Xã Thạnh Quới"
+      },
+      {
+        "Name": "Phường Vị Thanh"
+      },
+      {
+        "Name": "Phường Vị Tân"
+      },
+      {
+        "Name": "Xã Hỏa Lựu"
+      },
+      {
+        "Name": "Xã Vị Thủy"
+      },
+      {
+        "Name": "Xã Vĩnh Thuận Đông"
+      },
+      {
+        "Name": "Xã Vị Thanh 1"
+      },
+      {
+        "Name": "Xã Vĩnh Tường"
+      },
+      {
+        "Name": "Xã Vĩnh Viễn"
+      },
+      {
+        "Name": "Xã Xà Phiên"
+      },
+      {
+        "Name": "Xã Lương Tâm"
+      },
+      {
+        "Name": "Phường Long Bình"
+      },
+      {
+        "Name": "Phường Long Mỹ"
+      },
+      {
+        "Name": "Phường Long Phú 1"
+      },
+      {
+        "Name": "Xã Thạnh Xuân"
+      },
+      {
+        "Name": "Xã Tân Hòa"
+      },
+      {
+        "Name": "Xã Trường Long Tây"
+      },
+      {
+        "Name": "Xã Châu Thành"
+      },
+      {
+        "Name": "Xã Đông Phước"
+      },
+      {
+        "Name": "Xã Phú Hữu"
+      },
+      {
+        "Name": "Phường Đại Thành"
+      },
+      {
+        "Name": "Phường Ngã Bảy"
+      },
+      {
+        "Name": "Xã Tân Bình"
+      },
+      {
+        "Name": "Xã Hòa An"
+      },
+      {
+        "Name": "Xã Phương Bình"
+      },
+      {
+        "Name": "Xã Tân Phước Hưng"
+      },
+      {
+        "Name": "Xã Hiệp Hưng"
+      },
+      {
+        "Name": "Xã Phụng Hiệp"
+      },
+      {
+        "Name": "Xã Thạnh Hòa"
+      },
+      {
+        "Name": "Phường Bình Thủy"
+      },
+      {
+        "Name": "Phường Thốt Nốt"
+      },
+      {
+        "Name": "Phường Thuận Hưng"
+      },
+      {
+        "Name": "Xã Phú Tâm"
+      },
+      {
+        "Name": "Xã An Ninh"
+      },
+      {
+        "Name": "Xã Thuận Hòa"
+      },
+      {
+        "Name": "Xã Hồ Đắc Kiện"
+      },
+      {
+        "Name": "Xã Mỹ Tú"
+      },
+      {
+        "Name": "Xã Long Hưng"
+      },
+      {
+        "Name": "Xã Mỹ Hương"
+      },
+      {
+        "Name": "Phường Vĩnh Phước"
+      },
+      {
+        "Name": "Phường Vĩnh Châu"
+      },
+      {
+        "Name": "Phường Khánh Hòa"
+      },
+      {
+        "Name": "Phường Ngã Năm"
+      },
+      {
+        "Name": "Phường Mỹ Quới"
+      },
+      {
+        "Name": "Xã Tân Long"
+      },
+      {
+        "Name": "Xã Phú Lộc"
+      },
+      {
+        "Name": "Xã Vĩnh Lợi"
+      },
+      {
+        "Name": "Xã Lâm Tân"
+      },
+      {
+        "Name": "Xã Thạnh Thới An"
+      },
+      {
+        "Name": "Xã Tài Văn"
+      },
+      {
+        "Name": "Xã Liêu Tú"
+      },
+      {
+        "Name": "Xã Lịch Hội Thượng"
+      },
+      {
+        "Name": "Xã Trần Đề"
+      },
+      {
+        "Name": "Xã An Thạnh"
+      },
+      {
+        "Name": "Xã Cù Lao Dung"
+      },
+      {
+        "Name": "Xã Đại Ngãi"
+      },
+      {
+        "Name": "Xã Tân Thạnh"
+      },
+      {
+        "Name": "Xã Long Phú"
+      },
+      {
+        "Name": "Xã Nhơn Mỹ"
+      },
+      {
+        "Name": "Phường Phú Lợi"
+      },
+      {
+        "Name": "Phường Sóc Trăng"
+      },
+      {
+        "Name": "Phường Mỹ Xuyên"
+      },
+      {
+        "Name": "Xã Hòa Tú"
+      },
+      {
+        "Name": "Xã Gia Hòa"
+      },
+      {
+        "Name": "Xã Nhu Gia"
+      },
+      {
+        "Name": "Xã Ngọc Tố"
+      },
+      {
+        "Name": "Xã Trường Khánh"
+      },
+      {
+        "Name": "Xã An Lạc Thôn"
+      },
+      {
+        "Name": "Xã Kế Sách"
+      },
+      {
+        "Name": "Xã Thới An Hội"
+      },
+      {
+        "Name": "Xã Đại Hải"
+      }
+    ],
+    "Plates": [65, 83, 95]
+  },
+  {
+    "Name": "Thành phố Huế",
+    "Wards": [
+      {
+        "Name": "Phường Dương Nỗ"
+      },
+      {
+        "Name": "Phường Phong Điền"
+      },
+      {
+        "Name": "Phường Phong Thái"
+      },
+      {
+        "Name": "Phường Phong Dinh"
+      },
+      {
+        "Name": "Phường Phong Phú"
+      },
+      {
+        "Name": "Phường Phong Quảng"
+      },
+      {
+        "Name": "Xã Đan Điền"
+      },
+      {
+        "Name": "Xã Quảng Điền"
+      },
+      {
+        "Name": "Phường Hương Trà"
+      },
+      {
+        "Name": "Phường Kim Trà"
+      },
+      {
+        "Name": "Xã Bình Điền"
+      },
+      {
+        "Name": "Phường Kim Long"
+      },
+      {
+        "Name": "Phường Hương An"
+      },
+      {
+        "Name": "Phường Phú Xuân"
+      },
+      {
+        "Name": "Phường Thuận An"
+      },
+      {
+        "Name": "Phường Hóa Châu"
+      },
+      {
+        "Name": "Phường Mỹ Thượng"
+      },
+      {
+        "Name": "Phường Vỹ Dạ"
+      },
+      {
+        "Name": "Phường Thuận Hóa"
+      },
+      {
+        "Name": "Phường An Cựu"
+      },
+      {
+        "Name": "Phường Thủy Xuân"
+      },
+      {
+        "Name": "Xã Phú Vinh"
+      },
+      {
+        "Name": "Xã Phú Hồ"
+      },
+      {
+        "Name": "Xã Phú Vang"
+      },
+      {
+        "Name": "Phường Thanh Thủy"
+      },
+      {
+        "Name": "Phường Hương Thủy"
+      },
+      {
+        "Name": "Phường Phú Bài"
+      },
+      {
+        "Name": "Xã Vinh Lộc"
+      },
+      {
+        "Name": "Xã Hưng Lộc"
+      },
+      {
+        "Name": "Xã Lộc An"
+      },
+      {
+        "Name": "Xã Phú Lộc"
+      },
+      {
+        "Name": "Xã Chân Mây-Lăng Cô"
+      },
+      {
+        "Name": "Xã Long Quảng"
+      },
+      {
+        "Name": "Xã Nam Đông"
+      },
+      {
+        "Name": "Xã Khe Tre"
+      },
+      {
+        "Name": "Xã A Lưới 1"
+      },
+      {
+        "Name": "Xã A Lưới 2"
+      },
+      {
+        "Name": "Xã A Lưới 3"
+      },
+      {
+        "Name": "Xã A Lưới 4"
+      },
+      {
+        "Name": "Xã A Lưới 5"
+      }
+    ],
+    "Plates": [75]
+  },
+  {
+    "Name": "Tỉnh An Giang",
+    "Wards": [
+      {
+        "Name": "Xã Hòn Nghệ"
+      },
+      {
+        "Name": "Xã Sơn Hải"
+      },
+      {
+        "Name": "Xã Hòa Điền"
+      },
+      {
+        "Name": "Phường Vĩnh Thông"
+      },
+      {
+        "Name": "Phường Vĩnh Tế"
+      },
+      {
+        "Name": "Phường Châu Đốc"
+      },
+      {
+        "Name": "Xã An Phú"
+      },
+      {
+        "Name": "Xã Bình Giang"
+      },
+      {
+        "Name": "Xã Bình Sơn"
+      },
+      {
+        "Name": "Xã Mỹ Hòa Hưng"
+      },
+      {
+        "Name": "Xã Nhơn Hội"
+      },
+      {
+        "Name": "Xã Phú Hữu"
+      },
+      {
+        "Name": "Xã Tiên Hải"
+      },
+      {
+        "Name": "Phường Long Xuyên"
+      },
+      {
+        "Name": "Phường Bình Đức"
+      },
+      {
+        "Name": "Phường Mỹ Thới"
+      },
+      {
+        "Name": "Xã Vĩnh Hậu"
+      },
+      {
+        "Name": "Xã Khánh Bình"
+      },
+      {
+        "Name": "Phường Tân Châu"
+      },
+      {
+        "Name": "Phường Long Phú"
+      },
+      {
+        "Name": "Xã Tân An"
+      },
+      {
+        "Name": "Xã Châu Phong"
+      },
+      {
+        "Name": "Xã Vĩnh Xương"
+      },
+      {
+        "Name": "Xã Phú Tân"
+      },
+      {
+        "Name": "Xã Phú An"
+      },
+      {
+        "Name": "Xã Bình Thạnh Đông"
+      },
+      {
+        "Name": "Xã Chợ Vàm"
+      },
+      {
+        "Name": "Xã Hòa Lạc"
+      },
+      {
+        "Name": "Xã Phú Lâm"
+      },
+      {
+        "Name": "Xã Mỹ Đức"
+      },
+      {
+        "Name": "Xã Vĩnh Thạnh Trung"
+      },
+      {
+        "Name": "Xã Châu Phú"
+      },
+      {
+        "Name": "Xã Bình Mỹ"
+      },
+      {
+        "Name": "Xã Thạnh Mỹ Tây"
+      },
+      {
+        "Name": "Phường Thới Sơn"
+      },
+      {
+        "Name": "Phường Tịnh Biên"
+      },
+      {
+        "Name": "Xã An Cư"
+      },
+      {
+        "Name": "Phường Chi Lăng"
+      },
+      {
+        "Name": "Xã Núi Cấm"
+      },
+      {
+        "Name": "Xã Ba Chúc"
+      },
+      {
+        "Name": "Xã Tri Tôn"
+      },
+      {
+        "Name": "Xã Ô Lâm"
+      },
+      {
+        "Name": "Xã Cô Tô"
+      },
+      {
+        "Name": "Xã Vĩnh Gia"
+      },
+      {
+        "Name": "Xã An Châu"
+      },
+      {
+        "Name": "Xã Bình Hòa"
+      },
+      {
+        "Name": "Xã Cần Đăng"
+      },
+      {
+        "Name": "Xã Vĩnh Hanh"
+      },
+      {
+        "Name": "Xã Vĩnh An"
+      },
+      {
+        "Name": "Xã Cù Lao Giêng"
+      },
+      {
+        "Name": "Xã Hội An"
+      },
+      {
+        "Name": "Xã Long Điền"
+      },
+      {
+        "Name": "Xã Chợ Mới"
+      },
+      {
+        "Name": "Xã Nhơn Mỹ"
+      },
+      {
+        "Name": "Xã Long Kiến"
+      },
+      {
+        "Name": "Xã Thoại Sơn"
+      },
+      {
+        "Name": "Xã Óc Eo"
+      },
+      {
+        "Name": "Xã Định Mỹ"
+      },
+      {
+        "Name": "Xã Phú Hòa"
+      },
+      {
+        "Name": "Xã Vĩnh Trạch"
+      },
+      {
+        "Name": "Xã Tây Phú"
+      },
+      {
+        "Name": "Đặc Khu Thổ Châu"
+      },
+      {
+        "Name": "Phường Rạch Giá"
+      },
+      {
+        "Name": "Phường Hà Tiên"
+      },
+      {
+        "Name": "Phường Tô Châu"
+      },
+      {
+        "Name": "Xã Giang Thành"
+      },
+      {
+        "Name": "Xã Vĩnh Điều"
+      },
+      {
+        "Name": "Xã Hòn Đất"
+      },
+      {
+        "Name": "Xã Sơn Kiên"
+      },
+      {
+        "Name": "Xã Mỹ Thuận"
+      },
+      {
+        "Name": "Xã Thạnh Lộc"
+      },
+      {
+        "Name": "Xã Châu Thành"
+      },
+      {
+        "Name": "Xã Bình An"
+      },
+      {
+        "Name": "Xã Tân Hội"
+      },
+      {
+        "Name": "Xã Tân Hiệp"
+      },
+      {
+        "Name": "Xã Thạnh Đông"
+      },
+      {
+        "Name": "Xã Giồng Riềng"
+      },
+      {
+        "Name": "Xã Thạnh Hưng"
+      },
+      {
+        "Name": "Xã Long Thạnh"
+      },
+      {
+        "Name": "Xã Hòa Hưng"
+      },
+      {
+        "Name": "Xã Ngọc Chúc"
+      },
+      {
+        "Name": "Xã Hòa Thuận"
+      },
+      {
+        "Name": "Xã Định Hòa"
+      },
+      {
+        "Name": "Xã Gò Quao"
+      },
+      {
+        "Name": "Xã Vĩnh Hòa Hưng"
+      },
+      {
+        "Name": "Xã Vĩnh Tuy"
+      },
+      {
+        "Name": "Xã Tây Yên"
+      },
+      {
+        "Name": "Xã Đông Thái"
+      },
+      {
+        "Name": "Xã An Biên"
+      },
+      {
+        "Name": "Xã Đông Hòa"
+      },
+      {
+        "Name": "Xã Tân Thạnh"
+      },
+      {
+        "Name": "Xã Đông Hưng"
+      },
+      {
+        "Name": "Xã An Minh"
+      },
+      {
+        "Name": "Xã Vân Khánh"
+      },
+      {
+        "Name": "Xã Vĩnh Hòa"
+      },
+      {
+        "Name": "Xã U Minh Thượng"
+      },
+      {
+        "Name": "Xã Vĩnh Bình"
+      },
+      {
+        "Name": "Xã Vĩnh Thuận"
+      },
+      {
+        "Name": "Xã Vĩnh Phong"
+      },
+      {
+        "Name": "Đặc Khu Phú Quốc"
+      },
+      {
+        "Name": "Đặc Khu Kiên Hải"
+      },
+      {
+        "Name": "Xã Kiên Lương"
+      }
+    ],
+    "Plates": [68, 67]
+  },
+  {
+    "Name": "Tỉnh Bắc Ninh",
+    "Wards": [
+      {
+        "Name": "Xã Sa Lý"
+      },
+      {
+        "Name": "Xã Biên Sơn"
+      },
+      {
+        "Name": "Xã Tuấn Đạo"
+      },
+      {
+        "Name": "Phường Kinh Bắc"
+      },
+      {
+        "Name": "Phường Võ Cường"
+      },
+      {
+        "Name": "Phường Vũ Ninh"
+      },
+      {
+        "Name": "Phường Hạp Lĩnh"
+      },
+      {
+        "Name": "Phường Nam Sơn"
+      },
+      {
+        "Name": "Phường Từ Sơn"
+      },
+      {
+        "Name": "Phường Tam Sơn"
+      },
+      {
+        "Name": "Phường Đồng Nguyên"
+      },
+      {
+        "Name": "Phường Phù Khê"
+      },
+      {
+        "Name": "Phường Thuận Thành"
+      },
+      {
+        "Name": "Phường Mão Điền"
+      },
+      {
+        "Name": "Phường Trạm Lộ"
+      },
+      {
+        "Name": "Phường Trí Quả"
+      },
+      {
+        "Name": "Phường Song Liễu"
+      },
+      {
+        "Name": "Phường Ninh Xá"
+      },
+      {
+        "Name": "Phường Quế Võ"
+      },
+      {
+        "Name": "Phường Phương Liễu"
+      },
+      {
+        "Name": "Phường Nhân Hòa"
+      },
+      {
+        "Name": "Phường Đào Viên"
+      },
+      {
+        "Name": "Phường Bồng Lai"
+      },
+      {
+        "Name": "Xã Chi Lăng"
+      },
+      {
+        "Name": "Xã Phù Lãng"
+      },
+      {
+        "Name": "Xã Yên Phong"
+      },
+      {
+        "Name": "Xã Văn Môn"
+      },
+      {
+        "Name": "Xã Tam Giang"
+      },
+      {
+        "Name": "Xã Yên Trung"
+      },
+      {
+        "Name": "Xã Tam Đa"
+      },
+      {
+        "Name": "Xã Tiên Du"
+      },
+      {
+        "Name": "Xã Liên Bão"
+      },
+      {
+        "Name": "Xã Tân Chi"
+      },
+      {
+        "Name": "Xã Đại Đồng"
+      },
+      {
+        "Name": "Xã Phật Tích"
+      },
+      {
+        "Name": "Xã Gia Bình"
+      },
+      {
+        "Name": "Xã Nhân Thắng"
+      },
+      {
+        "Name": "Xã Đại Lai"
+      },
+      {
+        "Name": "Xã Cao Đức"
+      },
+      {
+        "Name": "Xã Đông Cứu"
+      },
+      {
+        "Name": "Xã Lương Tài"
+      },
+      {
+        "Name": "Xã Lâm Thao"
+      },
+      {
+        "Name": "Xã Trung Chính"
+      },
+      {
+        "Name": "Xã Trung Kênh"
+      },
+      {
+        "Name": "Xã Đồng Kỳ"
+      },
+      {
+        "Name": "Xã Đại Sơn"
+      },
+      {
+        "Name": "Xã Sơn Động"
+      },
+      {
+        "Name": "Xã Tây Yên Tử"
+      },
+      {
+        "Name": "Xã Dương Hưu"
+      },
+      {
+        "Name": "Xã Yên Định"
+      },
+      {
+        "Name": "Xã An Lạc"
+      },
+      {
+        "Name": "Xã Vân Sơn"
+      },
+      {
+        "Name": "Xã Biển Động"
+      },
+      {
+        "Name": "Xã Lục Ngạn"
+      },
+      {
+        "Name": "Xã Đèo Gia"
+      },
+      {
+        "Name": "Xã Sơn Hải"
+      },
+      {
+        "Name": "Xã Tân Sơn"
+      },
+      {
+        "Name": "Xã Nam Dương"
+      },
+      {
+        "Name": "Xã Kiên Lao"
+      },
+      {
+        "Name": "Phường Chũ"
+      },
+      {
+        "Name": "Phường Phượng Sơn"
+      },
+      {
+        "Name": "Xã Lục Sơn"
+      },
+      {
+        "Name": "Xã Trường Sơn"
+      },
+      {
+        "Name": "Xã Cẩm Lý"
+      },
+      {
+        "Name": "Xã Đông Phú"
+      },
+      {
+        "Name": "Xã Nghĩa Phương"
+      },
+      {
+        "Name": "Xã Lục Nam"
+      },
+      {
+        "Name": "Xã Bắc Lũng"
+      },
+      {
+        "Name": "Xã Bảo Đài"
+      },
+      {
+        "Name": "Xã Lạng Giang"
+      },
+      {
+        "Name": "Xã Mỹ Thái"
+      },
+      {
+        "Name": "Xã Kép"
+      },
+      {
+        "Name": "Xã Tân Dĩnh"
+      },
+      {
+        "Name": "Xã Tiên Lục"
+      },
+      {
+        "Name": "Xã Yên Thế"
+      },
+      {
+        "Name": "Xã Bố Hạ"
+      },
+      {
+        "Name": "Xã Xuân Lương"
+      },
+      {
+        "Name": "Xã Tam Tiến"
+      },
+      {
+        "Name": "Xã Tân Yên"
+      },
+      {
+        "Name": "Xã Ngọc Thiện"
+      },
+      {
+        "Name": "Xã Nhã Nam"
+      },
+      {
+        "Name": "Xã Phúc Hòa"
+      },
+      {
+        "Name": "Xã Quang Trung"
+      },
+      {
+        "Name": "Xã Hợp Thịnh"
+      },
+      {
+        "Name": "Xã Hiệp Hòa"
+      },
+      {
+        "Name": "Xã Hoàng Vân"
+      },
+      {
+        "Name": "Xã Xuân Cẩm"
+      },
+      {
+        "Name": "Phường Tự Lạn"
+      },
+      {
+        "Name": "Phường Việt Yên"
+      },
+      {
+        "Name": "Phường Nếnh"
+      },
+      {
+        "Name": "Phường Vân Hà"
+      },
+      {
+        "Name": "Xã Đồng Việt"
+      },
+      {
+        "Name": "Phường Bắc Giang"
+      },
+      {
+        "Name": "Phường Đa Mai"
+      },
+      {
+        "Name": "Phường Tiền Phong"
+      },
+      {
+        "Name": "Phường Tân An"
+      },
+      {
+        "Name": "Phường Yên Dũng"
+      },
+      {
+        "Name": "Phường Tân Tiến"
+      },
+      {
+        "Name": "Phường Cảnh Thụy"
+      }
+    ],
+    "Plates": [99, 98]
+  },
+  {
+    "Name": "Tỉnh Cà Mau",
+    "Wards": [
+      {
+        "Name": "Xã U Minh"
+      },
+      {
+        "Name": "Xã Tân Hưng"
+      },
+      {
+        "Name": "Xã Tạ An Khương"
+      },
+      {
+        "Name": "Xã Phan Ngọc Hiển"
+      },
+      {
+        "Name": "Xã Đất Mũi"
+      },
+      {
+        "Name": "Xã Sông Đốc"
+      },
+      {
+        "Name": "Xã Đất Mới"
+      },
+      {
+        "Name": "Xã Năm Căn"
+      },
+      {
+        "Name": "Xã Đầm Dơi"
+      },
+      {
+        "Name": "Xã Cái Nước"
+      },
+      {
+        "Name": "Xã Hưng Mỹ"
+      },
+      {
+        "Name": "Xã Lương Thế Trân"
+      },
+      {
+        "Name": "Xã Phú Mỹ"
+      },
+      {
+        "Name": "Xã Hồ Thị Kỷ"
+      },
+      {
+        "Name": "Xã Trần Văn Thời"
+      },
+      {
+        "Name": "Xã Nguyễn Phích"
+      },
+      {
+        "Name": "Xã Khánh An"
+      },
+      {
+        "Name": "Xã Khánh Lâm"
+      },
+      {
+        "Name": "Phường Lý Văn Lâm"
+      },
+      {
+        "Name": "Phường Hòa Thành"
+      },
+      {
+        "Name": "Phường Tân Thành"
+      },
+      {
+        "Name": "Xã Đá Bạc"
+      },
+      {
+        "Name": "Phường Bạc Liêu"
+      },
+      {
+        "Name": "Phường Vĩnh Trạch"
+      },
+      {
+        "Name": "Phường Hiệp Thành"
+      },
+      {
+        "Name": "Phường Giá Rai"
+      },
+      {
+        "Name": "Phường Láng Tròn"
+      },
+      {
+        "Name": "Xã Phong Thạnh"
+      },
+      {
+        "Name": "Xã Hồng Dân"
+      },
+      {
+        "Name": "Xã Vĩnh Lộc"
+      },
+      {
+        "Name": "Xã Ninh Thạnh Lợi"
+      },
+      {
+        "Name": "Xã Ninh Quới"
+      },
+      {
+        "Name": "Xã Gành Hào"
+      },
+      {
+        "Name": "Xã Định Thành"
+      },
+      {
+        "Name": "Xã An Trạch"
+      },
+      {
+        "Name": "Xã Long Điền"
+      },
+      {
+        "Name": "Xã Đông Hải"
+      },
+      {
+        "Name": "Xã Hòa Bình"
+      },
+      {
+        "Name": "Xã Vĩnh Mỹ"
+      },
+      {
+        "Name": "Xã Vĩnh Hậu"
+      },
+      {
+        "Name": "Xã Phước Long"
+      },
+      {
+        "Name": "Xã Vĩnh Phước"
+      },
+      {
+        "Name": "Xã Phong Hiệp"
+      },
+      {
+        "Name": "Xã Vĩnh Thanh"
+      },
+      {
+        "Name": "Xã Vĩnh Lợi"
+      },
+      {
+        "Name": "Xã Hưng Hội"
+      },
+      {
+        "Name": "Xã Châu Thới"
+      },
+      {
+        "Name": "Phường An Xuyên"
+      },
+      {
+        "Name": "Xã Tân Thuận"
+      },
+      {
+        "Name": "Xã Tân Tiến"
+      },
+      {
+        "Name": "Xã Trần Phán"
+      },
+      {
+        "Name": "Xã Thanh Tùng"
+      },
+      {
+        "Name": "Xã Quách Phẩm"
+      },
+      {
+        "Name": "Xã Tân Ân"
+      },
+      {
+        "Name": "Xã Khánh Bình"
+      },
+      {
+        "Name": "Xã Khánh Hưng"
+      },
+      {
+        "Name": "Xã Thới Bình"
+      },
+      {
+        "Name": "Xã Trí Phải"
+      },
+      {
+        "Name": "Xã Tân Lộc"
+      },
+      {
+        "Name": "Xã Biển Bạch"
+      },
+      {
+        "Name": "Xã Tam Giang"
+      },
+      {
+        "Name": "Xã Cái Đôi Vàm"
+      },
+      {
+        "Name": "Xã Nguyễn Việt Khái"
+      },
+      {
+        "Name": "Xã Phú Tân"
+      }
+    ],
+    "Plates": [69, 94]
+  },
+  {
+    "Name": "Tỉnh Cao Bằng",
+    "Wards": [
+      {
+        "Name": "Phường Thục Phán"
+      },
+      {
+        "Name": "Phường Tân Giang"
+      },
+      {
+        "Name": "Phường Nùng Trí Cao"
+      },
+      {
+        "Name": "Xã Sơn Lộ"
+      },
+      {
+        "Name": "Xã Hưng Đạo"
+      },
+      {
+        "Name": "Xã Bảo Lạc"
+      },
+      {
+        "Name": "Xã Cốc Pàng"
+      },
+      {
+        "Name": "Xã Cô Ba"
+      },
+      {
+        "Name": "Xã Khánh Xuân"
+      },
+      {
+        "Name": "Xã Xuân Trường"
+      },
+      {
+        "Name": "Xã Huy Giáp"
+      },
+      {
+        "Name": "Xã Quảng Lâm"
+      },
+      {
+        "Name": "Xã Nam Quang"
+      },
+      {
+        "Name": "Xã Lý Bôn"
+      },
+      {
+        "Name": "Xã Bảo Lâm"
+      },
+      {
+        "Name": "Xã Yên Thổ"
+      },
+      {
+        "Name": "Xã Hạ Lang"
+      },
+      {
+        "Name": "Xã Lý Quốc"
+      },
+      {
+        "Name": "Xã Vinh Quý"
+      },
+      {
+        "Name": "Xã Thanh Long"
+      },
+      {
+        "Name": "Xã Cần Yên"
+      },
+      {
+        "Name": "Xã Thông Nông"
+      },
+      {
+        "Name": "Xã Trường Hà"
+      },
+      {
+        "Name": "Xã Hà Quảng"
+      },
+      {
+        "Name": "Xã Lũng Nặm"
+      },
+      {
+        "Name": "Xã Tổng Cọt"
+      },
+      {
+        "Name": "Xã Nam Tuấn"
+      },
+      {
+        "Name": "Xã Hòa An"
+      },
+      {
+        "Name": "Xã Bạch Đằng"
+      },
+      {
+        "Name": "Xã Nguyễn Huệ"
+      },
+      {
+        "Name": "Xã Ca Thành"
+      },
+      {
+        "Name": "Xã Phan Thanh"
+      },
+      {
+        "Name": "Xã Thành Công"
+      },
+      {
+        "Name": "Xã Tam Kim"
+      },
+      {
+        "Name": "Xã Nguyên Bình"
+      },
+      {
+        "Name": "Xã Tĩnh Túc"
+      },
+      {
+        "Name": "Xã Minh Tâm"
+      },
+      {
+        "Name": "Xã Phục Hòa"
+      },
+      {
+        "Name": "Xã Bế Văn Đàn"
+      },
+      {
+        "Name": "Xã Độc Lập"
+      },
+      {
+        "Name": "Xã Quảng Uyên"
+      },
+      {
+        "Name": "Xã Hạnh Phúc"
+      },
+      {
+        "Name": "Xã Minh Khai"
+      },
+      {
+        "Name": "Xã Canh Tân"
+      },
+      {
+        "Name": "Xã Kim Đồng"
+      },
+      {
+        "Name": "Xã Thạch An"
+      },
+      {
+        "Name": "Xã Đông Khê"
+      },
+      {
+        "Name": "Xã Đức Long"
+      },
+      {
+        "Name": "Xã Quang Hán"
+      },
+      {
+        "Name": "Xã Trà Lĩnh"
+      },
+      {
+        "Name": "Xã Quang Trung"
+      },
+      {
+        "Name": "Xã Đoài Dương"
+      },
+      {
+        "Name": "Xã Trùng Khánh"
+      },
+      {
+        "Name": "Xã Đàm Thủy"
+      },
+      {
+        "Name": "Xã Quang Long"
+      },
+      {
+        "Name": "Xã Đình Phong"
+      }
+    ],
+    "Plates": [11]
+  },
+  {
+    "Name": "Tỉnh Đắk Lắk",
+    "Wards": [
+      {
+        "Name": "Phường Hòa Hiệp"
+      },
+      {
+        "Name": "Phường Bình Kiến"
+      },
+      {
+        "Name": "Xã Phú Hòa 2"
+      },
+      {
+        "Name": "Xã Đức Bình"
+      },
+      {
+        "Name": "Xã Ea Bá"
+      },
+      {
+        "Name": "Xã Ea Ly"
+      },
+      {
+        "Name": "Phường Phú Yên"
+      },
+      {
+        "Name": "Phường Xuân Đài"
+      },
+      {
+        "Name": "Xã Dray Bhăng"
+      },
+      {
+        "Name": "Xã Buôn Đôn"
+      },
+      {
+        "Name": "Xã Ea KTur"
+      },
+      {
+        "Name": "Xã Vụ Bổn"
+      },
+      {
+        "Name": "Xã Krông Nô"
+      },
+      {
+        "Name": "Xã Ea Trang"
+      },
+      {
+        "Name": "Xã Ea H'Leo"
+      },
+      {
+        "Name": "Xã Ia Lốp"
+      },
+      {
+        "Name": "Xã Ia Rvê"
+      },
+      {
+        "Name": "Phường Buôn Ma Thuột"
+      },
+      {
+        "Name": "Phường Tân An"
+      },
+      {
+        "Name": "Phường Tân Lập"
+      },
+      {
+        "Name": "Phường Thành Nhất"
+      },
+      {
+        "Name": "Phường Ea Kao"
+      },
+      {
+        "Name": "Xã Hòa Phú"
+      },
+      {
+        "Name": "Phường Buôn Hồ"
+      },
+      {
+        "Name": "Phường Cư Bao"
+      },
+      {
+        "Name": "Xã Ea Drông"
+      },
+      {
+        "Name": "Xã Ea Súp"
+      },
+      {
+        "Name": "Xã Ea Rốk"
+      },
+      {
+        "Name": "Xã Ea Bung"
+      },
+      {
+        "Name": "Xã Ea Wer"
+      },
+      {
+        "Name": "Xã Ea Nuôl"
+      },
+      {
+        "Name": "Xã Ea Kiết"
+      },
+      {
+        "Name": "Xã Ea M'Droh"
+      },
+      {
+        "Name": "Xã Quảng Phú"
+      },
+      {
+        "Name": "Xã Cuôr Đăng"
+      },
+      {
+        "Name": "Xã Cư M'gar"
+      },
+      {
+        "Name": "Xã Ea Tul"
+      },
+      {
+        "Name": "Xã Pơng Drang"
+      },
+      {
+        "Name": "Xã Krông Búk"
+      },
+      {
+        "Name": "Xã Cư Pơng"
+      },
+      {
+        "Name": "Xã Ea Khăl"
+      },
+      {
+        "Name": "Xã Ea Drăng"
+      },
+      {
+        "Name": "Xã Ea Wy"
+      },
+      {
+        "Name": "Xã Ea Hiao"
+      },
+      {
+        "Name": "Xã Krông Năng"
+      },
+      {
+        "Name": "Xã Dliê Ya"
+      },
+      {
+        "Name": "Xã Tam Giang"
+      },
+      {
+        "Name": "Xã Phú Xuân"
+      },
+      {
+        "Name": "Xã Krông Pắc"
+      },
+      {
+        "Name": "Xã Ea Knuếc"
+      },
+      {
+        "Name": "Xã Tân Tiến"
+      },
+      {
+        "Name": "Xã Ea Phê"
+      },
+      {
+        "Name": "Xã Ea Kly"
+      },
+      {
+        "Name": "Xã Ea Kar"
+      },
+      {
+        "Name": "Xã Ea Ô"
+      },
+      {
+        "Name": "Xã Ea Knốp"
+      },
+      {
+        "Name": "Xã Cư Yang"
+      },
+      {
+        "Name": "Xã Ea Păl"
+      },
+      {
+        "Name": "Xã M'Drắk"
+      },
+      {
+        "Name": "Xã Ea Riêng"
+      },
+      {
+        "Name": "Xã Cư M'ta"
+      },
+      {
+        "Name": "Xã Krông Á"
+      },
+      {
+        "Name": "Xã Cư Prao"
+      },
+      {
+        "Name": "Xã Hòa Sơn"
+      },
+      {
+        "Name": "Xã Dang Kang"
+      },
+      {
+        "Name": "Xã Krông Bông"
+      },
+      {
+        "Name": "Xã Yang Mao"
+      },
+      {
+        "Name": "Xã Cư Pui"
+      },
+      {
+        "Name": "Xã Liên Sơn Lắk"
+      },
+      {
+        "Name": "Xã Đắk Liêng"
+      },
+      {
+        "Name": "Xã Nam Ka"
+      },
+      {
+        "Name": "Xã Đắk Phơi"
+      },
+      {
+        "Name": "Xã Ea Ning"
+      },
+      {
+        "Name": "Xã Krông Ana"
+      },
+      {
+        "Name": "Xã Dur Kmăl"
+      },
+      {
+        "Name": "Xã Ea Na"
+      },
+      {
+        "Name": "Xã Xuân Thọ"
+      },
+      {
+        "Name": "Xã Xuân Cảnh"
+      },
+      {
+        "Name": "Xã Xuân Lộc"
+      },
+      {
+        "Name": "Phường Đông Hòa"
+      },
+      {
+        "Name": "Xã Hòa Xuân"
+      },
+      {
+        "Name": "Xã Tuy An Bắc"
+      },
+      {
+        "Name": "Xã Tuy An Đông"
+      },
+      {
+        "Name": "Xã Ô Loan"
+      },
+      {
+        "Name": "Xã Tuy An Nam"
+      },
+      {
+        "Name": "Xã Tuy An Tây"
+      },
+      {
+        "Name": "Xã Hòa Thịnh"
+      },
+      {
+        "Name": "Xã Hòa Mỹ"
+      },
+      {
+        "Name": "Xã Sơn Thành"
+      },
+      {
+        "Name": "Xã Sơn Hòa"
+      },
+      {
+        "Name": "Xã Vân Hòa"
+      },
+      {
+        "Name": "Xã Tây Sơn"
+      },
+      {
+        "Name": "Xã Xuân Lãnh"
+      },
+      {
+        "Name": "Xã Phú Mỡ"
+      },
+      {
+        "Name": "Xã Xuân Phước"
+      },
+      {
+        "Name": "Xã Đồng Xuân"
+      },
+      {
+        "Name": "Phường Sông Cầu"
+      },
+      {
+        "Name": "Xã Suối Trai"
+      },
+      {
+        "Name": "Phường Tuy Hòa"
+      },
+      {
+        "Name": "Xã Phú Hòa 1"
+      },
+      {
+        "Name": "Xã Tây Hòa"
+      },
+      {
+        "Name": "Xã Sông Hinh"
+      }
+    ],
+    "Plates": [47, 78]
+  },
+  {
+    "Name": "Tỉnh Điện Biên",
+    "Wards": [
+      {
+        "Name": "Xã Mường Nhé"
+      },
+      {
+        "Name": "Xã Sín Thầu"
+      },
+      {
+        "Name": "Xã Mường Toong"
+      },
+      {
+        "Name": "Xã Nậm Kè"
+      },
+      {
+        "Name": "Xã Quảng Lâm"
+      },
+      {
+        "Name": "Xã Nà Hỳ"
+      },
+      {
+        "Name": "Xã Mường Chà"
+      },
+      {
+        "Name": "Xã Nà Bủng"
+      },
+      {
+        "Name": "Xã Chà Tở"
+      },
+      {
+        "Name": "Xã Si Pa Phìn"
+      },
+      {
+        "Name": "Phường Mường Lay"
+      },
+      {
+        "Name": "Xã Na Sang"
+      },
+      {
+        "Name": "Xã Mường Tùng"
+      },
+      {
+        "Name": "Xã Pa Ham"
+      },
+      {
+        "Name": "Xã Nậm Nèn"
+      },
+      {
+        "Name": "Xã Mường Pồn"
+      },
+      {
+        "Name": "Xã Tủa Chùa"
+      },
+      {
+        "Name": "Xã Sín Chải"
+      },
+      {
+        "Name": "Xã Sính Phình"
+      },
+      {
+        "Name": "Xã Tủa Thàng"
+      },
+      {
+        "Name": "Xã Sáng Nhè"
+      },
+      {
+        "Name": "Xã Tuần Giáo"
+      },
+      {
+        "Name": "Xã Quài Tở"
+      },
+      {
+        "Name": "Xã Mường Mùn"
+      },
+      {
+        "Name": "Xã Pú Nhung"
+      },
+      {
+        "Name": "Xã Chiềng Sinh"
+      },
+      {
+        "Name": "Xã Mường Ảng"
+      },
+      {
+        "Name": "Xã Nà Tấu"
+      },
+      {
+        "Name": "Xã Búng Lao"
+      },
+      {
+        "Name": "Xã Mường Lạn"
+      },
+      {
+        "Name": "Xã Mường Phăng"
+      },
+      {
+        "Name": "Phường Điện Biên Phủ"
+      },
+      {
+        "Name": "Phường Mường Thanh"
+      },
+      {
+        "Name": "Xã Thanh Nưa"
+      },
+      {
+        "Name": "Xã Thanh An"
+      },
+      {
+        "Name": "Xã Thanh Yên"
+      },
+      {
+        "Name": "Xã Sam Mứn"
+      },
+      {
+        "Name": "Xã Núa Ngam"
+      },
+      {
+        "Name": "Xã Mường Nhà"
+      },
+      {
+        "Name": "Xã Na Son"
+      },
+      {
+        "Name": "Xã Xa Dung"
+      },
+      {
+        "Name": "Xã Pu Nhi"
+      },
+      {
+        "Name": "Xã Mường Luân"
+      },
+      {
+        "Name": "Xã Tìa Dình"
+      },
+      {
+        "Name": "Xã Phình Giàng"
+      }
+    ],
+    "Plates": [27]
+  },
+  {
+    "Name": "Tỉnh Đồng Nai",
+    "Wards": [
+      {
+        "Name": "Xã Đak Lua"
+      },
+      {
+        "Name": "Xã Phú Lý"
+      },
+      {
+        "Name": "Xã Xuân Hòa"
+      },
+      {
+        "Name": "Phường Phước Tân"
+      },
+      {
+        "Name": "Phường Tam Phước"
+      },
+      {
+        "Name": "Xã Đăk Ơ"
+      },
+      {
+        "Name": "Xã Xuân Đông"
+      },
+      {
+        "Name": "Xã Bù Gia Mập"
+      },
+      {
+        "Name": "Xã Thanh Sơn"
+      },
+      {
+        "Name": "Xã Xuân Lộc"
+      },
+      {
+        "Name": "Xã Xuân Thành"
+      },
+      {
+        "Name": "Xã Xuân Bắc"
+      },
+      {
+        "Name": "Xã La Ngà"
+      },
+      {
+        "Name": "Xã Định Quán"
+      },
+      {
+        "Name": "Xã Phú Vinh"
+      },
+      {
+        "Name": "Xã Phú Hòa"
+      },
+      {
+        "Name": "Xã Tà Lài"
+      },
+      {
+        "Name": "Xã Nam Cát Tiên"
+      },
+      {
+        "Name": "Xã Tân Phú"
+      },
+      {
+        "Name": "Xã Phú Lâm"
+      },
+      {
+        "Name": "Xã Trị An"
+      },
+      {
+        "Name": "Xã Tân An"
+      },
+      {
+        "Name": "Phường Tân Triều"
+      },
+      {
+        "Name": "Xã Phú Riềng"
+      },
+      {
+        "Name": "Xã Nhơn Trạch"
+      },
+      {
+        "Name": "Xã Phước An"
+      },
+      {
+        "Name": "Xã Phước Thái"
+      },
+      {
+        "Name": "Xã Long Phước"
+      },
+      {
+        "Name": "Xã Bình An"
+      },
+      {
+        "Name": "Xã Long Thành"
+      },
+      {
+        "Name": "Xã An Phước"
+      },
+      {
+        "Name": "Xã An Viễn"
+      },
+      {
+        "Name": "Xã Bình Minh"
+      },
+      {
+        "Name": "Xã Trảng Bom"
+      },
+      {
+        "Name": "Xã Bàu Hàm"
+      },
+      {
+        "Name": "Xã Hưng Thịnh"
+      },
+      {
+        "Name": "Xã Dầu Giây"
+      },
+      {
+        "Name": "Xã Gia Kiệm"
+      },
+      {
+        "Name": "Xã Thống Nhất"
+      },
+      {
+        "Name": "Phường Bình Lộc"
+      },
+      {
+        "Name": "Phường Bảo Vinh"
+      },
+      {
+        "Name": "Phường Xuân Lập"
+      },
+      {
+        "Name": "Phường Long Khánh"
+      },
+      {
+        "Name": "Phường Hàng Gòn"
+      },
+      {
+        "Name": "Xã Xuân Quế"
+      },
+      {
+        "Name": "Xã Xuân Đường"
+      },
+      {
+        "Name": "Xã Cẩm Mỹ"
+      },
+      {
+        "Name": "Xã Sông Ray"
+      },
+      {
+        "Name": "Xã Xuân Định"
+      },
+      {
+        "Name": "Xã Xuân Phú"
+      },
+      {
+        "Name": "Xã Phú Trung"
+      },
+      {
+        "Name": "Xã Thuận Lợi"
+      },
+      {
+        "Name": "Xã Đồng Tâm"
+      },
+      {
+        "Name": "Xã Tân Lợi"
+      },
+      {
+        "Name": "Xã Đồng Phú"
+      },
+      {
+        "Name": "Xã Phước Sơn"
+      },
+      {
+        "Name": "Xã Nghĩa Trung"
+      },
+      {
+        "Name": "Xã Bù Đăng"
+      },
+      {
+        "Name": "Xã Thọ Sơn"
+      },
+      {
+        "Name": "Xã Đak Nhau"
+      },
+      {
+        "Name": "Xã Bom Bo"
+      },
+      {
+        "Name": "Phường Long Bình"
+      },
+      {
+        "Name": "Phường Trảng Dài"
+      },
+      {
+        "Name": "Phường Hố Nai"
+      },
+      {
+        "Name": "Phường Long Hưng"
+      },
+      {
+        "Name": "Xã Đại Phước"
+      },
+      {
+        "Name": "Phường Bình Phước"
+      },
+      {
+        "Name": "Phường Đồng Xoài"
+      },
+      {
+        "Name": "Phường Biên Hòa"
+      },
+      {
+        "Name": "Phường Trấn Biên"
+      },
+      {
+        "Name": "Phường Tam Hiệp"
+      },
+      {
+        "Name": "Phường Phước Bình"
+      },
+      {
+        "Name": "Phường Phước Long"
+      },
+      {
+        "Name": "Phường Bình Long"
+      },
+      {
+        "Name": "Phường An Lộc"
+      },
+      {
+        "Name": "Phường Minh Hưng"
+      },
+      {
+        "Name": "Phường Chơn Thành"
+      },
+      {
+        "Name": "Xã Nha Bích"
+      },
+      {
+        "Name": "Xã Tân Quan"
+      },
+      {
+        "Name": "Xã Tân Hưng"
+      },
+      {
+        "Name": "Xã Tân Khai"
+      },
+      {
+        "Name": "Xã Minh Đức"
+      },
+      {
+        "Name": "Xã Lộc Thành"
+      },
+      {
+        "Name": "Xã Lộc Ninh"
+      },
+      {
+        "Name": "Xã Lộc Hưng"
+      },
+      {
+        "Name": "Xã Lộc Tấn"
+      },
+      {
+        "Name": "Xã Lộc Thạnh"
+      },
+      {
+        "Name": "Xã Lộc Quang"
+      },
+      {
+        "Name": "Xã Tân Tiến"
+      },
+      {
+        "Name": "Xã Thiện Hưng"
+      },
+      {
+        "Name": "Xã Hưng Phước"
+      },
+      {
+        "Name": "Xã Phú Nghĩa"
+      },
+      {
+        "Name": "Xã Đa Kia"
+      },
+      {
+        "Name": "Xã Bình Tân"
+      },
+      {
+        "Name": "Xã Long Hà"
+      }
+    ],
+    "Plates": [60, 39, 93]
+  },
+  {
+    "Name": "Tỉnh Đồng Tháp",
+    "Wards": [
+      {
+        "Name": "Xã Phong Mỹ"
+      },
+      {
+        "Name": "Xã Tân Long"
+      },
+      {
+        "Name": "Xã Thanh Bình"
+      },
+      {
+        "Name": "Xã Tân Thạnh"
+      },
+      {
+        "Name": "Xã Long Phú Thuận"
+      },
+      {
+        "Name": "Xã Phú Cường"
+      },
+      {
+        "Name": "Xã Tân Hồng"
+      },
+      {
+        "Name": "Xã Tân Thành"
+      },
+      {
+        "Name": "Xã Tân Hộ Cơ"
+      },
+      {
+        "Name": "Xã An Phước"
+      },
+      {
+        "Name": "Phường An Bình"
+      },
+      {
+        "Name": "Phường Hồng Ngự"
+      },
+      {
+        "Name": "Phường Thường Lạc"
+      },
+      {
+        "Name": "Xã Thường Phước"
+      },
+      {
+        "Name": "Xã Long Khánh"
+      },
+      {
+        "Name": "Xã An Hòa"
+      },
+      {
+        "Name": "Xã Tam Nông"
+      },
+      {
+        "Name": "Xã Phú Thọ"
+      },
+      {
+        "Name": "Xã Tràm Chim"
+      },
+      {
+        "Name": "Xã An Long"
+      },
+      {
+        "Name": "Xã Bình Thành"
+      },
+      {
+        "Name": "Xã Tháp Mười"
+      },
+      {
+        "Name": "Xã Thanh Mỹ"
+      },
+      {
+        "Name": "Xã Mỹ Quí"
+      },
+      {
+        "Name": "Xã Đốc Binh Kiều"
+      },
+      {
+        "Name": "Xã Trường Xuân"
+      },
+      {
+        "Name": "Xã Phương Thịnh"
+      },
+      {
+        "Name": "Xã Ba Sao"
+      },
+      {
+        "Name": "Xã Mỹ Thọ"
+      },
+      {
+        "Name": "Xã Bình Hàng Trung"
+      },
+      {
+        "Name": "Xã Mỹ Hiệp"
+      },
+      {
+        "Name": "Phường Cao Lãnh"
+      },
+      {
+        "Name": "Phường Mỹ Ngãi"
+      },
+      {
+        "Name": "Phường Mỹ Trà"
+      },
+      {
+        "Name": "Xã Mỹ An Hưng"
+      },
+      {
+        "Name": "Xã Tân Khánh Trung"
+      },
+      {
+        "Name": "Xã Lấp Vò"
+      },
+      {
+        "Name": "Xã Lai Vung"
+      },
+      {
+        "Name": "Xã Hòa Long"
+      },
+      {
+        "Name": "Xã Phong Hòa"
+      },
+      {
+        "Name": "Phường Sa Đéc"
+      },
+      {
+        "Name": "Xã Tân Dương"
+      },
+      {
+        "Name": "Xã Phú Hựu"
+      },
+      {
+        "Name": "Xã Tân Nhuận Đông"
+      },
+      {
+        "Name": "Xã Tân Phú Trung"
+      },
+      {
+        "Name": "Xã Thanh Hưng"
+      },
+      {
+        "Name": "Xã An Hữu"
+      },
+      {
+        "Name": "Xã Mỹ Lợi"
+      },
+      {
+        "Name": "Xã Mỹ Đức Tây"
+      },
+      {
+        "Name": "Xã Mỹ Thiện"
+      },
+      {
+        "Name": "Xã Hậu Mỹ"
+      },
+      {
+        "Name": "Xã Hội Cư"
+      },
+      {
+        "Name": "Xã Cái Bè"
+      },
+      {
+        "Name": "Xã Hiệp Đức"
+      },
+      {
+        "Name": "Xã Bình Phú"
+      },
+      {
+        "Name": "Xã Ngũ Hiệp"
+      },
+      {
+        "Name": "Xã Long Tiên"
+      },
+      {
+        "Name": "Xã Mỹ Thành"
+      },
+      {
+        "Name": "Xã Thạnh Phú"
+      },
+      {
+        "Name": "Phường Mỹ Phước Tây"
+      },
+      {
+        "Name": "Phường Thanh Hòa"
+      },
+      {
+        "Name": "Phường Cai Lậy"
+      },
+      {
+        "Name": "Phường Nhị Quý"
+      },
+      {
+        "Name": "Xã Tân Phú"
+      },
+      {
+        "Name": "Xã Tân Phước 1"
+      },
+      {
+        "Name": "Xã Tân Phước 2"
+      },
+      {
+        "Name": "Xã Tân Phước 3"
+      },
+      {
+        "Name": "Xã Hưng Thạnh"
+      },
+      {
+        "Name": "Xã Tân Hương"
+      },
+      {
+        "Name": "Xã Châu Thành"
+      },
+      {
+        "Name": "Xã Long Hưng"
+      },
+      {
+        "Name": "Xã Long Định"
+      },
+      {
+        "Name": "Xã Vĩnh Kim"
+      },
+      {
+        "Name": "Xã Kim Sơn"
+      },
+      {
+        "Name": "Xã Bình Trưng"
+      },
+      {
+        "Name": "Phường Mỹ Tho"
+      },
+      {
+        "Name": "Phường Đạo Thạnh"
+      },
+      {
+        "Name": "Phường Mỹ Phong"
+      },
+      {
+        "Name": "Phường Thới Sơn"
+      },
+      {
+        "Name": "Phường Trung An"
+      },
+      {
+        "Name": "Xã Mỹ Tịnh An"
+      },
+      {
+        "Name": "Xã Lương Hòa Lạc"
+      },
+      {
+        "Name": "Xã Tân Thuận Bình"
+      },
+      {
+        "Name": "Xã Chợ Gạo"
+      },
+      {
+        "Name": "Xã An Thạnh Thủy"
+      },
+      {
+        "Name": "Xã Bình Ninh"
+      },
+      {
+        "Name": "Xã Gò Công Đông"
+      },
+      {
+        "Name": "Xã Tân Điền"
+      },
+      {
+        "Name": "Xã Tân Hòa"
+      },
+      {
+        "Name": "Xã Tân Đông"
+      },
+      {
+        "Name": "Xã Gia Thuận"
+      },
+      {
+        "Name": "Xã Vĩnh Bình"
+      },
+      {
+        "Name": "Xã Đồng Sơn"
+      },
+      {
+        "Name": "Xã Phú Thành"
+      },
+      {
+        "Name": "Xã Long Bình"
+      },
+      {
+        "Name": "Xã Vĩnh Hựu"
+      },
+      {
+        "Name": "Phường Gò Công"
+      },
+      {
+        "Name": "Phường Long Thuận"
+      },
+      {
+        "Name": "Phường Bình Xuân"
+      },
+      {
+        "Name": "Phường Sơn Qui"
+      },
+      {
+        "Name": "Xã Tân Thới"
+      },
+      {
+        "Name": "Xã Tân Phú Đông"
+      }
+    ],
+    "Plates": [66, 63]
+  },
+  {
+    "Name": "Tỉnh Gia Lai",
+    "Wards": [
+      {
+        "Name": "Xã Canh Liên"
+      },
+      {
+        "Name": "Xã Nhơn Châu"
+      },
+      {
+        "Name": "Xã An Toàn"
+      },
+      {
+        "Name": "Xã Vân Canh"
+      },
+      {
+        "Name": "Xã Ia Púch"
+      },
+      {
+        "Name": "Xã Ia Mơ"
+      },
+      {
+        "Name": "Xã Ia Dom"
+      },
+      {
+        "Name": "Xã Ia Nan"
+      },
+      {
+        "Name": "Xã Ia Pnôn"
+      },
+      {
+        "Name": "Xã Canh Vinh"
+      },
+      {
+        "Name": "Xã An Hòa"
+      },
+      {
+        "Name": "Xã Phù Mỹ Đông"
+      },
+      {
+        "Name": "Phường Quy Nhơn Đông"
+      },
+      {
+        "Name": "Xã Tây Sơn"
+      },
+      {
+        "Name": "Xã Ia Chia"
+      },
+      {
+        "Name": "Xã Ia O"
+      },
+      {
+        "Name": "Xã Krong"
+      },
+      {
+        "Name": "Phường Pleiku"
+      },
+      {
+        "Name": "Phường Hội Phú"
+      },
+      {
+        "Name": "Phường Thống Nhất"
+      },
+      {
+        "Name": "Phường Diên Hồng"
+      },
+      {
+        "Name": "Phường An Phú"
+      },
+      {
+        "Name": "Xã Biển Hồ"
+      },
+      {
+        "Name": "Xã Gào"
+      },
+      {
+        "Name": "Xã Ia Ly"
+      },
+      {
+        "Name": "Xã Chư Păh"
+      },
+      {
+        "Name": "Xã Ia Khươl"
+      },
+      {
+        "Name": "Xã Ia Phí"
+      },
+      {
+        "Name": "Xã Chư Prông"
+      },
+      {
+        "Name": "Xã Bàu Cạn"
+      },
+      {
+        "Name": "Xã Ia Boòng"
+      },
+      {
+        "Name": "Xã Ia Lâu"
+      },
+      {
+        "Name": "Xã Ia Pia"
+      },
+      {
+        "Name": "Xã Ia Tôr"
+      },
+      {
+        "Name": "Xã Chư Sê"
+      },
+      {
+        "Name": "Xã Bờ Ngoong"
+      },
+      {
+        "Name": "Xã Ia Ko"
+      },
+      {
+        "Name": "Xã Al Bá"
+      },
+      {
+        "Name": "Xã Chư Pưh"
+      },
+      {
+        "Name": "Xã Ia Le"
+      },
+      {
+        "Name": "Xã Ia Hrú"
+      },
+      {
+        "Name": "Phường An Khê"
+      },
+      {
+        "Name": "Phường An Bình"
+      },
+      {
+        "Name": "Xã Cửu An"
+      },
+      {
+        "Name": "Xã Đak Pơ"
+      },
+      {
+        "Name": "Xã Ya Hội"
+      },
+      {
+        "Name": "Xã Kbang"
+      },
+      {
+        "Name": "Xã Kông Bơ La"
+      },
+      {
+        "Name": "Xã Tơ Tung"
+      },
+      {
+        "Name": "Xã Sơn Lang"
+      },
+      {
+        "Name": "Xã Đak Rong"
+      },
+      {
+        "Name": "Xã Kông Chro"
+      },
+      {
+        "Name": "Xã Ya Ma"
+      },
+      {
+        "Name": "Xã Chư Krey"
+      },
+      {
+        "Name": "Xã SRó"
+      },
+      {
+        "Name": "Xã Đăk Song"
+      },
+      {
+        "Name": "Xã Chơ Long"
+      },
+      {
+        "Name": "Phường Ayun Pa"
+      },
+      {
+        "Name": "Xã Ia Rbol"
+      },
+      {
+        "Name": "Xã Ia Sao"
+      },
+      {
+        "Name": "Xã Phú Thiện"
+      },
+      {
+        "Name": "Xã Chư A Thai"
+      },
+      {
+        "Name": "Xã Ia Hiao"
+      },
+      {
+        "Name": "Xã Pờ Tó"
+      },
+      {
+        "Name": "Xã Ia Pa"
+      },
+      {
+        "Name": "Xã Ia Tul"
+      },
+      {
+        "Name": "Xã Phú Túc"
+      },
+      {
+        "Name": "Xã Ia Dreh"
+      },
+      {
+        "Name": "Xã Ia Rsai"
+      },
+      {
+        "Name": "Xã Uar"
+      },
+      {
+        "Name": "Xã Đak Đoa"
+      },
+      {
+        "Name": "Xã Kon Gang"
+      },
+      {
+        "Name": "Xã Ia Băng"
+      },
+      {
+        "Name": "Xã KDang"
+      },
+      {
+        "Name": "Xã Đak Sơmei"
+      },
+      {
+        "Name": "Xã Mang Yang"
+      },
+      {
+        "Name": "Xã Lơ Pang"
+      },
+      {
+        "Name": "Xã Kon Chiêng"
+      },
+      {
+        "Name": "Xã Hra"
+      },
+      {
+        "Name": "Xã Ayun"
+      },
+      {
+        "Name": "Xã Ia Grai"
+      },
+      {
+        "Name": "Xã Ia Krái"
+      },
+      {
+        "Name": "Xã Ia Hrung"
+      },
+      {
+        "Name": "Xã Đức Cơ"
+      },
+      {
+        "Name": "Xã Ia Dơk"
+      },
+      {
+        "Name": "Xã Ia Krêl"
+      },
+      {
+        "Name": "Xã Ngô Mây"
+      },
+      {
+        "Name": "Xã Cát Tiến"
+      },
+      {
+        "Name": "Xã Đề Gi"
+      },
+      {
+        "Name": "Xã Hòa Hội"
+      },
+      {
+        "Name": "Phường Quy Nhơn"
+      },
+      {
+        "Name": "Phường Quy Nhơn Tây"
+      },
+      {
+        "Name": "Phường Quy Nhơn Nam"
+      },
+      {
+        "Name": "Phường Quy Nhơn Bắc"
+      },
+      {
+        "Name": "Phường Bình Định"
+      },
+      {
+        "Name": "Phường An Nhơn"
+      },
+      {
+        "Name": "Phường An Nhơn Đông"
+      },
+      {
+        "Name": "Xã An Nhơn Tây"
+      },
+      {
+        "Name": "Phường An Nhơn Nam"
+      },
+      {
+        "Name": "Phường An Nhơn Bắc"
+      },
+      {
+        "Name": "Phường Bồng Sơn"
+      },
+      {
+        "Name": "Phường Hoài Nhơn"
+      },
+      {
+        "Name": "Phường Tam Quan"
+      },
+      {
+        "Name": "Phường Hoài Nhơn Đông"
+      },
+      {
+        "Name": "Phường Hoài Nhơn Tây"
+      },
+      {
+        "Name": "Phường Hoài Nhơn Nam"
+      },
+      {
+        "Name": "Phường Hoài Nhơn Bắc"
+      },
+      {
+        "Name": "Xã Phù Cát"
+      },
+      {
+        "Name": "Xã Xuân An"
+      },
+      {
+        "Name": "Xã Hội Sơn"
+      },
+      {
+        "Name": "Xã Phù Mỹ"
+      },
+      {
+        "Name": "Xã An Lương"
+      },
+      {
+        "Name": "Xã Bình Dương"
+      },
+      {
+        "Name": "Xã Phù Mỹ Tây"
+      },
+      {
+        "Name": "Xã Phù Mỹ Nam"
+      },
+      {
+        "Name": "Xã Phù Mỹ Bắc"
+      },
+      {
+        "Name": "Xã Tuy Phước"
+      },
+      {
+        "Name": "Xã Tuy Phước Đông"
+      },
+      {
+        "Name": "Xã Tuy Phước Tây"
+      },
+      {
+        "Name": "Xã Tuy Phước Bắc"
+      },
+      {
+        "Name": "Xã Bình Khê"
+      },
+      {
+        "Name": "Xã Bình Phú"
+      },
+      {
+        "Name": "Xã Bình Hiệp"
+      },
+      {
+        "Name": "Xã Bình An"
+      },
+      {
+        "Name": "Xã Hoài Ân"
+      },
+      {
+        "Name": "Xã Ân Tường"
+      },
+      {
+        "Name": "Xã Kim Sơn"
+      },
+      {
+        "Name": "Xã Vạn Đức"
+      },
+      {
+        "Name": "Xã Ân Hảo"
+      },
+      {
+        "Name": "Xã Vĩnh Thạnh"
+      },
+      {
+        "Name": "Xã Vĩnh Thịnh"
+      },
+      {
+        "Name": "Xã Vĩnh Quang"
+      },
+      {
+        "Name": "Xã Vĩnh Sơn"
+      },
+      {
+        "Name": "Xã An Lão"
+      },
+      {
+        "Name": "Xã An Vinh"
+      }
+    ],
+    "Plates": [81, 77]
+  },
+  {
+    "Name": "Tỉnh Hà Tĩnh",
+    "Wards": [
+      {
+        "Name": "Xã Thiên Cầm"
+      },
+      {
+        "Name": "Xã Kỳ Xuân"
+      },
+      {
+        "Name": "Phường Hoành Sơn"
+      },
+      {
+        "Name": "Xã Sơn Kim 1"
+      },
+      {
+        "Name": "Xã Sơn Kim 2"
+      },
+      {
+        "Name": "Xã Đan Hải"
+      },
+      {
+        "Name": "Phường Vũng Áng"
+      },
+      {
+        "Name": "Phường Sông Trí"
+      },
+      {
+        "Name": "Phường Hà Huy Tập"
+      },
+      {
+        "Name": "Phường Thành Sen"
+      },
+      {
+        "Name": "Xã Sơn Hồng"
+      },
+      {
+        "Name": "Xã Sơn Tây"
+      },
+      {
+        "Name": "Xã Sơn Giang"
+      },
+      {
+        "Name": "Xã Sơn Tiến"
+      },
+      {
+        "Name": "Xã Hương Sơn"
+      },
+      {
+        "Name": "Xã Tứ Mỹ"
+      },
+      {
+        "Name": "Xã Đức Minh"
+      },
+      {
+        "Name": "Xã Kim Hoa"
+      },
+      {
+        "Name": "Xã Vũ Quang"
+      },
+      {
+        "Name": "Xã Mai Hoa"
+      },
+      {
+        "Name": "Xã Thượng Đức"
+      },
+      {
+        "Name": "Xã Đức Đồng"
+      },
+      {
+        "Name": "Xã Hương Bình"
+      },
+      {
+        "Name": "Xã Hương Xuân"
+      },
+      {
+        "Name": "Xã Phúc Trạch"
+      },
+      {
+        "Name": "Xã Hà Linh"
+      },
+      {
+        "Name": "Xã Hương Đô"
+      },
+      {
+        "Name": "Xã Hương Phố"
+      },
+      {
+        "Name": "Xã Toàn Lưu"
+      },
+      {
+        "Name": "Phường Hải Ninh"
+      },
+      {
+        "Name": "Xã Kỳ Anh"
+      },
+      {
+        "Name": "Xã Kỳ Hoa"
+      },
+      {
+        "Name": "Xã Kỳ Văn"
+      },
+      {
+        "Name": "Xã Kỳ Khang"
+      },
+      {
+        "Name": "Xã Kỳ Lạc"
+      },
+      {
+        "Name": "Xã Kỳ Thượng"
+      },
+      {
+        "Name": "Xã Cẩm Xuyên"
+      },
+      {
+        "Name": "Xã Cẩm Duệ"
+      },
+      {
+        "Name": "Xã Cẩm Hưng"
+      },
+      {
+        "Name": "Xã Cẩm Lạc"
+      },
+      {
+        "Name": "Xã Cẩm Trung"
+      },
+      {
+        "Name": "Xã Yên Hòa"
+      },
+      {
+        "Name": "Phường Trần Phú"
+      },
+      {
+        "Name": "Xã Thạch Lạc"
+      },
+      {
+        "Name": "Xã Đồng Tiến"
+      },
+      {
+        "Name": "Xã Thạch Khê"
+      },
+      {
+        "Name": "Xã Cẩm Bình"
+      },
+      {
+        "Name": "Xã Thạch Hà"
+      },
+      {
+        "Name": "Xã Việt Xuyên"
+      },
+      {
+        "Name": "Xã Đông Kinh"
+      },
+      {
+        "Name": "Xã Thạch Xuân"
+      },
+      {
+        "Name": "Xã Xuân Lộc"
+      },
+      {
+        "Name": "Xã Can Lộc"
+      },
+      {
+        "Name": "Phường Bắc Hồng Lĩnh"
+      },
+      {
+        "Name": "Phường Nam Hồng Lĩnh"
+      },
+      {
+        "Name": "Xã Đức Thịnh"
+      },
+      {
+        "Name": "Xã Nghi Xuân"
+      },
+      {
+        "Name": "Xã Cổ Đạm"
+      },
+      {
+        "Name": "Xã Tiên Điền"
+      },
+      {
+        "Name": "Xã Đức Thọ"
+      },
+      {
+        "Name": "Xã Đức Quang"
+      },
+      {
+        "Name": "Xã Hương Khê"
+      },
+      {
+        "Name": "Xã Gia Hanh"
+      },
+      {
+        "Name": "Xã Trường Lưu"
+      },
+      {
+        "Name": "Xã Hồng Lộc"
+      },
+      {
+        "Name": "Xã Lộc Hà"
+      },
+      {
+        "Name": "Xã Mai Phụ"
+      },
+      {
+        "Name": "Xã Tùng Lộc"
+      },
+      {
+        "Name": "Xã Đồng Lộc"
+      }
+    ],
+    "Plates": [38]
+  },
+  {
+    "Name": "Tỉnh Hưng Yên",
+    "Wards": [
+      {
+        "Name": "Xã Hiệp Cường"
+      },
+      {
+        "Name": "Xã Đông Thái Ninh"
+      },
+      {
+        "Name": "Phường Sơn Nam"
+      },
+      {
+        "Name": "Phường Phố Hiến"
+      },
+      {
+        "Name": "Phường Hồng Châu"
+      },
+      {
+        "Name": "Xã Tân Hưng"
+      },
+      {
+        "Name": "Xã Hoàng Hoa Thám"
+      },
+      {
+        "Name": "Xã Tiên Lữ"
+      },
+      {
+        "Name": "Xã Tiên Hoa"
+      },
+      {
+        "Name": "Xã Quang Hưng"
+      },
+      {
+        "Name": "Xã Đoàn Đào"
+      },
+      {
+        "Name": "Xã Tiên Tiến"
+      },
+      {
+        "Name": "Xã Tống Trân"
+      },
+      {
+        "Name": "Xã Lương Bằng"
+      },
+      {
+        "Name": "Xã Nghĩa Dân"
+      },
+      {
+        "Name": "Xã Đức Hợp"
+      },
+      {
+        "Name": "Xã Ân Thi"
+      },
+      {
+        "Name": "Xã Xuân Trúc"
+      },
+      {
+        "Name": "Xã Phạm Ngũ Lão"
+      },
+      {
+        "Name": "Xã Nguyễn Trãi"
+      },
+      {
+        "Name": "Xã Hồng Quang"
+      },
+      {
+        "Name": "Xã Khoái Châu"
+      },
+      {
+        "Name": "Xã Triệu Việt Vương"
+      },
+      {
+        "Name": "Xã Việt Tiến"
+      },
+      {
+        "Name": "Xã Chí Minh"
+      },
+      {
+        "Name": "Xã Châu Ninh"
+      },
+      {
+        "Name": "Xã Yên Mỹ"
+      },
+      {
+        "Name": "Xã Việt Yên"
+      },
+      {
+        "Name": "Xã Hoàn Long"
+      },
+      {
+        "Name": "Xã Nguyễn Văn Linh"
+      },
+      {
+        "Name": "Phường Mỹ Hào"
+      },
+      {
+        "Name": "Phường Đường Hào"
+      },
+      {
+        "Name": "Phường Thượng Hồng"
+      },
+      {
+        "Name": "Xã Như Quỳnh"
+      },
+      {
+        "Name": "Xã Lạc Đạo"
+      },
+      {
+        "Name": "Xã Đại Đồng"
+      },
+      {
+        "Name": "Xã Nghĩa Trụ"
+      },
+      {
+        "Name": "Xã Phụng Công"
+      },
+      {
+        "Name": "Xã Văn Giang"
+      },
+      {
+        "Name": "Xã Mễ Sở"
+      },
+      {
+        "Name": "Phường Thái Bình"
+      },
+      {
+        "Name": "Phường Trần Lãm"
+      },
+      {
+        "Name": "Phường Trần Hưng Đạo"
+      },
+      {
+        "Name": "Phường Trà Lý"
+      },
+      {
+        "Name": "Phường Vũ Phúc"
+      },
+      {
+        "Name": "Xã Thái Thụy"
+      },
+      {
+        "Name": "Xã Đông Thụy Anh"
+      },
+      {
+        "Name": "Xã Bắc Thụy Anh"
+      },
+      {
+        "Name": "Xã Thụy Anh"
+      },
+      {
+        "Name": "Xã Nam Thụy Anh"
+      },
+      {
+        "Name": "Xã Bắc Thái Ninh"
+      },
+      {
+        "Name": "Xã Thái Ninh"
+      },
+      {
+        "Name": "Xã Nam Thái Ninh"
+      },
+      {
+        "Name": "Xã Tây Thái Ninh"
+      },
+      {
+        "Name": "Xã Tây Thụy Anh"
+      },
+      {
+        "Name": "Xã Tiền Hải"
+      },
+      {
+        "Name": "Xã Tây Tiền Hải"
+      },
+      {
+        "Name": "Xã Ái Quốc"
+      },
+      {
+        "Name": "Xã Đồng Châu"
+      },
+      {
+        "Name": "Xã Đông Tiền Hải"
+      },
+      {
+        "Name": "Xã Nam Cường"
+      },
+      {
+        "Name": "Xã Hưng Phú"
+      },
+      {
+        "Name": "Xã Đông Quan"
+      },
+      {
+        "Name": "Xã Nam Tiên Hưng"
+      },
+      {
+        "Name": "Xã Tiên Hưng"
+      },
+      {
+        "Name": "Xã Hưng Hà"
+      },
+      {
+        "Name": "Xã Tiên La"
+      },
+      {
+        "Name": "Xã Lê Quý Đôn"
+      },
+      {
+        "Name": "Xã Hồng Minh"
+      },
+      {
+        "Name": "Xã Thần Khê"
+      },
+      {
+        "Name": "Xã Diên Hà"
+      },
+      {
+        "Name": "Xã Ngự Thiên"
+      },
+      {
+        "Name": "Xã Long Hưng"
+      },
+      {
+        "Name": "Xã Kiến Xương"
+      },
+      {
+        "Name": "Xã Lê Lợi"
+      },
+      {
+        "Name": "Xã Quang Lịch"
+      },
+      {
+        "Name": "Xã Vũ Quý"
+      },
+      {
+        "Name": "Xã Bình Thanh"
+      },
+      {
+        "Name": "Xã Bình Định"
+      },
+      {
+        "Name": "Xã Hồng Vũ"
+      },
+      {
+        "Name": "Xã Bình Nguyên"
+      },
+      {
+        "Name": "Xã Trà Giang"
+      },
+      {
+        "Name": "Xã Vũ Thư"
+      },
+      {
+        "Name": "Xã Thư Trì"
+      },
+      {
+        "Name": "Xã Tân Thuận"
+      },
+      {
+        "Name": "Xã Thư Vũ"
+      },
+      {
+        "Name": "Xã Vũ Tiên"
+      },
+      {
+        "Name": "Xã Vạn Xuân"
+      },
+      {
+        "Name": "Xã Nam Tiền Hải"
+      },
+      {
+        "Name": "Xã Quỳnh Phụ"
+      },
+      {
+        "Name": "Xã Minh Thọ"
+      },
+      {
+        "Name": "Xã Nguyễn Du"
+      },
+      {
+        "Name": "Xã Quỳnh An"
+      },
+      {
+        "Name": "Xã Ngọc Lâm"
+      },
+      {
+        "Name": "Xã Đồng Bằng"
+      },
+      {
+        "Name": "Xã A Sào"
+      },
+      {
+        "Name": "Xã Phụ Dực"
+      },
+      {
+        "Name": "Xã Tân Tiến"
+      },
+      {
+        "Name": "Xã Đông Hưng"
+      },
+      {
+        "Name": "Xã Bắc Tiên Hưng"
+      },
+      {
+        "Name": "Xã Đông Tiên Hưng"
+      },
+      {
+        "Name": "Xã Nam Đông Hưng"
+      },
+      {
+        "Name": "Xã Bắc Đông Quan"
+      },
+      {
+        "Name": "Xã Bắc Đông Hưng"
+      }
+    ],
+    "Plates": [89, 17]
+  },
+  {
+    "Name": "Tỉnh Khánh Hòa",
+    "Wards": [
+      {
+        "Name": "Phường Đô Vinh"
+      },
+      {
+        "Name": "Phường Phan Rang"
+      },
+      {
+        "Name": "Phường Bảo An"
+      },
+      {
+        "Name": "Xã Nam Ninh Hòa"
+      },
+      {
+        "Name": "Xã Vạn Hưng"
+      },
+      {
+        "Name": "Xã Tu Bông"
+      },
+      {
+        "Name": "Xã Vạn Thắng"
+      },
+      {
+        "Name": "Xã Đại Lãnh"
+      },
+      {
+        "Name": "Phường Bắc Cam Ranh"
+      },
+      {
+        "Name": "Xã Nam Cam Ranh"
+      },
+      {
+        "Name": "Xã Phước Dinh"
+      },
+      {
+        "Name": "Phường Nha Trang"
+      },
+      {
+        "Name": "Phường Bắc Nha Trang"
+      },
+      {
+        "Name": "Phường Ninh Chử"
+      },
+      {
+        "Name": "Xã Vĩnh Hải"
+      },
+      {
+        "Name": "Xã Cam Lâm"
+      },
+      {
+        "Name": "Xã Cam An"
+      },
+      {
+        "Name": "Xã Cam Hiệp"
+      },
+      {
+        "Name": "Xã Suối Dầu"
+      },
+      {
+        "Name": "Phường Đông Ninh Hòa"
+      },
+      {
+        "Name": "Đặc Khu Trường Sa"
+      },
+      {
+        "Name": "Phường Tây Nha Trang"
+      },
+      {
+        "Name": "Phường Nam Nha Trang"
+      },
+      {
+        "Name": "Phường Cam Ranh"
+      },
+      {
+        "Name": "Phường Cam Linh"
+      },
+      {
+        "Name": "Phường Ba Ngòi"
+      },
+      {
+        "Name": "Xã Bắc Ninh Hòa"
+      },
+      {
+        "Name": "Phường Ninh Hòa"
+      },
+      {
+        "Name": "Xã Tân Định"
+      },
+      {
+        "Name": "Phường Hòa Thắng"
+      },
+      {
+        "Name": "Xã Tây Ninh Hòa"
+      },
+      {
+        "Name": "Xã Hòa Trí"
+      },
+      {
+        "Name": "Xã Vạn Ninh"
+      },
+      {
+        "Name": "Xã Diên Khánh"
+      },
+      {
+        "Name": "Xã Diên Lạc"
+      },
+      {
+        "Name": "Xã Diên Điền"
+      },
+      {
+        "Name": "Xã Diên Lâm"
+      },
+      {
+        "Name": "Xã Diên Thọ"
+      },
+      {
+        "Name": "Xã Suối Hiệp"
+      },
+      {
+        "Name": "Xã Bắc Khánh Vĩnh"
+      },
+      {
+        "Name": "Xã Trung Khánh Vĩnh"
+      },
+      {
+        "Name": "Xã Tây Khánh Vĩnh"
+      },
+      {
+        "Name": "Xã Nam Khánh Vĩnh"
+      },
+      {
+        "Name": "Xã Khánh Vĩnh"
+      },
+      {
+        "Name": "Xã Khánh Sơn"
+      },
+      {
+        "Name": "Xã Tây Khánh Sơn"
+      },
+      {
+        "Name": "Xã Đông Khánh Sơn"
+      },
+      {
+        "Name": "Xã Ninh Phước"
+      },
+      {
+        "Name": "Xã Phước Hữu"
+      },
+      {
+        "Name": "Xã Phước Hậu"
+      },
+      {
+        "Name": "Xã Thuận Nam"
+      },
+      {
+        "Name": "Xã Cà Ná"
+      },
+      {
+        "Name": "Xã Phước Hà"
+      },
+      {
+        "Name": "Xã Ninh Hải"
+      },
+      {
+        "Name": "Xã Xuân Hải"
+      },
+      {
+        "Name": "Xã Thuận Bắc"
+      },
+      {
+        "Name": "Xã Công Hải"
+      },
+      {
+        "Name": "Xã Ninh Sơn"
+      },
+      {
+        "Name": "Xã Lâm Sơn"
+      },
+      {
+        "Name": "Xã Anh Dũng"
+      },
+      {
+        "Name": "Xã Mỹ Sơn"
+      },
+      {
+        "Name": "Xã Bác Ái Đông"
+      },
+      {
+        "Name": "Xã Bác Ái"
+      },
+      {
+        "Name": "Xã Bác Ái Tây"
+      },
+      {
+        "Name": "Phường Đông Hải"
+      }
+    ],
+    "Plates": []
+  },
+  {
+    "Name": "Tỉnh Lai Châu",
+    "Wards": [
+      {
+        "Name": "Xã Tà Tổng"
+      },
+      {
+        "Name": "Xã Mù Cả"
+      },
+      {
+        "Name": "Xã Thu Lũm"
+      },
+      {
+        "Name": "Xã Pa Ủ"
+      },
+      {
+        "Name": "Xã Nậm Cuổi"
+      },
+      {
+        "Name": "Xã Nậm Mạ"
+      },
+      {
+        "Name": "Xã Lê Lợi"
+      },
+      {
+        "Name": "Xã Nậm Hàng"
+      },
+      {
+        "Name": "Xã Mường Kim"
+      },
+      {
+        "Name": "Xã Khoen On"
+      },
+      {
+        "Name": "Xã Than Uyên"
+      },
+      {
+        "Name": "Xã Mường Than"
+      },
+      {
+        "Name": "Xã Pắc Ta"
+      },
+      {
+        "Name": "Xã Nậm Sỏ"
+      },
+      {
+        "Name": "Xã Tân Uyên"
+      },
+      {
+        "Name": "Xã Mường Khoa"
+      },
+      {
+        "Name": "Xã Bản Bo"
+      },
+      {
+        "Name": "Xã Bình Lư"
+      },
+      {
+        "Name": "Xã Tả Lèng"
+      },
+      {
+        "Name": "Xã Khun Há"
+      },
+      {
+        "Name": "Phường Tân Phong"
+      },
+      {
+        "Name": "Phường Đoàn Kết"
+      },
+      {
+        "Name": "Xã Sin Suối Hồ"
+      },
+      {
+        "Name": "Xã Phong Thổ"
+      },
+      {
+        "Name": "Xã Sì Lở Lầu"
+      },
+      {
+        "Name": "Xã Dào San"
+      },
+      {
+        "Name": "Xã Khổng Lào"
+      },
+      {
+        "Name": "Xã Tủa Sín Chải"
+      },
+      {
+        "Name": "Xã Sìn Hồ"
+      },
+      {
+        "Name": "Xã Hồng Thu"
+      },
+      {
+        "Name": "Xã Nậm Tăm"
+      },
+      {
+        "Name": "Xã Pu Sam Cáp"
+      },
+      {
+        "Name": "Xã Mường Mô"
+      },
+      {
+        "Name": "Xã Hua Bum"
+      },
+      {
+        "Name": "Xã Pa Tần"
+      },
+      {
+        "Name": "Xã Bum Nưa"
+      },
+      {
+        "Name": "Xã Bum Tở"
+      },
+      {
+        "Name": "Xã Mường Tè"
+      }
+    ],
+    "Plates": [25]
+  },
+  {
+    "Name": "Tỉnh Lâm Đồng",
+    "Wards": [
+      {
+        "Name": "Xã Quảng Hòa"
+      },
+      {
+        "Name": "Xã Quảng Sơn"
+      },
+      {
+        "Name": "Xã Quảng Trực"
+      },
+      {
+        "Name": "Xã Ninh Gia"
+      },
+      {
+        "Name": "Xã Phan Rí Cửa"
+      },
+      {
+        "Name": "Xã Tuy Phong"
+      },
+      {
+        "Name": "Xã Hòa Thắng"
+      },
+      {
+        "Name": "Đặc Khu Phú Quý"
+      },
+      {
+        "Name": "Xã Hồng Thái"
+      },
+      {
+        "Name": "Xã Đạ Huoai 3"
+      },
+      {
+        "Name": "Phường Xuân Hương-Đà Lạt"
+      },
+      {
+        "Name": "Phường Cam Ly-Đà Lạt"
+      },
+      {
+        "Name": "Phường Lâm Viên-Đà Lạt"
+      },
+      {
+        "Name": "Phường Xuân Trường-Đà Lạt"
+      },
+      {
+        "Name": "Phường Lang Biang-Đà Lạt"
+      },
+      {
+        "Name": "Phường 1 Bảo Lộc"
+      },
+      {
+        "Name": "Phường 2 Bảo Lộc"
+      },
+      {
+        "Name": "Phường 3 Bảo Lộc"
+      },
+      {
+        "Name": "Phường B'Lao"
+      },
+      {
+        "Name": "Xã Đơn Dương"
+      },
+      {
+        "Name": "Xã Ka Đô"
+      },
+      {
+        "Name": "Xã Quảng Lập"
+      },
+      {
+        "Name": "Xã D'Ran"
+      },
+      {
+        "Name": "Xã Hiệp Thạnh"
+      },
+      {
+        "Name": "Xã Lạc Dương"
+      },
+      {
+        "Name": "Xã Đức Trọng"
+      },
+      {
+        "Name": "Xã Tân Hội"
+      },
+      {
+        "Name": "Xã Tà Hine"
+      },
+      {
+        "Name": "Xã Tà Năng"
+      },
+      {
+        "Name": "Xã Đinh Văn Lâm Hà"
+      },
+      {
+        "Name": "Xã Phú Sơn Lâm Hà"
+      },
+      {
+        "Name": "Xã Nam Hà Lâm Hà"
+      },
+      {
+        "Name": "Xã Nam Ban Lâm Hà"
+      },
+      {
+        "Name": "Xã Tân Hà Lâm Hà"
+      },
+      {
+        "Name": "Xã Phúc Thọ Lâm Hà"
+      },
+      {
+        "Name": "Xã Đam Rông 1"
+      },
+      {
+        "Name": "Xã Đam Rông 2"
+      },
+      {
+        "Name": "Xã Đam Rông 3"
+      },
+      {
+        "Name": "Xã Đam Rông 4"
+      },
+      {
+        "Name": "Xã Di Linh"
+      },
+      {
+        "Name": "Xã Hòa Ninh"
+      },
+      {
+        "Name": "Xã Hòa Bắc"
+      },
+      {
+        "Name": "Xã Đinh Trang Thượng"
+      },
+      {
+        "Name": "Xã Bảo Thuận"
+      },
+      {
+        "Name": "Xã Sơn Điền"
+      },
+      {
+        "Name": "Xã Gia Hiệp"
+      },
+      {
+        "Name": "Xã Bảo Lâm 1"
+      },
+      {
+        "Name": "Xã Bảo Lâm 2"
+      },
+      {
+        "Name": "Xã Bảo Lâm 3"
+      },
+      {
+        "Name": "Xã Bảo Lâm 4"
+      },
+      {
+        "Name": "Xã Bảo Lâm 5"
+      },
+      {
+        "Name": "Xã Đạ Huoai"
+      },
+      {
+        "Name": "Xã Đạ Huoai 2"
+      },
+      {
+        "Name": "Xã Đạ Tẻh"
+      },
+      {
+        "Name": "Xã Đạ Tẻh 2"
+      },
+      {
+        "Name": "Xã Đạ Tẻh 3"
+      },
+      {
+        "Name": "Xã Cát Tiên"
+      },
+      {
+        "Name": "Xã Cát Tiên 2"
+      },
+      {
+        "Name": "Xã Cát Tiên 3"
+      },
+      {
+        "Name": "Xã Đắk Wil"
+      },
+      {
+        "Name": "Xã Nam Dong"
+      },
+      {
+        "Name": "Xã Cư Jút"
+      },
+      {
+        "Name": "Xã Thuận An"
+      },
+      {
+        "Name": "Xã Đức Lập"
+      },
+      {
+        "Name": "Xã Đắk Mil"
+      },
+      {
+        "Name": "Xã Đắk Sắk"
+      },
+      {
+        "Name": "Xã Nam Đà"
+      },
+      {
+        "Name": "Xã Krông Nô"
+      },
+      {
+        "Name": "Xã Nâm Nung"
+      },
+      {
+        "Name": "Xã Quảng Phú"
+      },
+      {
+        "Name": "Xã Đắk Song"
+      },
+      {
+        "Name": "Xã Đức An"
+      },
+      {
+        "Name": "Xã Thuận Hạnh"
+      },
+      {
+        "Name": "Xã Trường Xuân"
+      },
+      {
+        "Name": "Xã Tà Đùng"
+      },
+      {
+        "Name": "Xã Quảng Khê"
+      },
+      {
+        "Name": "Phường Bắc Gia Nghĩa"
+      },
+      {
+        "Name": "Phường Nam Gia Nghĩa"
+      },
+      {
+        "Name": "Phường Đông Gia Nghĩa"
+      },
+      {
+        "Name": "Xã Quảng Tân"
+      },
+      {
+        "Name": "Xã Tuy Đức"
+      },
+      {
+        "Name": "Xã Kiến Đức"
+      },
+      {
+        "Name": "Xã Nhân Cơ"
+      },
+      {
+        "Name": "Xã Quảng Tín"
+      },
+      {
+        "Name": "Xã Vĩnh Hảo"
+      },
+      {
+        "Name": "Xã Liên Hương"
+      },
+      {
+        "Name": "Xã Bắc Bình"
+      },
+      {
+        "Name": "Xã Hải Ninh"
+      },
+      {
+        "Name": "Xã Phan Sơn"
+      },
+      {
+        "Name": "Xã Sông Lũy"
+      },
+      {
+        "Name": "Xã Lương Sơn"
+      },
+      {
+        "Name": "Xã Đông Giang"
+      },
+      {
+        "Name": "Xã Tân Lập"
+      },
+      {
+        "Name": "Xã Tân Minh"
+      },
+      {
+        "Name": "Xã Hàm Tân"
+      },
+      {
+        "Name": "Xã Sơn Mỹ"
+      },
+      {
+        "Name": "Phường La Gi"
+      },
+      {
+        "Name": "Phường Phước Hội"
+      },
+      {
+        "Name": "Xã Tân Hải"
+      },
+      {
+        "Name": "Xã Nghị Đức"
+      },
+      {
+        "Name": "Xã Bắc Ruộng"
+      },
+      {
+        "Name": "Xã Đồng Kho"
+      },
+      {
+        "Name": "Xã Tánh Linh"
+      },
+      {
+        "Name": "Xã Suối Kiết"
+      },
+      {
+        "Name": "Xã Nam Thành"
+      },
+      {
+        "Name": "Xã Đức Linh"
+      },
+      {
+        "Name": "Xã Hoài Đức"
+      },
+      {
+        "Name": "Xã Trà Tân"
+      },
+      {
+        "Name": "Xã La Dạ"
+      },
+      {
+        "Name": "Xã Hàm Thuận Bắc"
+      },
+      {
+        "Name": "Xã Hàm Thuận"
+      },
+      {
+        "Name": "Xã Hồng Sơn"
+      },
+      {
+        "Name": "Xã Hàm Liêm"
+      },
+      {
+        "Name": "Phường Hàm Thắng"
+      },
+      {
+        "Name": "Phường Bình Thuận"
+      },
+      {
+        "Name": "Phường Mũi Né"
+      },
+      {
+        "Name": "Phường Phú Thủy"
+      },
+      {
+        "Name": "Phường Phan Thiết"
+      },
+      {
+        "Name": "Phường Tiến Thành"
+      },
+      {
+        "Name": "Xã Tuyên Quang"
+      },
+      {
+        "Name": "Xã Hàm Thạnh"
+      },
+      {
+        "Name": "Xã Hàm Kiệm"
+      },
+      {
+        "Name": "Xã Tân Thành"
+      },
+      {
+        "Name": "Xã Hàm Thuận Nam"
+      }
+    ],
+    "Plates": [49, 48, 86]
+  },
+  {
+    "Name": "Tỉnh Lạng Sơn",
+    "Wards": [
+      {
+        "Name": "Xã Châu Sơn"
+      },
+      {
+        "Name": "Xã Đình Lập"
+      },
+      {
+        "Name": "Xã Kiên Mộc"
+      },
+      {
+        "Name": "Xã Thất Khê"
+      },
+      {
+        "Name": "Xã Đoàn Kết"
+      },
+      {
+        "Name": "Xã Tân Tiến"
+      },
+      {
+        "Name": "Xã Tràng Định"
+      },
+      {
+        "Name": "Xã Quốc Khánh"
+      },
+      {
+        "Name": "Xã Kháng Chiến"
+      },
+      {
+        "Name": "Xã Quốc Việt"
+      },
+      {
+        "Name": "Xã Bình Gia"
+      },
+      {
+        "Name": "Xã Tân Văn"
+      },
+      {
+        "Name": "Xã Hồng Phong"
+      },
+      {
+        "Name": "Xã Hoa Thám"
+      },
+      {
+        "Name": "Xã Quý Hòa"
+      },
+      {
+        "Name": "Xã Thiện Hòa"
+      },
+      {
+        "Name": "Xã Thiện Thuật"
+      },
+      {
+        "Name": "Xã Thiện Long"
+      },
+      {
+        "Name": "Xã Bắc Sơn"
+      },
+      {
+        "Name": "Xã Hưng Vũ"
+      },
+      {
+        "Name": "Xã Vũ Lăng"
+      },
+      {
+        "Name": "Xã Nhất Hòa"
+      },
+      {
+        "Name": "Xã Vũ Lễ"
+      },
+      {
+        "Name": "Xã Tân Tri"
+      },
+      {
+        "Name": "Xã Văn Quan"
+      },
+      {
+        "Name": "Xã Điềm He"
+      },
+      {
+        "Name": "Xã Yên Phúc"
+      },
+      {
+        "Name": "Xã Tri Lễ"
+      },
+      {
+        "Name": "Xã Tân Đoàn"
+      },
+      {
+        "Name": "Xã Khánh Khê"
+      },
+      {
+        "Name": "Xã Na Sầm"
+      },
+      {
+        "Name": "Xã Hoàng Văn Thụ"
+      },
+      {
+        "Name": "Xã Thụy Hùng"
+      },
+      {
+        "Name": "Xã Văn Lãng"
+      },
+      {
+        "Name": "Xã Hội Hoan"
+      },
+      {
+        "Name": "Xã Lộc Bình"
+      },
+      {
+        "Name": "Xã Mẫu Sơn"
+      },
+      {
+        "Name": "Xã Na Dương"
+      },
+      {
+        "Name": "Xã Lợi Bác"
+      },
+      {
+        "Name": "Xã Thống Nhất"
+      },
+      {
+        "Name": "Xã Xuân Dương"
+      },
+      {
+        "Name": "Xã Khuất Xá"
+      },
+      {
+        "Name": "Xã Thái Bình"
+      },
+      {
+        "Name": "Xã Hữu Lũng"
+      },
+      {
+        "Name": "Xã Tuấn Sơn"
+      },
+      {
+        "Name": "Xã Tân Thành"
+      },
+      {
+        "Name": "Xã Vân Nham"
+      },
+      {
+        "Name": "Xã Thiện Tân"
+      },
+      {
+        "Name": "Xã Yên Bình"
+      },
+      {
+        "Name": "Xã Hữu Liên"
+      },
+      {
+        "Name": "Xã Cai Kinh"
+      },
+      {
+        "Name": "Xã Chi Lăng"
+      },
+      {
+        "Name": "Xã Quan Sơn"
+      },
+      {
+        "Name": "Xã Chiến Thắng"
+      },
+      {
+        "Name": "Xã Nhân Lý"
+      },
+      {
+        "Name": "Xã Bằng Mạc"
+      },
+      {
+        "Name": "Xã Vạn Linh"
+      },
+      {
+        "Name": "Xã Đồng Đăng"
+      },
+      {
+        "Name": "Xã Cao Lộc"
+      },
+      {
+        "Name": "Xã Công Sơn"
+      },
+      {
+        "Name": "Xã Ba Sơn"
+      },
+      {
+        "Name": "Phường Tam Thanh"
+      },
+      {
+        "Name": "Phường Lương Văn Tri"
+      },
+      {
+        "Name": "Phường Kỳ Lừa"
+      },
+      {
+        "Name": "Phường Đông Kinh"
+      }
+    ],
+    "Plates": [12]
+  },
+  {
+    "Name": "Tỉnh Lào Cai",
+    "Wards": [
+      {
+        "Name": "Xã Phong Dụ Thượng"
+      },
+      {
+        "Name": "Xã Nậm Có"
+      },
+      {
+        "Name": "Xã Nậm Xé"
+      },
+      {
+        "Name": "Xã Tà Xi Láng"
+      },
+      {
+        "Name": "Xã Chế Tạo"
+      },
+      {
+        "Name": "Xã Lao Chải"
+      },
+      {
+        "Name": "Xã Cát Thịnh"
+      },
+      {
+        "Name": "Xã Ngũ Chỉ Sơn"
+      },
+      {
+        "Name": "Xã Khao Mang"
+      },
+      {
+        "Name": "Xã Mù Cang Chải"
+      },
+      {
+        "Name": "Xã Púng Luông"
+      },
+      {
+        "Name": "Xã Trạm Tấu"
+      },
+      {
+        "Name": "Xã Hạnh Phúc"
+      },
+      {
+        "Name": "Xã Phình Hồ"
+      },
+      {
+        "Name": "Xã Liên Sơn"
+      },
+      {
+        "Name": "Phường Nghĩa Lộ"
+      },
+      {
+        "Name": "Phường Trung Tâm"
+      },
+      {
+        "Name": "Phường Cầu Thia"
+      },
+      {
+        "Name": "Xã Tú Lệ"
+      },
+      {
+        "Name": "Xã Gia Hội"
+      },
+      {
+        "Name": "Xã Sơn Lương"
+      },
+      {
+        "Name": "Xã Văn Chấn"
+      },
+      {
+        "Name": "Xã Thượng Bằng La"
+      },
+      {
+        "Name": "Xã Chấn Thịnh"
+      },
+      {
+        "Name": "Xã Nghĩa Tâm"
+      },
+      {
+        "Name": "Xã Phong Dụ Hạ"
+      },
+      {
+        "Name": "Xã Châu Quế"
+      },
+      {
+        "Name": "Xã Lâm Giang"
+      },
+      {
+        "Name": "Xã Đông Cuông"
+      },
+      {
+        "Name": "Xã Tân Hợp"
+      },
+      {
+        "Name": "Xã Mậu A"
+      },
+      {
+        "Name": "Xã Xuân Ái"
+      },
+      {
+        "Name": "Xã Mỏ Vàng"
+      },
+      {
+        "Name": "Xã Lâm Thượng"
+      },
+      {
+        "Name": "Xã Lục Yên"
+      },
+      {
+        "Name": "Xã Tân Lĩnh"
+      },
+      {
+        "Name": "Xã Khánh Hòa"
+      },
+      {
+        "Name": "Xã Phúc Lợi"
+      },
+      {
+        "Name": "Xã Mường Lai"
+      },
+      {
+        "Name": "Xã Cảm Nhân"
+      },
+      {
+        "Name": "Xã Yên Thành"
+      },
+      {
+        "Name": "Xã Thác Bà"
+      },
+      {
+        "Name": "Xã Yên Bình"
+      },
+      {
+        "Name": "Xã Bảo Ái"
+      },
+      {
+        "Name": "Phường Văn Phú"
+      },
+      {
+        "Name": "Phường Yên Bái"
+      },
+      {
+        "Name": "Phường Nam Cường"
+      },
+      {
+        "Name": "Phường Âu Lâu"
+      },
+      {
+        "Name": "Xã Trấn Yên"
+      },
+      {
+        "Name": "Xã Hưng Khánh"
+      },
+      {
+        "Name": "Xã Lương Thịnh"
+      },
+      {
+        "Name": "Xã Việt Hồng"
+      },
+      {
+        "Name": "Xã Quy Mông"
+      },
+      {
+        "Name": "Xã Phong Hải"
+      },
+      {
+        "Name": "Xã Xuân Quang"
+      },
+      {
+        "Name": "Xã Bảo Thắng"
+      },
+      {
+        "Name": "Xã Tằng Loỏng"
+      },
+      {
+        "Name": "Xã Gia Phú"
+      },
+      {
+        "Name": "Phường Cam Đường"
+      },
+      {
+        "Name": "Phường Lào Cai"
+      },
+      {
+        "Name": "Xã Cốc San"
+      },
+      {
+        "Name": "Xã Hợp Thành"
+      },
+      {
+        "Name": "Xã Mường Hum"
+      },
+      {
+        "Name": "Xã Dền Sáng"
+      },
+      {
+        "Name": "Xã Y Tý"
+      },
+      {
+        "Name": "Xã A Mú Sung"
+      },
+      {
+        "Name": "Xã Trịnh Tường"
+      },
+      {
+        "Name": "Xã Bản Xèo"
+      },
+      {
+        "Name": "Xã Bát Xát"
+      },
+      {
+        "Name": "Xã Bảo Yên"
+      },
+      {
+        "Name": "Xã Nghĩa Đô"
+      },
+      {
+        "Name": "Xã Thượng Hà"
+      },
+      {
+        "Name": "Xã Xuân Hòa"
+      },
+      {
+        "Name": "Xã Phúc Khánh"
+      },
+      {
+        "Name": "Xã Bảo Hà"
+      },
+      {
+        "Name": "Xã Võ Lao"
+      },
+      {
+        "Name": "Xã Khánh Yên"
+      },
+      {
+        "Name": "Xã Văn Bàn"
+      },
+      {
+        "Name": "Xã Dương Quỳ"
+      },
+      {
+        "Name": "Xã Chiềng Ken"
+      },
+      {
+        "Name": "Xã Minh Lương"
+      },
+      {
+        "Name": "Xã Nậm Chày"
+      },
+      {
+        "Name": "Xã Mường Bo"
+      },
+      {
+        "Name": "Xã Bản Hồ"
+      },
+      {
+        "Name": "Phường Sa Pa"
+      },
+      {
+        "Name": "Xã Tả Phìn"
+      },
+      {
+        "Name": "Xã Tả Van"
+      },
+      {
+        "Name": "Xã Cốc Lầu"
+      },
+      {
+        "Name": "Xã Bảo Nhai"
+      },
+      {
+        "Name": "Xã Bản Liền"
+      },
+      {
+        "Name": "Xã Bắc Hà"
+      },
+      {
+        "Name": "Xã Tả Củ Tỷ"
+      },
+      {
+        "Name": "Xã Lùng Phình"
+      },
+      {
+        "Name": "Xã Pha Long"
+      },
+      {
+        "Name": "Xã Mường Khương"
+      },
+      {
+        "Name": "Xã Bản Lầu"
+      },
+      {
+        "Name": "Xã Cao Sơn"
+      },
+      {
+        "Name": "Xã Si Ma Cai"
+      },
+      {
+        "Name": "Xã Sín Chéng"
+      }
+    ],
+    "Plates": [24, 21]
+  },
+  {
+    "Name": "Tỉnh Nghệ An",
+    "Wards": [
+      {
+        "Name": "Xã Hữu Khuông"
+      },
+      {
+        "Name": "Xã Huồi Tụ"
+      },
+      {
+        "Name": "Xã Bắc Lý"
+      },
+      {
+        "Name": "Xã Keng Đu"
+      },
+      {
+        "Name": "Xã Mường Lống"
+      },
+      {
+        "Name": "Xã Mỹ Lý"
+      },
+      {
+        "Name": "Xã Bình Chuẩn"
+      },
+      {
+        "Name": "Xã Châu Bình"
+      },
+      {
+        "Name": "Xã Lượng Minh"
+      },
+      {
+        "Name": "Xã Quỳnh Anh"
+      },
+      {
+        "Name": "Xã Anh Sơn"
+      },
+      {
+        "Name": "Xã Yên Xuân"
+      },
+      {
+        "Name": "Xã Nhân Hòa"
+      },
+      {
+        "Name": "Xã Anh Sơn Đông"
+      },
+      {
+        "Name": "Xã Vĩnh Tường"
+      },
+      {
+        "Name": "Xã Thành Bình Thọ"
+      },
+      {
+        "Name": "Xã Con Cuông"
+      },
+      {
+        "Name": "Xã Môn Sơn"
+      },
+      {
+        "Name": "Xã Mậu Thạch"
+      },
+      {
+        "Name": "Xã Cam Phục"
+      },
+      {
+        "Name": "Xã Châu Khê"
+      },
+      {
+        "Name": "Xã Diễn Châu"
+      },
+      {
+        "Name": "Xã Đức Châu"
+      },
+      {
+        "Name": "Xã Quảng Châu"
+      },
+      {
+        "Name": "Xã Hải Châu"
+      },
+      {
+        "Name": "Xã Tân Châu"
+      },
+      {
+        "Name": "Xã An Châu"
+      },
+      {
+        "Name": "Xã Minh Châu"
+      },
+      {
+        "Name": "Xã Hùng Châu"
+      },
+      {
+        "Name": "Xã Đô Lương"
+      },
+      {
+        "Name": "Xã Bạch Ngọc"
+      },
+      {
+        "Name": "Xã Văn Hiến"
+      },
+      {
+        "Name": "Xã Bạch Hà"
+      },
+      {
+        "Name": "Xã Thuần Trung"
+      },
+      {
+        "Name": "Xã Lương Sơn"
+      },
+      {
+        "Name": "Phường Hoàng Mai"
+      },
+      {
+        "Name": "Phường Tân Mai"
+      },
+      {
+        "Name": "Phường Quỳnh Mai"
+      },
+      {
+        "Name": "Xã Hưng Nguyên"
+      },
+      {
+        "Name": "Xã Hưng Nguyên Nam"
+      },
+      {
+        "Name": "Xã Lam Thành"
+      },
+      {
+        "Name": "Xã Mường Xén"
+      },
+      {
+        "Name": "Xã Hữu Kiệm"
+      },
+      {
+        "Name": "Xã Nậm Cắn"
+      },
+      {
+        "Name": "Xã Chiêu Lưu"
+      },
+      {
+        "Name": "Xã Na Loi"
+      },
+      {
+        "Name": "Xã Mường Típ"
+      },
+      {
+        "Name": "Xã Na Ngoi"
+      },
+      {
+        "Name": "Xã Vạn An"
+      },
+      {
+        "Name": "Xã Nam Đàn"
+      },
+      {
+        "Name": "Xã Đại Huệ"
+      },
+      {
+        "Name": "Xã Thiên Nhẫn"
+      },
+      {
+        "Name": "Xã Kim Liên"
+      },
+      {
+        "Name": "Xã Nghĩa Đàn"
+      },
+      {
+        "Name": "Xã Nghĩa Thọ"
+      },
+      {
+        "Name": "Xã Nghĩa Lâm"
+      },
+      {
+        "Name": "Xã Nghĩa Mai"
+      },
+      {
+        "Name": "Xã Nghĩa Hưng"
+      },
+      {
+        "Name": "Xã Nghĩa Khánh"
+      },
+      {
+        "Name": "Xã Nghĩa Lộc"
+      },
+      {
+        "Name": "Xã Nghi Lộc"
+      },
+      {
+        "Name": "Xã Phúc Lộc"
+      },
+      {
+        "Name": "Xã Đông Lộc"
+      },
+      {
+        "Name": "Xã Trung Lộc"
+      },
+      {
+        "Name": "Xã Thần Lĩnh"
+      },
+      {
+        "Name": "Xã Hải Lộc"
+      },
+      {
+        "Name": "Xã Văn Kiều"
+      },
+      {
+        "Name": "Xã Tiền Phong"
+      },
+      {
+        "Name": "Xã Tri Lễ"
+      },
+      {
+        "Name": "Xã Mường Quàng"
+      },
+      {
+        "Name": "Xã Thông Thụ"
+      },
+      {
+        "Name": "Xã Quỳ Châu"
+      },
+      {
+        "Name": "Xã Châu Tiến"
+      },
+      {
+        "Name": "Xã Hùng Chân"
+      },
+      {
+        "Name": "Xã Quỳ Hợp"
+      },
+      {
+        "Name": "Xã Tam Hợp"
+      },
+      {
+        "Name": "Xã Châu Lộc"
+      },
+      {
+        "Name": "Xã Châu Hồng"
+      },
+      {
+        "Name": "Xã Mường Ham"
+      },
+      {
+        "Name": "Xã Mường Chọng"
+      },
+      {
+        "Name": "Xã Minh Hợp"
+      },
+      {
+        "Name": "Xã Quỳnh Lưu"
+      },
+      {
+        "Name": "Xã Quỳnh Văn"
+      },
+      {
+        "Name": "Xã Quỳnh Tam"
+      },
+      {
+        "Name": "Xã Quỳnh Phú"
+      },
+      {
+        "Name": "Xã Quỳnh Sơn"
+      },
+      {
+        "Name": "Xã Quỳnh Thắng"
+      },
+      {
+        "Name": "Xã Tân Kỳ"
+      },
+      {
+        "Name": "Xã Tân Phú"
+      },
+      {
+        "Name": "Xã Tân An"
+      },
+      {
+        "Name": "Xã Nghĩa Đồng"
+      },
+      {
+        "Name": "Xã Giai Xuân"
+      },
+      {
+        "Name": "Xã Nghĩa Hành"
+      },
+      {
+        "Name": "Xã Tiên Đồng"
+      },
+      {
+        "Name": "Xã Cát Ngạn"
+      },
+      {
+        "Name": "Xã Tam Đồng"
+      },
+      {
+        "Name": "Xã Hạnh Lâm"
+      },
+      {
+        "Name": "Xã Sơn Lâm"
+      },
+      {
+        "Name": "Xã Hoa Quân"
+      },
+      {
+        "Name": "Xã Kim Bảng"
+      },
+      {
+        "Name": "Xã Bích Hào"
+      },
+      {
+        "Name": "Xã Đại Đồng"
+      },
+      {
+        "Name": "Xã Xuân Lâm"
+      },
+      {
+        "Name": "Phường Thái Hòa"
+      },
+      {
+        "Name": "Phường Tây Hiếu"
+      },
+      {
+        "Name": "Xã Đông Hiếu"
+      },
+      {
+        "Name": "Xã Tam Quang"
+      },
+      {
+        "Name": "Xã Tam Thái"
+      },
+      {
+        "Name": "Xã Tương Dương"
+      },
+      {
+        "Name": "Xã Yên Na"
+      },
+      {
+        "Name": "Xã Yên Hòa"
+      },
+      {
+        "Name": "Xã Nga My"
+      },
+      {
+        "Name": "Xã Nhôn Mai"
+      },
+      {
+        "Name": "Phường Thành Vinh"
+      },
+      {
+        "Name": "Phường Vinh Hưng"
+      },
+      {
+        "Name": "Phường Vinh Phú"
+      },
+      {
+        "Name": "Phường Vinh Lộc"
+      },
+      {
+        "Name": "Xã Yên Thành"
+      },
+      {
+        "Name": "Xã Quan Thành"
+      },
+      {
+        "Name": "Xã Hợp Minh"
+      },
+      {
+        "Name": "Xã Vân Tụ"
+      },
+      {
+        "Name": "Xã Vân Du"
+      },
+      {
+        "Name": "Xã Quang Đồng"
+      },
+      {
+        "Name": "Xã Giai Lạc"
+      },
+      {
+        "Name": "Xã Bình Minh"
+      },
+      {
+        "Name": "Xã Đông Thành"
+      },
+      {
+        "Name": "Xã Yên Trung"
+      },
+      {
+        "Name": "Phường Cửa Lò"
+      },
+      {
+        "Name": "Xã Quế Phong"
+      },
+      {
+        "Name": "Phường Trường Vinh"
+      }
+    ],
+    "Plates": [37]
+  },
+  {
+    "Name": "Tỉnh Ninh Bình",
+    "Wards": [
+      {
+        "Name": "Phường Duy Tân"
+      },
+      {
+        "Name": "Phường Duy Hà"
+      },
+      {
+        "Name": "Phường Tây Hoa Lư"
+      },
+      {
+        "Name": "Xã Thanh Bình"
+      },
+      {
+        "Name": "Xã Thanh Liêm"
+      },
+      {
+        "Name": "Phường Hà Nam"
+      },
+      {
+        "Name": "Phường Tiên Sơn"
+      },
+      {
+        "Name": "Phường Mỹ Lộc"
+      },
+      {
+        "Name": "Phường Hoa Lư"
+      },
+      {
+        "Name": "Phường Nam Hoa Lư"
+      },
+      {
+        "Name": "Phường Đông Hoa Lư"
+      },
+      {
+        "Name": "Phường Tam Điệp"
+      },
+      {
+        "Name": "Phường Yên Sơn"
+      },
+      {
+        "Name": "Phường Trung Sơn"
+      },
+      {
+        "Name": "Phường Yên Thắng"
+      },
+      {
+        "Name": "Xã Gia Viễn"
+      },
+      {
+        "Name": "Xã Đại Hoàng"
+      },
+      {
+        "Name": "Xã Gia Hưng"
+      },
+      {
+        "Name": "Xã Gia Phong"
+      },
+      {
+        "Name": "Xã Gia Vân"
+      },
+      {
+        "Name": "Xã Gia Trấn"
+      },
+      {
+        "Name": "Xã Nho Quan"
+      },
+      {
+        "Name": "Xã Gia Lâm"
+      },
+      {
+        "Name": "Xã Gia Tường"
+      },
+      {
+        "Name": "Xã Phú Sơn"
+      },
+      {
+        "Name": "Xã Cúc Phương"
+      },
+      {
+        "Name": "Xã Phú Long"
+      },
+      {
+        "Name": "Xã Thanh Sơn"
+      },
+      {
+        "Name": "Xã Quỳnh Lưu"
+      },
+      {
+        "Name": "Xã Yên Khánh"
+      },
+      {
+        "Name": "Xã Khánh Nhạc"
+      },
+      {
+        "Name": "Xã Khánh Thiện"
+      },
+      {
+        "Name": "Xã Khánh Hội"
+      },
+      {
+        "Name": "Xã Khánh Trung"
+      },
+      {
+        "Name": "Xã Yên Mô"
+      },
+      {
+        "Name": "Xã Yên Từ"
+      },
+      {
+        "Name": "Xã Yên Mạc"
+      },
+      {
+        "Name": "Xã Đồng Thái"
+      },
+      {
+        "Name": "Xã Chất Bình"
+      },
+      {
+        "Name": "Xã Kim Sơn"
+      },
+      {
+        "Name": "Xã Quang Thiện"
+      },
+      {
+        "Name": "Xã Phát Diệm"
+      },
+      {
+        "Name": "Xã Lai Thành"
+      },
+      {
+        "Name": "Xã Định Hóa"
+      },
+      {
+        "Name": "Xã Bình Minh"
+      },
+      {
+        "Name": "Xã Kim Đông"
+      },
+      {
+        "Name": "Phường Nam Định"
+      },
+      {
+        "Name": "Phường Thiên Trường"
+      },
+      {
+        "Name": "Phường Đông A"
+      },
+      {
+        "Name": "Phường Thành Nam"
+      },
+      {
+        "Name": "Phường Trường Thi"
+      },
+      {
+        "Name": "Phường Hồng Quang"
+      },
+      {
+        "Name": "Xã Nam Trực"
+      },
+      {
+        "Name": "Xã Nam Minh"
+      },
+      {
+        "Name": "Xã Nam Đồng"
+      },
+      {
+        "Name": "Xã Nam Ninh"
+      },
+      {
+        "Name": "Xã Nam Hồng"
+      },
+      {
+        "Name": "Xã Minh Tân"
+      },
+      {
+        "Name": "Xã Hiển Khánh"
+      },
+      {
+        "Name": "Xã Vụ Bản"
+      },
+      {
+        "Name": "Xã Liên Minh"
+      },
+      {
+        "Name": "Xã Ý Yên"
+      },
+      {
+        "Name": "Xã Yên Đồng"
+      },
+      {
+        "Name": "Xã Yên Cường"
+      },
+      {
+        "Name": "Xã Vạn Thắng"
+      },
+      {
+        "Name": "Xã Vũ Dương"
+      },
+      {
+        "Name": "Xã Tân Minh"
+      },
+      {
+        "Name": "Xã Phong Doanh"
+      },
+      {
+        "Name": "Xã Cổ Lễ"
+      },
+      {
+        "Name": "Xã Ninh Giang"
+      },
+      {
+        "Name": "Xã Cát Thành"
+      },
+      {
+        "Name": "Xã Trực Ninh"
+      },
+      {
+        "Name": "Xã Quang Hưng"
+      },
+      {
+        "Name": "Xã Minh Thái"
+      },
+      {
+        "Name": "Xã Ninh Cường"
+      },
+      {
+        "Name": "Xã Xuân Trường"
+      },
+      {
+        "Name": "Xã Xuân Hưng"
+      },
+      {
+        "Name": "Xã Xuân Giang"
+      },
+      {
+        "Name": "Xã Xuân Hồng"
+      },
+      {
+        "Name": "Xã Hải Hậu"
+      },
+      {
+        "Name": "Xã Hải Anh"
+      },
+      {
+        "Name": "Xã Hải Tiến"
+      },
+      {
+        "Name": "Xã Hải Hưng"
+      },
+      {
+        "Name": "Xã Hải An"
+      },
+      {
+        "Name": "Xã Hải Quang"
+      },
+      {
+        "Name": "Xã Hải Xuân"
+      },
+      {
+        "Name": "Xã Hải Thịnh"
+      },
+      {
+        "Name": "Xã Đồng Thịnh"
+      },
+      {
+        "Name": "Xã Nghĩa Hưng"
+      },
+      {
+        "Name": "Xã Nghĩa Sơn"
+      },
+      {
+        "Name": "Xã Hồng Phong"
+      },
+      {
+        "Name": "Xã Quỹ Nhất"
+      },
+      {
+        "Name": "Xã Nghĩa Lâm"
+      },
+      {
+        "Name": "Xã Rạng Đông"
+      },
+      {
+        "Name": "Phường Vị Khê"
+      },
+      {
+        "Name": "Xã Giao Minh"
+      },
+      {
+        "Name": "Xã Giao Hòa"
+      },
+      {
+        "Name": "Xã Giao Thủy"
+      },
+      {
+        "Name": "Xã Giao Phúc"
+      },
+      {
+        "Name": "Xã Giao Hưng"
+      },
+      {
+        "Name": "Xã Giao Bình"
+      },
+      {
+        "Name": "Xã Giao Ninh"
+      },
+      {
+        "Name": "Phường Đồng Văn"
+      },
+      {
+        "Name": "Phường Lê Hồ"
+      },
+      {
+        "Name": "Phường Nguyễn Úy"
+      },
+      {
+        "Name": "Phường Lý Thường Kiệt"
+      },
+      {
+        "Name": "Phường Kim Thanh"
+      },
+      {
+        "Name": "Phường Tam Chúc"
+      },
+      {
+        "Name": "Phường Phù Vân"
+      },
+      {
+        "Name": "Phường Châu Sơn"
+      },
+      {
+        "Name": "Phường Liêm Tuyền"
+      },
+      {
+        "Name": "Xã Bình Lục"
+      },
+      {
+        "Name": "Xã Bình Mỹ"
+      },
+      {
+        "Name": "Xã Bình An"
+      },
+      {
+        "Name": "Xã Bình Giang"
+      },
+      {
+        "Name": "Xã Bình Sơn"
+      },
+      {
+        "Name": "Xã Liêm Hà"
+      },
+      {
+        "Name": "Xã Tân Thanh"
+      },
+      {
+        "Name": "Xã Thanh Lâm"
+      },
+      {
+        "Name": "Xã Lý Nhân"
+      },
+      {
+        "Name": "Xã Nam Xang"
+      },
+      {
+        "Name": "Xã Bắc Lý"
+      },
+      {
+        "Name": "Xã Vĩnh Trụ"
+      },
+      {
+        "Name": "Xã Trần Thương"
+      },
+      {
+        "Name": "Xã Nhân Hà"
+      },
+      {
+        "Name": "Xã Nam Lý"
+      },
+      {
+        "Name": "Phường Kim Bảng"
+      },
+      {
+        "Name": "Phường Duy Tiên"
+      },
+      {
+        "Name": "Phường Phủ Lý"
+      }
+    ],
+    "Plates": [35, 18, 90]
+  },
+  {
+    "Name": "Tỉnh Phú Thọ",
+    "Wards": [
+      {
+        "Name": "Xã Trung Sơn"
+      },
+      {
+        "Name": "Xã Thu Cúc"
+      },
+      {
+        "Name": "Xã Tiền Phong"
+      },
+      {
+        "Name": "Xã Liên Sơn"
+      },
+      {
+        "Name": "Xã Mai Châu"
+      },
+      {
+        "Name": "Xã Pà Cò"
+      },
+      {
+        "Name": "Phường Thống Nhất"
+      },
+      {
+        "Name": "Xã Đạo Trù"
+      },
+      {
+        "Name": "Phường Phúc Yên"
+      },
+      {
+        "Name": "Phường Xuân Hòa"
+      },
+      {
+        "Name": "Xã Lương Sơn"
+      },
+      {
+        "Name": "Xã Cao Phong"
+      },
+      {
+        "Name": "Xã Mường Thàng"
+      },
+      {
+        "Name": "Xã Thung Nai"
+      },
+      {
+        "Name": "Xã Đà Bắc"
+      },
+      {
+        "Name": "Xã Cao Sơn"
+      },
+      {
+        "Name": "Xã Đức Nhàn"
+      },
+      {
+        "Name": "Xã Quy Đức"
+      },
+      {
+        "Name": "Xã Tân Pheo"
+      },
+      {
+        "Name": "Xã Kim Bôi"
+      },
+      {
+        "Name": "Xã Mường Động"
+      },
+      {
+        "Name": "Xã Dũng Tiến"
+      },
+      {
+        "Name": "Xã Hợp Kim"
+      },
+      {
+        "Name": "Xã Nật Sơn"
+      },
+      {
+        "Name": "Xã Lạc Sơn"
+      },
+      {
+        "Name": "Xã Mường Vang"
+      },
+      {
+        "Name": "Xã Đại Đồng"
+      },
+      {
+        "Name": "Xã Ngọc Sơn"
+      },
+      {
+        "Name": "Xã Nhân Nghĩa"
+      },
+      {
+        "Name": "Xã Quyết Thắng"
+      },
+      {
+        "Name": "Xã Thượng Cốc"
+      },
+      {
+        "Name": "Xã Yên Phú"
+      },
+      {
+        "Name": "Xã Lạc Thủy"
+      },
+      {
+        "Name": "Xã An Bình"
+      },
+      {
+        "Name": "Xã An Nghĩa"
+      },
+      {
+        "Name": "Xã Cao Dương"
+      },
+      {
+        "Name": "Xã Bao La"
+      },
+      {
+        "Name": "Xã Mai Hạ"
+      },
+      {
+        "Name": "Xã Tân Mai"
+      },
+      {
+        "Name": "Xã Tân Lạc"
+      },
+      {
+        "Name": "Xã Mường Bi"
+      },
+      {
+        "Name": "Xã Toàn Thắng"
+      },
+      {
+        "Name": "Xã Mường Hoa"
+      },
+      {
+        "Name": "Xã Vân Sơn"
+      },
+      {
+        "Name": "Xã Yên Thủy"
+      },
+      {
+        "Name": "Xã Lạc Lương"
+      },
+      {
+        "Name": "Xã Yên Trị"
+      },
+      {
+        "Name": "Xã Thịnh Minh"
+      },
+      {
+        "Name": "Phường Hòa Bình"
+      },
+      {
+        "Name": "Phường Kỳ Sơn"
+      },
+      {
+        "Name": "Phường Tân Hòa"
+      },
+      {
+        "Name": "Xã Tam Sơn"
+      },
+      {
+        "Name": "Xã Sông Lô"
+      },
+      {
+        "Name": "Xã Hải Lựu"
+      },
+      {
+        "Name": "Xã Yên Lãng"
+      },
+      {
+        "Name": "Xã Lập Thạch"
+      },
+      {
+        "Name": "Xã Tiên Lữ"
+      },
+      {
+        "Name": "Xã Thái Hòa"
+      },
+      {
+        "Name": "Xã Liên Hòa"
+      },
+      {
+        "Name": "Xã Hợp Lý"
+      },
+      {
+        "Name": "Xã Sơn Đông"
+      },
+      {
+        "Name": "Xã Tam Đảo"
+      },
+      {
+        "Name": "Xã Đại Đình"
+      },
+      {
+        "Name": "Xã Tam Dương"
+      },
+      {
+        "Name": "Xã Hội Thịnh"
+      },
+      {
+        "Name": "Xã Hoàng An"
+      },
+      {
+        "Name": "Xã Tam Dương Bắc"
+      },
+      {
+        "Name": "Xã Vĩnh Tường"
+      },
+      {
+        "Name": "Xã Thổ Tang"
+      },
+      {
+        "Name": "Xã Vĩnh Hưng"
+      },
+      {
+        "Name": "Xã Vĩnh An"
+      },
+      {
+        "Name": "Xã Vĩnh Phú"
+      },
+      {
+        "Name": "Xã Vĩnh Thành"
+      },
+      {
+        "Name": "Xã Yên Lạc"
+      },
+      {
+        "Name": "Xã Tề Lỗ"
+      },
+      {
+        "Name": "Xã Liên Châu"
+      },
+      {
+        "Name": "Xã Tam Hồng"
+      },
+      {
+        "Name": "Xã Nguyệt Đức"
+      },
+      {
+        "Name": "Xã Bình Nguyên"
+      },
+      {
+        "Name": "Xã Xuân Lãng"
+      },
+      {
+        "Name": "Xã Bình Xuyên"
+      },
+      {
+        "Name": "Xã Bình Tuyền"
+      },
+      {
+        "Name": "Phường Vĩnh Phúc"
+      },
+      {
+        "Name": "Phường Vĩnh Yên"
+      },
+      {
+        "Name": "Phường Vân Phú"
+      },
+      {
+        "Name": "Xã Hy Cương"
+      },
+      {
+        "Name": "Xã Lâm Thao"
+      },
+      {
+        "Name": "Xã Xuân Lũng"
+      },
+      {
+        "Name": "Xã Phùng Nguyên"
+      },
+      {
+        "Name": "Xã Bản Nguyên"
+      },
+      {
+        "Name": "Phường Phong Châu"
+      },
+      {
+        "Name": "Phường Phú Thọ"
+      },
+      {
+        "Name": "Phường Âu Cơ"
+      },
+      {
+        "Name": "Xã Phù Ninh"
+      },
+      {
+        "Name": "Xã Dân Chủ"
+      },
+      {
+        "Name": "Xã Phú Mỹ"
+      },
+      {
+        "Name": "Xã Trạm Thản"
+      },
+      {
+        "Name": "Xã Bình Phú"
+      },
+      {
+        "Name": "Xã Thanh Ba"
+      },
+      {
+        "Name": "Xã Quảng Yên"
+      },
+      {
+        "Name": "Xã Hoàng Cương"
+      },
+      {
+        "Name": "Xã Đông Thành"
+      },
+      {
+        "Name": "Xã Chí Tiên"
+      },
+      {
+        "Name": "Xã Liên Minh"
+      },
+      {
+        "Name": "Xã Đoan Hùng"
+      },
+      {
+        "Name": "Xã Tây Cốc"
+      },
+      {
+        "Name": "Xã Chân Mộng"
+      },
+      {
+        "Name": "Xã Chí Đám"
+      },
+      {
+        "Name": "Xã Bằng Luân"
+      },
+      {
+        "Name": "Xã Hạ Hòa"
+      },
+      {
+        "Name": "Xã Đan Thượng"
+      },
+      {
+        "Name": "Xã Yên Kỳ"
+      },
+      {
+        "Name": "Xã Vĩnh Chân"
+      },
+      {
+        "Name": "Xã Văn Lang"
+      },
+      {
+        "Name": "Xã Hiền Lương"
+      },
+      {
+        "Name": "Xã Cẩm Khê"
+      },
+      {
+        "Name": "Xã Phú Khê"
+      },
+      {
+        "Name": "Xã Hùng Việt"
+      },
+      {
+        "Name": "Xã Đồng Lương"
+      },
+      {
+        "Name": "Xã Tiên Lương"
+      },
+      {
+        "Name": "Xã Vân Bán"
+      },
+      {
+        "Name": "Xã Tam Nông"
+      },
+      {
+        "Name": "Xã Thọ Văn"
+      },
+      {
+        "Name": "Xã Vạn Xuân"
+      },
+      {
+        "Name": "Xã Hiền Quan"
+      },
+      {
+        "Name": "Xã Thanh Thủy"
+      },
+      {
+        "Name": "Xã Đào Xá"
+      },
+      {
+        "Name": "Xã Tu Vũ"
+      },
+      {
+        "Name": "Xã Thanh Sơn"
+      },
+      {
+        "Name": "Xã Võ Miếu"
+      },
+      {
+        "Name": "Xã Văn Miếu"
+      },
+      {
+        "Name": "Xã Cự Đồng"
+      },
+      {
+        "Name": "Xã Hương Cần"
+      },
+      {
+        "Name": "Xã Yên Sơn"
+      },
+      {
+        "Name": "Xã Khả Cửu"
+      },
+      {
+        "Name": "Xã Tân Sơn"
+      },
+      {
+        "Name": "Xã Minh Đài"
+      },
+      {
+        "Name": "Xã Lai Đồng"
+      },
+      {
+        "Name": "Xã Xuân Đài"
+      },
+      {
+        "Name": "Xã Long Cốc"
+      },
+      {
+        "Name": "Xã Yên Lập"
+      },
+      {
+        "Name": "Xã Thượng Long"
+      },
+      {
+        "Name": "Xã Sơn Lương"
+      },
+      {
+        "Name": "Xã Xuân Viên"
+      },
+      {
+        "Name": "Xã Minh Hòa"
+      },
+      {
+        "Name": "Phường Việt Trì"
+      },
+      {
+        "Name": "Phường Nông Trang"
+      },
+      {
+        "Name": "Phường Thanh Miếu"
+      }
+    ],
+    "Plates": [19, 28, 88]
+  },
+  {
+    "Name": "Tỉnh Quảng Ngãi",
+    "Wards": [
+      {
+        "Name": "Xã Đăk Long"
+      },
+      {
+        "Name": "Xã Ba Xa"
+      },
+      {
+        "Name": "Xã Cà Đam"
+      },
+      {
+        "Name": "Xã Vạn Tường"
+      },
+      {
+        "Name": "Xã Mô Rai"
+      },
+      {
+        "Name": "Xã Rờ Kơi"
+      },
+      {
+        "Name": "Xã Ia Đal"
+      },
+      {
+        "Name": "Xã Ia Tơi"
+      },
+      {
+        "Name": "Xã Tây Trà Bồng"
+      },
+      {
+        "Name": "Xã Đông Sơn"
+      },
+      {
+        "Name": "Đặc Khu Lý Sơn"
+      },
+      {
+        "Name": "Xã Tịnh Khê"
+      },
+      {
+        "Name": "Phường Trương Quang Trọng"
+      },
+      {
+        "Name": "Xã An Phú"
+      },
+      {
+        "Name": "Phường Cẩm Thành"
+      },
+      {
+        "Name": "Phường Nghĩa Lộ"
+      },
+      {
+        "Name": "Phường Trà Câu"
+      },
+      {
+        "Name": "Xã Nguyễn Nghiêm"
+      },
+      {
+        "Name": "Phường Đức Phổ"
+      },
+      {
+        "Name": "Xã Khánh Cường"
+      },
+      {
+        "Name": "Phường Sa Huỳnh"
+      },
+      {
+        "Name": "Xã Bình Minh"
+      },
+      {
+        "Name": "Xã Bình Chương"
+      },
+      {
+        "Name": "Xã Trường Giang"
+      },
+      {
+        "Name": "Xã Ba Gia"
+      },
+      {
+        "Name": "Xã Sơn Tịnh"
+      },
+      {
+        "Name": "Xã Thọ Phong"
+      },
+      {
+        "Name": "Xã Tư Nghĩa"
+      },
+      {
+        "Name": "Xã Vệ Giang"
+      },
+      {
+        "Name": "Xã Nghĩa Giang"
+      },
+      {
+        "Name": "Xã Trà Giang"
+      },
+      {
+        "Name": "Xã Nghĩa Hành"
+      },
+      {
+        "Name": "Xã Đình Cương"
+      },
+      {
+        "Name": "Xã Thiện Tín"
+      },
+      {
+        "Name": "Xã Phước Giang"
+      },
+      {
+        "Name": "Xã Long Phụng"
+      },
+      {
+        "Name": "Xã Mỏ Cày"
+      },
+      {
+        "Name": "Xã Mộ Đức"
+      },
+      {
+        "Name": "Xã Lân Phong"
+      },
+      {
+        "Name": "Xã Trà Bồng"
+      },
+      {
+        "Name": "Xã Đông Trà Bồng"
+      },
+      {
+        "Name": "Xã Tây Trà"
+      },
+      {
+        "Name": "Xã Thanh Bồng"
+      },
+      {
+        "Name": "Xã Sơn Hạ"
+      },
+      {
+        "Name": "Xã Sơn Linh"
+      },
+      {
+        "Name": "Xã Sơn Hà"
+      },
+      {
+        "Name": "Xã Sơn Thủy"
+      },
+      {
+        "Name": "Xã Sơn Kỳ"
+      },
+      {
+        "Name": "Xã Sơn Tây"
+      },
+      {
+        "Name": "Xã Sơn Tây Thượng"
+      },
+      {
+        "Name": "Xã Sơn Tây Hạ"
+      },
+      {
+        "Name": "Xã Minh Long"
+      },
+      {
+        "Name": "Xã Sơn Mai"
+      },
+      {
+        "Name": "Xã Ba Vì"
+      },
+      {
+        "Name": "Xã Ba Tô"
+      },
+      {
+        "Name": "Xã Ba Dinh"
+      },
+      {
+        "Name": "Xã Ba Tơ"
+      },
+      {
+        "Name": "Xã Ba Vinh"
+      },
+      {
+        "Name": "Xã Ba Động"
+      },
+      {
+        "Name": "Xã Đặng Thùy Trâm"
+      },
+      {
+        "Name": "Xã Bình Sơn"
+      },
+      {
+        "Name": "Phường Kon Tum"
+      },
+      {
+        "Name": "Phường Đăk Cấm"
+      },
+      {
+        "Name": "Phường Đăk Bla"
+      },
+      {
+        "Name": "Xã Ngọk Bay"
+      },
+      {
+        "Name": "Xã Ia Chim"
+      },
+      {
+        "Name": "Xã Đăk Rơ Wa"
+      },
+      {
+        "Name": "Xã Đăk Pxi"
+      },
+      {
+        "Name": "Xã Đăk Mar"
+      },
+      {
+        "Name": "Xã Đăk Ui"
+      },
+      {
+        "Name": "Xã Ngọk Réo"
+      },
+      {
+        "Name": "Xã Đăk Hà"
+      },
+      {
+        "Name": "Xã Ngọk Tụ"
+      },
+      {
+        "Name": "Xã Đăk Tô"
+      },
+      {
+        "Name": "Xã Kon Đào"
+      },
+      {
+        "Name": "Xã Đăk Sao"
+      },
+      {
+        "Name": "Xã Đăk Tờ Kan"
+      },
+      {
+        "Name": "Xã Tu Mơ Rông"
+      },
+      {
+        "Name": "Xã Măng Ri"
+      },
+      {
+        "Name": "Xã Bờ Y"
+      },
+      {
+        "Name": "Xã Sa Loong"
+      },
+      {
+        "Name": "Xã Dục Nông"
+      },
+      {
+        "Name": "Xã Xốp"
+      },
+      {
+        "Name": "Xã Ngọc Linh"
+      },
+      {
+        "Name": "Xã Đăk Plô"
+      },
+      {
+        "Name": "Xã Đăk Pék"
+      },
+      {
+        "Name": "Xã Đăk Môn"
+      },
+      {
+        "Name": "Xã Sa Thầy"
+      },
+      {
+        "Name": "Xã Sa Bình"
+      },
+      {
+        "Name": "Xã Ya Ly"
+      },
+      {
+        "Name": "Xã Đăk Kôi"
+      },
+      {
+        "Name": "Xã Kon Braih"
+      },
+      {
+        "Name": "Xã Đăk Rve"
+      },
+      {
+        "Name": "Xã Măng Đen"
+      },
+      {
+        "Name": "Xã Măng Bút"
+      },
+      {
+        "Name": "Xã Kon Plông"
+      }
+    ],
+    "Plates": [76, 82]
+  },
+  {
+    "Name": "Tỉnh Quảng Ninh",
+    "Wards": [
+      {
+        "Name": "Phường Vàng Danh"
+      },
+      {
+        "Name": "Xã Đường Hoa"
+      },
+      {
+        "Name": "Phường Hoành Bồ"
+      },
+      {
+        "Name": "Xã Thống Nhất"
+      },
+      {
+        "Name": "Xã Đông Ngũ"
+      },
+      {
+        "Name": "Xã Hải Lạng"
+      },
+      {
+        "Name": "Xã Hải Hòa"
+      },
+      {
+        "Name": "Phường Hà An"
+      },
+      {
+        "Name": "Phường Liên Hòa"
+      },
+      {
+        "Name": "Phường Quang Hanh"
+      },
+      {
+        "Name": "Phường Tuần Châu"
+      },
+      {
+        "Name": "Phường Hà Tu"
+      },
+      {
+        "Name": "Phường An Sinh"
+      },
+      {
+        "Name": "Xã Vĩnh Thực"
+      },
+      {
+        "Name": "Xã Quảng Hà"
+      },
+      {
+        "Name": "Xã Cái Chiên"
+      },
+      {
+        "Name": "Xã Điền Xá"
+      },
+      {
+        "Name": "Phường Việt Hưng"
+      },
+      {
+        "Name": "Phường Bình Khê"
+      },
+      {
+        "Name": "Phường Mạo Khê"
+      },
+      {
+        "Name": "Phường Hoàng Quế"
+      },
+      {
+        "Name": "Phường Yên Tử"
+      },
+      {
+        "Name": "Phường Đông Mai"
+      },
+      {
+        "Name": "Phường Hiệp Hòa"
+      },
+      {
+        "Name": "Phường Quảng Yên"
+      },
+      {
+        "Name": "Phường Phong Cốc"
+      },
+      {
+        "Name": "Phường Bãi Cháy"
+      },
+      {
+        "Name": "Phường Hà Lầm"
+      },
+      {
+        "Name": "Phường Cao Xanh"
+      },
+      {
+        "Name": "Phường Hồng Gai"
+      },
+      {
+        "Name": "Phường Hạ Long"
+      },
+      {
+        "Name": "Xã Quảng La"
+      },
+      {
+        "Name": "Phường Mông Dương"
+      },
+      {
+        "Name": "Phường Cẩm Phả"
+      },
+      {
+        "Name": "Phường Cửa Ông"
+      },
+      {
+        "Name": "Xã Lương Minh"
+      },
+      {
+        "Name": "Xã Kỳ Thượng"
+      },
+      {
+        "Name": "Xã Quảng Tân"
+      },
+      {
+        "Name": "Xã Quảng Đức"
+      },
+      {
+        "Name": "Xã Hoành Mô"
+      },
+      {
+        "Name": "Xã Lục Hồn"
+      },
+      {
+        "Name": "Xã Hải Sơn"
+      },
+      {
+        "Name": "Xã Hải Ninh"
+      },
+      {
+        "Name": "Phường Móng Cái 1"
+      },
+      {
+        "Name": "Phường Móng Cái 2"
+      },
+      {
+        "Name": "Phường Móng Cái 3"
+      },
+      {
+        "Name": "Xã Đầm Hà"
+      },
+      {
+        "Name": "Đặc Khu Vân Đồn"
+      },
+      {
+        "Name": "Đặc Khu Cô Tô"
+      },
+      {
+        "Name": "Phường Đông Triều"
+      },
+      {
+        "Name": "Phường Uông Bí"
+      },
+      {
+        "Name": "Xã Tiên Yên"
+      },
+      {
+        "Name": "Xã Ba Chẽ"
+      },
+      {
+        "Name": "Xã Bình Liêu"
+      }
+    ],
+    "Plates": [14]
+  },
+  {
+    "Name": "Tỉnh Quảng Trị",
+    "Wards": [
+      {
+        "Name": "Xã Phú Trạch"
+      },
+      {
+        "Name": "Đặc Khu Cồn Cỏ"
+      },
+      {
+        "Name": "Xã Tân Thành"
+      },
+      {
+        "Name": "Phường Đồng Hới"
+      },
+      {
+        "Name": "Phường Đồng Thuận"
+      },
+      {
+        "Name": "Phường Đồng Sơn"
+      },
+      {
+        "Name": "Phường Ba Đồn"
+      },
+      {
+        "Name": "Phường Bắc Gianh"
+      },
+      {
+        "Name": "Xã Nam Gianh"
+      },
+      {
+        "Name": "Xã Nam Ba Đồn"
+      },
+      {
+        "Name": "Xã Dân Hóa"
+      },
+      {
+        "Name": "Xã Kim Điền"
+      },
+      {
+        "Name": "Xã Kim Phú"
+      },
+      {
+        "Name": "Xã Minh Hóa"
+      },
+      {
+        "Name": "Xã Tuyên Lâm"
+      },
+      {
+        "Name": "Xã Tuyên Sơn"
+      },
+      {
+        "Name": "Xã Đồng Lê"
+      },
+      {
+        "Name": "Xã Tuyên Phú"
+      },
+      {
+        "Name": "Xã Tuyên Bình"
+      },
+      {
+        "Name": "Xã Tuyên Hóa"
+      },
+      {
+        "Name": "Xã Tân Gianh"
+      },
+      {
+        "Name": "Xã Trung Thuần"
+      },
+      {
+        "Name": "Xã Quảng Trạch"
+      },
+      {
+        "Name": "Xã Hòa Trạch"
+      },
+      {
+        "Name": "Xã Thượng Trạch"
+      },
+      {
+        "Name": "Xã Phong Nha"
+      },
+      {
+        "Name": "Xã Bắc Trạch"
+      },
+      {
+        "Name": "Xã Đông Trạch"
+      },
+      {
+        "Name": "Xã Hoàn Lão"
+      },
+      {
+        "Name": "Xã Bố Trạch"
+      },
+      {
+        "Name": "Xã Nam Trạch"
+      },
+      {
+        "Name": "Xã Quảng Ninh"
+      },
+      {
+        "Name": "Xã Ninh Châu"
+      },
+      {
+        "Name": "Xã Trường Ninh"
+      },
+      {
+        "Name": "Xã Trường Sơn"
+      },
+      {
+        "Name": "Xã Lệ Thủy"
+      },
+      {
+        "Name": "Xã Cam Hồng"
+      },
+      {
+        "Name": "Xã Sen Ngư"
+      },
+      {
+        "Name": "Xã Tân Mỹ"
+      },
+      {
+        "Name": "Xã Trường Phú"
+      },
+      {
+        "Name": "Xã Lệ Ninh"
+      },
+      {
+        "Name": "Xã Kim Ngân"
+      },
+      {
+        "Name": "Xã Vĩnh Linh"
+      },
+      {
+        "Name": "Xã Cửa Tùng"
+      },
+      {
+        "Name": "Xã Vĩnh Hoàng"
+      },
+      {
+        "Name": "Xã Vĩnh Thủy"
+      },
+      {
+        "Name": "Xã Bến Quan"
+      },
+      {
+        "Name": "Xã Cồn Tiên"
+      },
+      {
+        "Name": "Xã Cửa Việt"
+      },
+      {
+        "Name": "Xã Gio Linh"
+      },
+      {
+        "Name": "Xã Bến Hải"
+      },
+      {
+        "Name": "Xã Cam Lộ"
+      },
+      {
+        "Name": "Xã Hiếu Giang"
+      },
+      {
+        "Name": "Xã La Lay"
+      },
+      {
+        "Name": "Xã Tà Rụt"
+      },
+      {
+        "Name": "Xã Đakrông"
+      },
+      {
+        "Name": "Xã Ba Lòng"
+      },
+      {
+        "Name": "Xã Hướng Hiệp"
+      },
+      {
+        "Name": "Xã Hướng Lập"
+      },
+      {
+        "Name": "Xã Hướng Phùng"
+      },
+      {
+        "Name": "Xã Khe Sanh"
+      },
+      {
+        "Name": "Xã Tân Lập"
+      },
+      {
+        "Name": "Xã Lao Bảo"
+      },
+      {
+        "Name": "Xã Lìa"
+      },
+      {
+        "Name": "Xã A Dơi"
+      },
+      {
+        "Name": "Phường Đông Hà"
+      },
+      {
+        "Name": "Phường Nam Đông Hà"
+      },
+      {
+        "Name": "Xã Triệu Phong"
+      },
+      {
+        "Name": "Xã Ái Tử"
+      },
+      {
+        "Name": "Xã Triệu Bình"
+      },
+      {
+        "Name": "Xã Triệu Cơ"
+      },
+      {
+        "Name": "Xã Nam Cửa Việt"
+      },
+      {
+        "Name": "Phường Quảng Trị"
+      },
+      {
+        "Name": "Xã Diên Sanh"
+      },
+      {
+        "Name": "Xã Mỹ Thủy"
+      },
+      {
+        "Name": "Xã Hải Lăng"
+      },
+      {
+        "Name": "Xã Nam Hải Lăng"
+      },
+      {
+        "Name": "Xã Vĩnh Định"
+      }
+    ],
+    "Plates": [74, 73]
+  },
+  {
+    "Name": "Tỉnh Sơn La",
+    "Wards": [
+      {
+        "Name": "Xã Mường Bám"
+      },
+      {
+        "Name": "Xã Phiêng Khoài"
+      },
+      {
+        "Name": "Phường Chiềng Cơi"
+      },
+      {
+        "Name": "Xã Suối Tọ"
+      },
+      {
+        "Name": "Xã Mường Lạn"
+      },
+      {
+        "Name": "Xã Tân Yên"
+      },
+      {
+        "Name": "Xã Ngọc Chiến"
+      },
+      {
+        "Name": "Xã Mường Lèo"
+      },
+      {
+        "Name": "Phường Tô Hiệu"
+      },
+      {
+        "Name": "Phường Chiềng An"
+      },
+      {
+        "Name": "Phường Chiềng Sinh"
+      },
+      {
+        "Name": "Phường Mộc Sơn"
+      },
+      {
+        "Name": "Phường Vân Sơn"
+      },
+      {
+        "Name": "Phường Thảo Nguyên"
+      },
+      {
+        "Name": "Xã Đoàn Kết"
+      },
+      {
+        "Name": "Xã Lóng Sập"
+      },
+      {
+        "Name": "Xã Chiềng Sơn"
+      },
+      {
+        "Name": "Xã Vân Hồ"
+      },
+      {
+        "Name": "Xã Song Khủa"
+      },
+      {
+        "Name": "Xã Tô Múa"
+      },
+      {
+        "Name": "Xã Xuân Nha"
+      },
+      {
+        "Name": "Xã Quỳnh Nhai"
+      },
+      {
+        "Name": "Xã Mường Chiên"
+      },
+      {
+        "Name": "Xã Mường Giôn"
+      },
+      {
+        "Name": "Xã Mường Sại"
+      },
+      {
+        "Name": "Xã Thuận Châu"
+      },
+      {
+        "Name": "Xã Chiềng La"
+      },
+      {
+        "Name": "Xã Nậm Lầu"
+      },
+      {
+        "Name": "Xã Muổi Nọi"
+      },
+      {
+        "Name": "Xã Mường Khiêng"
+      },
+      {
+        "Name": "Xã Co Mạ"
+      },
+      {
+        "Name": "Xã Bình Thuận"
+      },
+      {
+        "Name": "Xã Mường É"
+      },
+      {
+        "Name": "Xã Long Hẹ"
+      },
+      {
+        "Name": "Xã Mường La"
+      },
+      {
+        "Name": "Xã Chiềng Lao"
+      },
+      {
+        "Name": "Xã Mường Bú"
+      },
+      {
+        "Name": "Xã Chiềng Hoa"
+      },
+      {
+        "Name": "Xã Bắc Yên"
+      },
+      {
+        "Name": "Xã Tà Xùa"
+      },
+      {
+        "Name": "Xã Tạ Khoa"
+      },
+      {
+        "Name": "Xã Xím Vàng"
+      },
+      {
+        "Name": "Xã Pắc Ngà"
+      },
+      {
+        "Name": "Xã Chiềng Sại"
+      },
+      {
+        "Name": "Xã Phù Yên"
+      },
+      {
+        "Name": "Xã Gia Phù"
+      },
+      {
+        "Name": "Xã Tường Hạ"
+      },
+      {
+        "Name": "Xã Mường Cơi"
+      },
+      {
+        "Name": "Xã Mường Bang"
+      },
+      {
+        "Name": "Xã Tân Phong"
+      },
+      {
+        "Name": "Xã Kim Bon"
+      },
+      {
+        "Name": "Xã Yên Châu"
+      },
+      {
+        "Name": "Xã Chiềng Hặc"
+      },
+      {
+        "Name": "Xã Lóng Phiêng"
+      },
+      {
+        "Name": "Xã Yên Sơn"
+      },
+      {
+        "Name": "Xã Chiềng Mai"
+      },
+      {
+        "Name": "Xã Mai Sơn"
+      },
+      {
+        "Name": "Xã Phiêng Pằn"
+      },
+      {
+        "Name": "Xã Chiềng Mung"
+      },
+      {
+        "Name": "Xã Phiêng Cằm"
+      },
+      {
+        "Name": "Xã Mường Chanh"
+      },
+      {
+        "Name": "Xã Tà Hộc"
+      },
+      {
+        "Name": "Xã Chiềng Sung"
+      },
+      {
+        "Name": "Xã Bó Sinh"
+      },
+      {
+        "Name": "Xã Chiềng Khương"
+      },
+      {
+        "Name": "Xã Mường Hung"
+      },
+      {
+        "Name": "Xã Chiềng Khoong"
+      },
+      {
+        "Name": "Xã Mường Lầm"
+      },
+      {
+        "Name": "Xã Nậm Ty"
+      },
+      {
+        "Name": "Xã Sông Mã"
+      },
+      {
+        "Name": "Xã Huổi Một"
+      },
+      {
+        "Name": "Xã Chiềng Sơ"
+      },
+      {
+        "Name": "Xã Sốp Cộp"
+      },
+      {
+        "Name": "Xã Púng Bánh"
+      },
+      {
+        "Name": "Phường Mộc Châu"
+      }
+    ],
+    "Plates": [26]
+  },
+  {
+    "Name": "Tỉnh Tây Ninh",
+    "Wards": [
+      {
+        "Name": "Xã Dương Minh Châu"
+      },
+      {
+        "Name": "Phường Ninh Thạnh"
+      },
+      {
+        "Name": "Xã Cầu Khởi"
+      },
+      {
+        "Name": "Xã Lộc Ninh"
+      },
+      {
+        "Name": "Xã Thạnh Bình"
+      },
+      {
+        "Name": "Xã Trà Vong"
+      },
+      {
+        "Name": "Xã Tân Châu"
+      },
+      {
+        "Name": "Xã Tân Thành"
+      },
+      {
+        "Name": "Xã Tân Phú"
+      },
+      {
+        "Name": "Phường Tân Ninh"
+      },
+      {
+        "Name": "Phường Bình Minh"
+      },
+      {
+        "Name": "Xã Châu Thành"
+      },
+      {
+        "Name": "Xã Đức Lập"
+      },
+      {
+        "Name": "Xã Mỹ Hạnh"
+      },
+      {
+        "Name": "Xã Tuyên Thạnh"
+      },
+      {
+        "Name": "Xã Hậu Thạnh"
+      },
+      {
+        "Name": "Phường Long An"
+      },
+      {
+        "Name": "Xã Mỹ Thạnh"
+      },
+      {
+        "Name": "Xã Vĩnh Hưng"
+      },
+      {
+        "Name": "Xã Khánh Hưng"
+      },
+      {
+        "Name": "Xã Tuyên Bình"
+      },
+      {
+        "Name": "Xã Nhựt Tảo"
+      },
+      {
+        "Name": "Xã Thủ Thừa"
+      },
+      {
+        "Name": "Xã Lương Hòa"
+      },
+      {
+        "Name": "Phường Long Hoa"
+      },
+      {
+        "Name": "Phường Hòa Thành"
+      },
+      {
+        "Name": "Phường Thanh Điền"
+      },
+      {
+        "Name": "Phường Trảng Bàng"
+      },
+      {
+        "Name": "Phường An Tịnh"
+      },
+      {
+        "Name": "Phường Gò Dầu"
+      },
+      {
+        "Name": "Phường Gia Lộc"
+      },
+      {
+        "Name": "Xã Hưng Thuận"
+      },
+      {
+        "Name": "Xã Phước Chỉ"
+      },
+      {
+        "Name": "Xã Thạnh Đức"
+      },
+      {
+        "Name": "Xã Phước Thạnh"
+      },
+      {
+        "Name": "Xã Truông Mít"
+      },
+      {
+        "Name": "Xã Tân Đông"
+      },
+      {
+        "Name": "Xã Tân Hội"
+      },
+      {
+        "Name": "Xã Tân Hòa"
+      },
+      {
+        "Name": "Xã Tân Lập"
+      },
+      {
+        "Name": "Xã Tân Biên"
+      },
+      {
+        "Name": "Xã Phước Vinh"
+      },
+      {
+        "Name": "Xã Hòa Hội"
+      },
+      {
+        "Name": "Xã Ninh Điền"
+      },
+      {
+        "Name": "Xã Hảo Đước"
+      },
+      {
+        "Name": "Xã Long Chữ"
+      },
+      {
+        "Name": "Xã Long Thuận"
+      },
+      {
+        "Name": "Xã Bến Cầu"
+      },
+      {
+        "Name": "Xã Hưng Điền"
+      },
+      {
+        "Name": "Xã Vĩnh Thạnh"
+      },
+      {
+        "Name": "Xã Tân Hưng"
+      },
+      {
+        "Name": "Xã Vĩnh Châu"
+      },
+      {
+        "Name": "Xã Bình Hiệp"
+      },
+      {
+        "Name": "Phường Kiến Tường"
+      },
+      {
+        "Name": "Xã Bình Hòa"
+      },
+      {
+        "Name": "Xã Mộc Hóa"
+      },
+      {
+        "Name": "Xã Nhơn Hòa Lập"
+      },
+      {
+        "Name": "Xã Nhơn Ninh"
+      },
+      {
+        "Name": "Xã Tân Thạnh"
+      },
+      {
+        "Name": "Xã Bình Thành"
+      },
+      {
+        "Name": "Xã Thạnh Phước"
+      },
+      {
+        "Name": "Xã Thạnh Hóa"
+      },
+      {
+        "Name": "Xã Tân Tây"
+      },
+      {
+        "Name": "Xã Mỹ An"
+      },
+      {
+        "Name": "Xã Tân Long"
+      },
+      {
+        "Name": "Xã Mỹ Quý"
+      },
+      {
+        "Name": "Xã Đông Thành"
+      },
+      {
+        "Name": "Xã Đức Huệ"
+      },
+      {
+        "Name": "Xã An Ninh"
+      },
+      {
+        "Name": "Xã Hiệp Hòa"
+      },
+      {
+        "Name": "Xã Hậu Nghĩa"
+      },
+      {
+        "Name": "Xã Hòa Khánh"
+      },
+      {
+        "Name": "Xã Đức Hòa"
+      },
+      {
+        "Name": "Xã Thạnh Lợi"
+      },
+      {
+        "Name": "Xã Bình Đức"
+      },
+      {
+        "Name": "Xã Bến Lức"
+      },
+      {
+        "Name": "Xã Mỹ Yên"
+      },
+      {
+        "Name": "Xã Long Cang"
+      },
+      {
+        "Name": "Xã Rạch Kiến"
+      },
+      {
+        "Name": "Xã Mỹ Lệ"
+      },
+      {
+        "Name": "Xã Tân Lân"
+      },
+      {
+        "Name": "Xã Cần Đước"
+      },
+      {
+        "Name": "Xã Long Hựu"
+      },
+      {
+        "Name": "Xã Phước Lý"
+      },
+      {
+        "Name": "Xã Mỹ Lộc"
+      },
+      {
+        "Name": "Xã Cần Giuộc"
+      },
+      {
+        "Name": "Xã Phước Vĩnh Tây"
+      },
+      {
+        "Name": "Xã Tân Tập"
+      },
+      {
+        "Name": "Xã Vàm Cỏ"
+      },
+      {
+        "Name": "Xã Tân Trụ"
+      },
+      {
+        "Name": "Xã Thuận Mỹ"
+      },
+      {
+        "Name": "Xã An Lục Long"
+      },
+      {
+        "Name": "Xã Tầm Vu"
+      },
+      {
+        "Name": "Xã Vĩnh Công"
+      },
+      {
+        "Name": "Phường Tân An"
+      },
+      {
+        "Name": "Phường Khánh Hậu"
+      }
+    ],
+    "Plates": [70, 62]
+  },
+  {
+    "Name": "Tỉnh Thái Nguyên",
+    "Wards": [
+      {
+        "Name": "Xã Thượng Quan"
+      },
+      {
+        "Name": "Xã Sảng Mộc"
+      },
+      {
+        "Name": "Xã Phú Bình"
+      },
+      {
+        "Name": "Xã Điềm Thụy"
+      },
+      {
+        "Name": "Phường Gia Sàng"
+      },
+      {
+        "Name": "Phường Phan Đình Phùng"
+      },
+      {
+        "Name": "Phường Tích Lương"
+      },
+      {
+        "Name": "Phường Linh Sơn"
+      },
+      {
+        "Name": "Phường Phúc Thuận"
+      },
+      {
+        "Name": "Xã Thành Công"
+      },
+      {
+        "Name": "Xã Tân Thành"
+      },
+      {
+        "Name": "Xã Kha Sơn"
+      },
+      {
+        "Name": "Xã Tân Khánh"
+      },
+      {
+        "Name": "Xã Đồng Hỷ"
+      },
+      {
+        "Name": "Xã Quang Sơn"
+      },
+      {
+        "Name": "Xã Trại Cau"
+      },
+      {
+        "Name": "Xã Nam Hòa"
+      },
+      {
+        "Name": "Xã Văn Hán"
+      },
+      {
+        "Name": "Xã Văn Lăng"
+      },
+      {
+        "Name": "Phường Sông Công"
+      },
+      {
+        "Name": "Phường Bá Xuyên"
+      },
+      {
+        "Name": "Phường Bách Quang"
+      },
+      {
+        "Name": "Xã Phú Lương"
+      },
+      {
+        "Name": "Xã Vô Tranh"
+      },
+      {
+        "Name": "Xã Yên Trạch"
+      },
+      {
+        "Name": "Xã Hợp Thành"
+      },
+      {
+        "Name": "Xã Định Hóa"
+      },
+      {
+        "Name": "Xã Bình Yên"
+      },
+      {
+        "Name": "Xã Trung Hội"
+      },
+      {
+        "Name": "Xã Phượng Tiến"
+      },
+      {
+        "Name": "Xã Phú Đình"
+      },
+      {
+        "Name": "Xã Bình Thành"
+      },
+      {
+        "Name": "Xã Kim Phượng"
+      },
+      {
+        "Name": "Xã Lam Vỹ"
+      },
+      {
+        "Name": "Xã Võ Nhai"
+      },
+      {
+        "Name": "Xã Dân Tiến"
+      },
+      {
+        "Name": "Xã Nghinh Tường"
+      },
+      {
+        "Name": "Xã Thần Sa"
+      },
+      {
+        "Name": "Xã La Hiên"
+      },
+      {
+        "Name": "Xã Tràng Xá"
+      },
+      {
+        "Name": "Phường Quyết Thắng"
+      },
+      {
+        "Name": "Phường Quan Triều"
+      },
+      {
+        "Name": "Xã Tân Cương"
+      },
+      {
+        "Name": "Xã Đại Phúc"
+      },
+      {
+        "Name": "Xã Đại Từ"
+      },
+      {
+        "Name": "Xã Đức Lương"
+      },
+      {
+        "Name": "Xã Phú Thịnh"
+      },
+      {
+        "Name": "Xã La Bằng"
+      },
+      {
+        "Name": "Xã Phú Lạc"
+      },
+      {
+        "Name": "Xã An Khánh"
+      },
+      {
+        "Name": "Xã Quân Chu"
+      },
+      {
+        "Name": "Xã Vạn Phú"
+      },
+      {
+        "Name": "Xã Phú Xuyên"
+      },
+      {
+        "Name": "Phường Phổ Yên"
+      },
+      {
+        "Name": "Phường Vạn Xuân"
+      },
+      {
+        "Name": "Phường Trung Thành"
+      },
+      {
+        "Name": "Xã Phúc Lộc"
+      },
+      {
+        "Name": "Xã Thượng Minh"
+      },
+      {
+        "Name": "Xã Đồng Phúc"
+      },
+      {
+        "Name": "Xã Bằng Vân"
+      },
+      {
+        "Name": "Xã Bằng Thành"
+      },
+      {
+        "Name": "Xã Nghiên Loan"
+      },
+      {
+        "Name": "Xã Cao Minh"
+      },
+      {
+        "Name": "Xã Ba Bể"
+      },
+      {
+        "Name": "Xã Chợ Rã"
+      },
+      {
+        "Name": "Xã Ngân Sơn"
+      },
+      {
+        "Name": "Xã Nà Phặc"
+      },
+      {
+        "Name": "Xã Hiệp Lực"
+      },
+      {
+        "Name": "Xã Nam Cường"
+      },
+      {
+        "Name": "Xã Quảng Bạch"
+      },
+      {
+        "Name": "Xã Yên Thịnh"
+      },
+      {
+        "Name": "Xã Chợ Đồn"
+      },
+      {
+        "Name": "Xã Yên Phong"
+      },
+      {
+        "Name": "Xã Nghĩa Tá"
+      },
+      {
+        "Name": "Xã Phủ Thông"
+      },
+      {
+        "Name": "Xã Cẩm Giàng"
+      },
+      {
+        "Name": "Xã Vĩnh Thông"
+      },
+      {
+        "Name": "Xã Bạch Thông"
+      },
+      {
+        "Name": "Xã Phong Quang"
+      },
+      {
+        "Name": "Phường Đức Xuân"
+      },
+      {
+        "Name": "Phường Bắc Kạn"
+      },
+      {
+        "Name": "Xã Văn Lang"
+      },
+      {
+        "Name": "Xã Cường Lợi"
+      },
+      {
+        "Name": "Xã Na Rì"
+      },
+      {
+        "Name": "Xã Trần Phú"
+      },
+      {
+        "Name": "Xã Côn Minh"
+      },
+      {
+        "Name": "Xã Xuân Dương"
+      },
+      {
+        "Name": "Xã Tân Kỳ"
+      },
+      {
+        "Name": "Xã Thanh Mai"
+      },
+      {
+        "Name": "Xã Thanh Thịnh"
+      },
+      {
+        "Name": "Xã Chợ Mới"
+      },
+      {
+        "Name": "Xã Yên Bình"
+      }
+    ],
+    "Plates": [20, 97]
+  },
+  {
+    "Name": "Tỉnh Thanh Hóa",
+    "Wards": [
+      {
+        "Name": "Xã Thiệu Quang"
+      },
+      {
+        "Name": "Xã Thọ Phú"
+      },
+      {
+        "Name": "Xã Trung Lý"
+      },
+      {
+        "Name": "Xã Trung Sơn"
+      },
+      {
+        "Name": "Xã Mường Mìn"
+      },
+      {
+        "Name": "Xã Na Mèo"
+      },
+      {
+        "Name": "Xã Sơn Điện"
+      },
+      {
+        "Name": "Xã Sơn Thủy"
+      },
+      {
+        "Name": "Xã Tam Lư"
+      },
+      {
+        "Name": "Xã Tam Thanh"
+      },
+      {
+        "Name": "Xã Quang Chiểu"
+      },
+      {
+        "Name": "Xã Tam Chung"
+      },
+      {
+        "Name": "Xã Nhi Sơn"
+      },
+      {
+        "Name": "Xã Pù Nhi"
+      },
+      {
+        "Name": "Xã Công Chính"
+      },
+      {
+        "Name": "Xã Phú Xuân"
+      },
+      {
+        "Name": "Xã Thanh Kỳ"
+      },
+      {
+        "Name": "Xã Xuân Thái"
+      },
+      {
+        "Name": "Xã Yên Thọ"
+      },
+      {
+        "Name": "Xã Mường Lý"
+      },
+      {
+        "Name": "Xã Yên Khương"
+      },
+      {
+        "Name": "Xã Yên Thắng"
+      },
+      {
+        "Name": "Xã Mường Lát"
+      },
+      {
+        "Name": "Xã Mường Chanh"
+      },
+      {
+        "Name": "Xã Thiệu Trung"
+      },
+      {
+        "Name": "Xã Bát Mọt"
+      },
+      {
+        "Name": "Xã Luận Thành"
+      },
+      {
+        "Name": "Xã Lương Sơn"
+      },
+      {
+        "Name": "Xã Vạn Xuân"
+      },
+      {
+        "Name": "Xã Tân Thành"
+      },
+      {
+        "Name": "Phường Hải Bình"
+      },
+      {
+        "Name": "Xã Yên Nhân"
+      },
+      {
+        "Name": "Xã Định Hòa"
+      },
+      {
+        "Name": "Phường Hàm Rồng"
+      },
+      {
+        "Name": "Xã Hoạt Giang"
+      },
+      {
+        "Name": "Xã Vạn Lộc"
+      },
+      {
+        "Name": "Phường Đông Quang"
+      },
+      {
+        "Name": "Phường Quảng Phú"
+      },
+      {
+        "Name": "Phường Đông Sơn"
+      },
+      {
+        "Name": "Phường Đông Tiến"
+      },
+      {
+        "Name": "Phường Nguyệt Viên"
+      },
+      {
+        "Name": "Phường Sầm Sơn"
+      },
+      {
+        "Name": "Phường Nam Sầm Sơn"
+      },
+      {
+        "Name": "Phường Bỉm Sơn"
+      },
+      {
+        "Name": "Phường Quang Trung"
+      },
+      {
+        "Name": "Phường Ngọc Sơn"
+      },
+      {
+        "Name": "Phường Tân Dân"
+      },
+      {
+        "Name": "Phường Hải Lĩnh"
+      },
+      {
+        "Name": "Phường Tĩnh Gia"
+      },
+      {
+        "Name": "Phường Đào Duy Từ"
+      },
+      {
+        "Name": "Phường Trúc Lâm"
+      },
+      {
+        "Name": "Phường Nghi Sơn"
+      },
+      {
+        "Name": "Xã Các Sơn"
+      },
+      {
+        "Name": "Xã Trường Lâm"
+      },
+      {
+        "Name": "Xã Tống Sơn"
+      },
+      {
+        "Name": "Xã Hà Long"
+      },
+      {
+        "Name": "Xã Lĩnh Toại"
+      },
+      {
+        "Name": "Xã Triệu Lộc"
+      },
+      {
+        "Name": "Xã Đông Thành"
+      },
+      {
+        "Name": "Xã Hậu Lộc"
+      },
+      {
+        "Name": "Xã Hoa Lộc"
+      },
+      {
+        "Name": "Xã Nga Sơn"
+      },
+      {
+        "Name": "Xã Nga Thắng"
+      },
+      {
+        "Name": "Xã Hồ Vương"
+      },
+      {
+        "Name": "Xã Tân Tiến"
+      },
+      {
+        "Name": "Xã Nga An"
+      },
+      {
+        "Name": "Xã Ba Đình"
+      },
+      {
+        "Name": "Xã Hoằng Hóa"
+      },
+      {
+        "Name": "Xã Hoằng Tiến"
+      },
+      {
+        "Name": "Xã Hoằng Thanh"
+      },
+      {
+        "Name": "Xã Hoằng Lộc"
+      },
+      {
+        "Name": "Xã Hoằng Châu"
+      },
+      {
+        "Name": "Xã Hoằng Sơn"
+      },
+      {
+        "Name": "Xã Hoằng Phú"
+      },
+      {
+        "Name": "Xã Hoằng Giang"
+      },
+      {
+        "Name": "Xã Lưu Vệ"
+      },
+      {
+        "Name": "Xã Quảng Yên"
+      },
+      {
+        "Name": "Xã Quảng Ngọc"
+      },
+      {
+        "Name": "Xã Quảng Ninh"
+      },
+      {
+        "Name": "Xã Quảng Bình"
+      },
+      {
+        "Name": "Xã Tiên Trang"
+      },
+      {
+        "Name": "Xã Quảng Chính"
+      },
+      {
+        "Name": "Xã Nông Cống"
+      },
+      {
+        "Name": "Xã Thắng Lợi"
+      },
+      {
+        "Name": "Xã Trung Chính"
+      },
+      {
+        "Name": "Xã Trường Văn"
+      },
+      {
+        "Name": "Xã Thăng Bình"
+      },
+      {
+        "Name": "Xã Tượng Lĩnh"
+      },
+      {
+        "Name": "Xã Thiệu Tiến"
+      },
+      {
+        "Name": "Xã Thiệu Toán"
+      },
+      {
+        "Name": "Xã Yên Định"
+      },
+      {
+        "Name": "Xã Yên Trường"
+      },
+      {
+        "Name": "Xã Yên Phú"
+      },
+      {
+        "Name": "Xã Quý Lộc"
+      },
+      {
+        "Name": "Xã Yên Ninh"
+      },
+      {
+        "Name": "Xã Định Tân"
+      },
+      {
+        "Name": "Xã Thọ Xuân"
+      },
+      {
+        "Name": "Xã Thọ Long"
+      },
+      {
+        "Name": "Xã Xuân Hòa"
+      },
+      {
+        "Name": "Xã Sao Vàng"
+      },
+      {
+        "Name": "Xã Lam Sơn"
+      },
+      {
+        "Name": "Xã Thọ Lập"
+      },
+      {
+        "Name": "Xã Xuân Tín"
+      },
+      {
+        "Name": "Xã Xuân Lập"
+      },
+      {
+        "Name": "Xã Vĩnh Lộc"
+      },
+      {
+        "Name": "Xã Tây Đô"
+      },
+      {
+        "Name": "Xã Biện Thượng"
+      },
+      {
+        "Name": "Xã Triệu Sơn"
+      },
+      {
+        "Name": "Xã Thọ Bình"
+      },
+      {
+        "Name": "Xã Thọ Ngọc"
+      },
+      {
+        "Name": "Xã Hợp Tiến"
+      },
+      {
+        "Name": "Xã An Nông"
+      },
+      {
+        "Name": "Xã Tân Ninh"
+      },
+      {
+        "Name": "Xã Đồng Tiến"
+      },
+      {
+        "Name": "Xã Hồi Xuân"
+      },
+      {
+        "Name": "Xã Nam Xuân"
+      },
+      {
+        "Name": "Xã Thiên Phủ"
+      },
+      {
+        "Name": "Xã Hiền Kiệt"
+      },
+      {
+        "Name": "Xã Phú Lệ"
+      },
+      {
+        "Name": "Xã Trung Thành"
+      },
+      {
+        "Name": "Xã Trung Hạ"
+      },
+      {
+        "Name": "Xã Linh Sơn"
+      },
+      {
+        "Name": "Xã Đồng Lương"
+      },
+      {
+        "Name": "Xã Văn Phú"
+      },
+      {
+        "Name": "Xã Giao An"
+      },
+      {
+        "Name": "Xã Bá Thước"
+      },
+      {
+        "Name": "Xã Thiết Ống"
+      },
+      {
+        "Name": "Xã Văn Nho"
+      },
+      {
+        "Name": "Xã Điền Quang"
+      },
+      {
+        "Name": "Xã Điền Lư"
+      },
+      {
+        "Name": "Xã Quý Lương"
+      },
+      {
+        "Name": "Xã Cổ Lũng"
+      },
+      {
+        "Name": "Xã Pù Luông"
+      },
+      {
+        "Name": "Xã Ngọc Lặc"
+      },
+      {
+        "Name": "Xã Thạch Lập"
+      },
+      {
+        "Name": "Xã Ngọc Liên"
+      },
+      {
+        "Name": "Xã Minh Sơn"
+      },
+      {
+        "Name": "Xã Nguyệt Ấn"
+      },
+      {
+        "Name": "Xã Kiên Thọ"
+      },
+      {
+        "Name": "Xã Cẩm Thạch"
+      },
+      {
+        "Name": "Xã Cẩm Thủy"
+      },
+      {
+        "Name": "Xã Cẩm Tú"
+      },
+      {
+        "Name": "Xã Cẩm Vân"
+      },
+      {
+        "Name": "Xã Cẩm Tân"
+      },
+      {
+        "Name": "Xã Kim Tân"
+      },
+      {
+        "Name": "Xã Vân Du"
+      },
+      {
+        "Name": "Xã Ngọc Trạo"
+      },
+      {
+        "Name": "Xã Thạch Bình"
+      },
+      {
+        "Name": "Xã Thành Vinh"
+      },
+      {
+        "Name": "Xã Thạch Quảng"
+      },
+      {
+        "Name": "Xã Như Xuân"
+      },
+      {
+        "Name": "Xã Thượng Ninh"
+      },
+      {
+        "Name": "Xã Hóa Quỳ"
+      },
+      {
+        "Name": "Xã Xuân Bình"
+      },
+      {
+        "Name": "Xã Thanh Phong"
+      },
+      {
+        "Name": "Xã Thanh Quân"
+      },
+      {
+        "Name": "Xã Xuân Du"
+      },
+      {
+        "Name": "Xã Mậu Lâm"
+      },
+      {
+        "Name": "Xã Thường Xuân"
+      },
+      {
+        "Name": "Xã Thắng Lộc"
+      },
+      {
+        "Name": "Xã Xuân Chinh"
+      },
+      {
+        "Name": "Phường Hạc Thành"
+      },
+      {
+        "Name": "Xã Hà Trung"
+      },
+      {
+        "Name": "Xã Thiệu Hóa"
+      },
+      {
+        "Name": "Xã Quan Sơn"
+      },
+      {
+        "Name": "Xã Như Thanh"
+      }
+    ],
+    "Plates": []
+  },
+  {
+    "Name": "Tỉnh Tuyên Quang",
+    "Wards": [
+      {
+        "Name": "Xã Ngọc Long"
+      },
+      {
+        "Name": "Xã Đồng Văn"
+      },
+      {
+        "Name": "Xã Minh Sơn"
+      },
+      {
+        "Name": "Xã Giáp Trung"
+      },
+      {
+        "Name": "Phường Hà Giang 2"
+      },
+      {
+        "Name": "Xã Ngọc Đường"
+      },
+      {
+        "Name": "Xã Tiên Nguyên"
+      },
+      {
+        "Name": "Xã Vị Xuyên"
+      },
+      {
+        "Name": "Xã Cao Bồ"
+      },
+      {
+        "Name": "Xã Mèo Vạc"
+      },
+      {
+        "Name": "Xã Thuận Hòa"
+      },
+      {
+        "Name": "Xã Thượng Sơn"
+      },
+      {
+        "Name": "Xã Tùng Bá"
+      },
+      {
+        "Name": "Xã Việt Lâm"
+      },
+      {
+        "Name": "Xã Quảng Nguyên"
+      },
+      {
+        "Name": "Xã Minh Ngọc"
+      },
+      {
+        "Name": "Phường Hà Giang 1"
+      },
+      {
+        "Name": "Xã Minh Tân"
+      },
+      {
+        "Name": "Phường Nông Tiến"
+      },
+      {
+        "Name": "Phường Minh Xuân"
+      },
+      {
+        "Name": "Xã Trung Hà"
+      },
+      {
+        "Name": "Xã Hùng Đức"
+      },
+      {
+        "Name": "Xã Kiến Thiết"
+      },
+      {
+        "Name": "Phường Mỹ Lâm"
+      },
+      {
+        "Name": "Xã Tân Tiến"
+      },
+      {
+        "Name": "Xã Hoàng Su Phì"
+      },
+      {
+        "Name": "Xã Thàng Tín"
+      },
+      {
+        "Name": "Xã Bản Máy"
+      },
+      {
+        "Name": "Xã Pờ Ly Ngài"
+      },
+      {
+        "Name": "Xã Xín Mần"
+      },
+      {
+        "Name": "Xã Pà Vầy Sủ"
+      },
+      {
+        "Name": "Xã Nấm Dẩn"
+      },
+      {
+        "Name": "Xã Trung Thịnh"
+      },
+      {
+        "Name": "Xã Khuôn Lùng"
+      },
+      {
+        "Name": "Xã Lũng Cú"
+      },
+      {
+        "Name": "Xã Sà Phìn"
+      },
+      {
+        "Name": "Xã Phố Bảng"
+      },
+      {
+        "Name": "Xã Lũng Phìn"
+      },
+      {
+        "Name": "Xã Sủng Máng"
+      },
+      {
+        "Name": "Xã Sơn Vĩ"
+      },
+      {
+        "Name": "Xã Khâu Vai"
+      },
+      {
+        "Name": "Xã Niêm Sơn"
+      },
+      {
+        "Name": "Xã Tát Ngà"
+      },
+      {
+        "Name": "Xã Thắng Mố"
+      },
+      {
+        "Name": "Xã Bạch Đích"
+      },
+      {
+        "Name": "Xã Yên Minh"
+      },
+      {
+        "Name": "Xã Mậu Duệ"
+      },
+      {
+        "Name": "Xã Du Già"
+      },
+      {
+        "Name": "Xã Đường Thượng"
+      },
+      {
+        "Name": "Xã Lùng Tám"
+      },
+      {
+        "Name": "Xã Cán Tỷ"
+      },
+      {
+        "Name": "Xã Nghĩa Thuận"
+      },
+      {
+        "Name": "Xã Quản Bạ"
+      },
+      {
+        "Name": "Xã Tùng Vài"
+      },
+      {
+        "Name": "Xã Yên Cường"
+      },
+      {
+        "Name": "Xã Đường Hồng"
+      },
+      {
+        "Name": "Xã Bắc Mê"
+      },
+      {
+        "Name": "Xã Lao Chải"
+      },
+      {
+        "Name": "Xã Thanh Thủy"
+      },
+      {
+        "Name": "Xã Phú Linh"
+      },
+      {
+        "Name": "Xã Linh Hồ"
+      },
+      {
+        "Name": "Xã Bạch Ngọc"
+      },
+      {
+        "Name": "Xã Tân Quang"
+      },
+      {
+        "Name": "Xã Đồng Tâm"
+      },
+      {
+        "Name": "Xã Liên Hiệp"
+      },
+      {
+        "Name": "Xã Bằng Hành"
+      },
+      {
+        "Name": "Xã Bắc Quang"
+      },
+      {
+        "Name": "Xã Hùng An"
+      },
+      {
+        "Name": "Xã Vĩnh Tuy"
+      },
+      {
+        "Name": "Xã Đồng Yên"
+      },
+      {
+        "Name": "Xã Tiên Yên"
+      },
+      {
+        "Name": "Xã Xuân Giang"
+      },
+      {
+        "Name": "Xã Bằng Lang"
+      },
+      {
+        "Name": "Xã Yên Thành"
+      },
+      {
+        "Name": "Xã Quang Bình"
+      },
+      {
+        "Name": "Xã Tân Trịnh"
+      },
+      {
+        "Name": "Xã Thông Nguyên"
+      },
+      {
+        "Name": "Xã Hồ Thầu"
+      },
+      {
+        "Name": "Xã Nậm Dịch"
+      },
+      {
+        "Name": "Xã Thái Bình"
+      },
+      {
+        "Name": "Xã Thượng Lâm"
+      },
+      {
+        "Name": "Xã Lâm Bình"
+      },
+      {
+        "Name": "Xã Minh Quang"
+      },
+      {
+        "Name": "Xã Bình An"
+      },
+      {
+        "Name": "Xã Côn Lôn"
+      },
+      {
+        "Name": "Xã Yên Hoa"
+      },
+      {
+        "Name": "Xã Thượng Nông"
+      },
+      {
+        "Name": "Xã Hồng Thái"
+      },
+      {
+        "Name": "Xã Nà Hang"
+      },
+      {
+        "Name": "Xã Tân Mỹ"
+      },
+      {
+        "Name": "Xã Yên Lập"
+      },
+      {
+        "Name": "Xã Tân An"
+      },
+      {
+        "Name": "Xã Chiêm Hóa"
+      },
+      {
+        "Name": "Xã Hòa An"
+      },
+      {
+        "Name": "Xã Kiên Đài"
+      },
+      {
+        "Name": "Xã Tri Phú"
+      },
+      {
+        "Name": "Xã Kim Bình"
+      },
+      {
+        "Name": "Xã Yên Nguyên"
+      },
+      {
+        "Name": "Xã Yên Phú"
+      },
+      {
+        "Name": "Xã Bạch Xa"
+      },
+      {
+        "Name": "Xã Phù Lưu"
+      },
+      {
+        "Name": "Xã Hàm Yên"
+      },
+      {
+        "Name": "Xã Bình Xa"
+      },
+      {
+        "Name": "Xã Thái Sơn"
+      },
+      {
+        "Name": "Xã Thái Hòa"
+      },
+      {
+        "Name": "Xã Hùng Lợi"
+      },
+      {
+        "Name": "Xã Trung Sơn"
+      },
+      {
+        "Name": "Xã Tân Long"
+      },
+      {
+        "Name": "Xã Xuân Vân"
+      },
+      {
+        "Name": "Xã Lực Hành"
+      },
+      {
+        "Name": "Xã Yên Sơn"
+      },
+      {
+        "Name": "Xã Nhữ Khê"
+      },
+      {
+        "Name": "Xã Tân Trào"
+      },
+      {
+        "Name": "Xã Minh Thanh"
+      },
+      {
+        "Name": "Xã Sơn Dương"
+      },
+      {
+        "Name": "Xã Bình Ca"
+      },
+      {
+        "Name": "Xã Tân Thanh"
+      },
+      {
+        "Name": "Xã Sơn Thủy"
+      },
+      {
+        "Name": "Xã Phú Lương"
+      },
+      {
+        "Name": "Xã Trường Sinh"
+      },
+      {
+        "Name": "Xã Hồng Sơn"
+      },
+      {
+        "Name": "Xã Đông Thọ"
+      },
+      {
+        "Name": "Phường An Tường"
+      },
+      {
+        "Name": "Phường Bình Thuận"
+      }
+    ],
+    "Plates": [22, 23]
+  },
+  {
+    "Name": "Tỉnh Vĩnh Long",
+    "Wards": [
+      {
+        "Name": "Xã Hòa Minh"
+      },
+      {
+        "Name": "Xã Long Hòa"
+      },
+      {
+        "Name": "Xã Đông Hải"
+      },
+      {
+        "Name": "Xã Long Hữu"
+      },
+      {
+        "Name": "Xã Long Vĩnh"
+      },
+      {
+        "Name": "Phường Cái Vồn"
+      },
+      {
+        "Name": "Phường Bình Minh"
+      },
+      {
+        "Name": "Xã Tam Bình"
+      },
+      {
+        "Name": "Xã Ngãi Tứ"
+      },
+      {
+        "Name": "Xã Trà Ôn"
+      },
+      {
+        "Name": "Xã Trà Côn"
+      },
+      {
+        "Name": "Xã Cái Nhum"
+      },
+      {
+        "Name": "Xã Tân Long Hội"
+      },
+      {
+        "Name": "Xã Nhơn Phú"
+      },
+      {
+        "Name": "Xã Bình Phước"
+      },
+      {
+        "Name": "Xã An Bình"
+      },
+      {
+        "Name": "Xã Long Hồ"
+      },
+      {
+        "Name": "Xã Phú Quới"
+      },
+      {
+        "Name": "Phường Thanh Đức"
+      },
+      {
+        "Name": "Phường Long Châu"
+      },
+      {
+        "Name": "Phường Phước Hậu"
+      },
+      {
+        "Name": "Phường Tân Hạnh"
+      },
+      {
+        "Name": "Phường Tân Ngãi"
+      },
+      {
+        "Name": "Xã Quới Thiện"
+      },
+      {
+        "Name": "Xã Trung Thành"
+      },
+      {
+        "Name": "Xã Trung Ngãi"
+      },
+      {
+        "Name": "Xã Quới An"
+      },
+      {
+        "Name": "Xã Trung Hiệp"
+      },
+      {
+        "Name": "Xã Hiếu Phụng"
+      },
+      {
+        "Name": "Xã Hiếu Thành"
+      },
+      {
+        "Name": "Xã Lục Sĩ Thành"
+      },
+      {
+        "Name": "Xã Vĩnh Xuân"
+      },
+      {
+        "Name": "Xã Hòa Bình"
+      },
+      {
+        "Name": "Xã Hòa Hiệp"
+      },
+      {
+        "Name": "Xã Song Phú"
+      },
+      {
+        "Name": "Xã Cái Ngang"
+      },
+      {
+        "Name": "Xã Tân Quới"
+      },
+      {
+        "Name": "Xã Tân Lược"
+      },
+      {
+        "Name": "Xã Mỹ Thuận"
+      },
+      {
+        "Name": "Phường Đông Thành"
+      },
+      {
+        "Name": "Phường Trà Vinh"
+      },
+      {
+        "Name": "Phường Long Đức"
+      },
+      {
+        "Name": "Phường Nguyệt Hóa"
+      },
+      {
+        "Name": "Phường Hòa Thuận"
+      },
+      {
+        "Name": "Xã Càng Long"
+      },
+      {
+        "Name": "Xã An Trường"
+      },
+      {
+        "Name": "Xã Tân An"
+      },
+      {
+        "Name": "Xã Nhị Long"
+      },
+      {
+        "Name": "Xã Bình Phú"
+      },
+      {
+        "Name": "Xã Châu Thành"
+      },
+      {
+        "Name": "Xã Song Lộc"
+      },
+      {
+        "Name": "Xã Hưng Mỹ"
+      },
+      {
+        "Name": "Xã Cầu Kè"
+      },
+      {
+        "Name": "Xã Phong Thạnh"
+      },
+      {
+        "Name": "Xã An Phú Tân"
+      },
+      {
+        "Name": "Xã Tam Ngãi"
+      },
+      {
+        "Name": "Xã Tiểu Cần"
+      },
+      {
+        "Name": "Xã Tân Hòa"
+      },
+      {
+        "Name": "Xã Hùng Hòa"
+      },
+      {
+        "Name": "Xã Tập Ngãi"
+      },
+      {
+        "Name": "Xã Cầu Ngang"
+      },
+      {
+        "Name": "Xã Mỹ Long"
+      },
+      {
+        "Name": "Xã Vinh Kim"
+      },
+      {
+        "Name": "Xã Nhị Trường"
+      },
+      {
+        "Name": "Xã Hiệp Mỹ"
+      },
+      {
+        "Name": "Xã Trà Cú"
+      },
+      {
+        "Name": "Xã Đại An"
+      },
+      {
+        "Name": "Xã Lưu Nghiệp Anh"
+      },
+      {
+        "Name": "Xã Hàm Giang"
+      },
+      {
+        "Name": "Xã Long Hiệp"
+      },
+      {
+        "Name": "Xã Tập Sơn"
+      },
+      {
+        "Name": "Phường Duyên Hải"
+      },
+      {
+        "Name": "Phường Trường Long Hòa"
+      },
+      {
+        "Name": "Xã Long Thành"
+      },
+      {
+        "Name": "Xã Đôn Châu"
+      },
+      {
+        "Name": "Xã Ngũ Lạc"
+      },
+      {
+        "Name": "Phường An Hội"
+      },
+      {
+        "Name": "Phường Phú Khương"
+      },
+      {
+        "Name": "Phường Bến Tre"
+      },
+      {
+        "Name": "Phường Sơn Đông"
+      },
+      {
+        "Name": "Phường Phú Tân"
+      },
+      {
+        "Name": "Xã Phú Túc"
+      },
+      {
+        "Name": "Xã Giao Long"
+      },
+      {
+        "Name": "Xã Tiên Thủy"
+      },
+      {
+        "Name": "Xã Tân Phú"
+      },
+      {
+        "Name": "Xã Phú Phụng"
+      },
+      {
+        "Name": "Xã Chợ Lách"
+      },
+      {
+        "Name": "Xã Vĩnh Thành"
+      },
+      {
+        "Name": "Xã Hưng Khánh Trung"
+      },
+      {
+        "Name": "Xã Phước Mỹ Trung"
+      },
+      {
+        "Name": "Xã Tân Thành Bình"
+      },
+      {
+        "Name": "Xã Nhuận Phú Tân"
+      },
+      {
+        "Name": "Xã Đồng Khởi"
+      },
+      {
+        "Name": "Xã Mỏ Cày"
+      },
+      {
+        "Name": "Xã Thành Thới"
+      },
+      {
+        "Name": "Xã An Định"
+      },
+      {
+        "Name": "Xã Hương Mỹ"
+      },
+      {
+        "Name": "Xã Đại Điền"
+      },
+      {
+        "Name": "Xã Quới Điền"
+      },
+      {
+        "Name": "Xã Thạnh Phú"
+      },
+      {
+        "Name": "Xã An Qui"
+      },
+      {
+        "Name": "Xã Thạnh Hải"
+      },
+      {
+        "Name": "Xã Thạnh Phong"
+      },
+      {
+        "Name": "Xã Tân Thủy"
+      },
+      {
+        "Name": "Xã Bảo Thạnh"
+      },
+      {
+        "Name": "Xã Ba Tri"
+      },
+      {
+        "Name": "Xã Tân Xuân"
+      },
+      {
+        "Name": "Xã Mỹ Chánh Hòa"
+      },
+      {
+        "Name": "Xã An Ngãi Trung"
+      },
+      {
+        "Name": "Xã An Hiệp"
+      },
+      {
+        "Name": "Xã Hưng Nhượng"
+      },
+      {
+        "Name": "Xã Giồng Trôm"
+      },
+      {
+        "Name": "Xã Tân Hào"
+      },
+      {
+        "Name": "Xã Phước Long"
+      },
+      {
+        "Name": "Xã Lương Phú"
+      },
+      {
+        "Name": "Xã Châu Hòa"
+      },
+      {
+        "Name": "Xã Lương Hòa"
+      },
+      {
+        "Name": "Xã Thới Thuận"
+      },
+      {
+        "Name": "Xã Thạnh Phước"
+      },
+      {
+        "Name": "Xã Bình Đại"
+      },
+      {
+        "Name": "Xã Thạnh Trị"
+      },
+      {
+        "Name": "Xã Lộc Thuận"
+      },
+      {
+        "Name": "Xã Châu Hưng"
+      },
+      {
+        "Name": "Xã Phú Thuận"
+      }
+    ],
+    "Plates": [64, 71, 84]
+  }
+]

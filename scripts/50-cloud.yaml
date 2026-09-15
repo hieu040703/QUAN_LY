@@ -1,0 +1,15 @@
+network:
+  version: 2
+  renderer: networkd
+  ethernets:
+    enp7s0: # Thay bằng tên card mạng của bạn
+      dhcp4: no
+      addresses:
+        - 192.168.1.100/24 # Địa chỉ IP và subnet mask
+      routes:
+        - to: default
+          via: 192.168.1.1 # Gateway
+      nameservers:
+        addresses:
+          - 8.8.8.8 # DNS Server 1
+          - 8.8.4.4 # DNS Server 2

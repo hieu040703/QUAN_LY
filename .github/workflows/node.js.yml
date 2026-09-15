@@ -1,0 +1,181 @@
+name: Deploy BE
+
+on:
+  push:
+    branches: [production]
+  workflow_dispatch:
+    inputs:
+      operation:
+        description: "Select workflow operation"
+        required: true
+        default: deploy
+        type: choice
+        options:
+          - deploy
+          - setup_deploy_key
+
+permissions:
+  contents: read
+
+jobs:
+  build-and-deploy:
+    if: github.event_name == 'push' || (github.event_name == 'workflow_dispatch' && github.event.inputs.operation == 'deploy')
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Guard - check SSH_PRIVATE_KEY is bootstrapped
+        env:
+          SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
+        run: |
+          if [ -z "${SSH_PRIVATE_KEY}" ]; then
+            echo "❌ SSH_PRIVATE_KEY secret is not set."
+            echo ""
+            echo "👉 You must run the bootstrap job first:"
+            echo "   1. Go to Actions tab → 'Deploy Express.js to Ubuntu'"
+            echo "   2. Click 'Run workflow'"
+            echo "   3. Select operation = 'setup_deploy_key'"
+            echo "   4. Run it — this will generate keys and set SSH_PRIVATE_KEY automatically"
+            echo "   5. After it succeeds, re-trigger this deploy"
+            exit 1
+          fi
+          echo "✅ SSH_PRIVATE_KEY is present, proceeding with deploy"
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: "npm"
+
+      - name: Cache npm dependencies
+        uses: actions/cache@v4
+        with:
+          path: ~/.npm
+          key: ${{ runner.os }}-npm-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-npm-
+
+      - name: Create .env file from Secret
+        run: |
+          echo "${{ secrets.PROD_ENV_FILE }}" > .env
+          echo "✅ .env file created"
+
+      - name: Install dependencies & Build
+        run: |
+          npm ci --legacy-peer-deps
+          npm run build
+
+      - name: Prepare deployment package
+        run: |
+          # Copy Prisma schema to deployable location (outside src)
+          # mkdir -p prisma
+          # cp src/common/infrastructure/database/prisma/schema.prisma prisma/schema.prisma
+
+          # Tạo file tar.gz để deploy (KHÔNG bao gồm uploads)
+          tar -czf deploy.tar.gz \
+            --exclude=node_modules \
+            --exclude=.git \
+            --exclude=src \
+            --exclude=.github \
+            --exclude=uploads \
+            --exclude=*.log \
+            dist package.json package-lock.json ecosystem.config.js .env .env.example
+
+          echo "📦 Deployment package created ($(du -h deploy.tar.gz | cut -f1))"
+
+      - name: Copy files to Server
+        if: github.event_name == 'push' || (github.event_name == 'workflow_dispatch' && github.event.inputs.operation == 'deploy')
+        uses: appleboy/scp-action@v0.1.7
+        with:
+          host: ${{ secrets.SSH_HOST }}
+          username: ${{ secrets.SSH_USERNAME }}
+          password: ${{ secrets.SSH_PASSWORD }}
+          port: ${{ secrets.SSH_PORT }}
+          proxy_host: ${{ secrets.RELAY_HOST }}
+          proxy_username: ${{ secrets.RELAY_USERNAME }}
+          proxy_key: ${{ secrets.SSH_PRIVATE_KEY }}
+          proxy_port: ${{ secrets.RELAY_PORT }}
+          source: "deploy.tar.gz"
+          target: "${{ secrets.SOURCE }}"
+
+      - name: Deploy and Setup on Server
+        if: github.event_name == 'push' || (github.event_name == 'workflow_dispatch' && github.event.inputs.operation == 'deploy')
+        uses: appleboy/ssh-action@v1.0.3
+        with:
+          host: ${{ secrets.SSH_HOST }}
+          username: ${{ secrets.SSH_USERNAME }}
+          password: ${{ secrets.SSH_PASSWORD }}
+          port: ${{ secrets.SSH_PORT }}
+          proxy_host: ${{ secrets.RELAY_HOST }}
+          proxy_username: ${{ secrets.RELAY_USERNAME }}
+          proxy_key: ${{ secrets.SSH_PRIVATE_KEY }}
+          proxy_port: ${{ secrets.RELAY_PORT }}
+          script: |
+            set -e
+
+            # Load Node.js environment
+            export NVM_DIR="$HOME/.nvm"
+            [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"
+
+            cd ${{ secrets.SOURCE }}
+
+            echo "========================================="
+            echo "🚀 Starting Deployment Process"
+            echo "========================================="
+
+            # 1. Tạo thư mục uploads nếu chưa tồn tại
+            echo "📁 Checking uploads directory..."
+            if [ ! -d "uploads" ]; then
+              mkdir -p uploads
+              echo "✅ Created uploads directory"
+            else
+              # Đếm số lượng file trong uploads
+              UPLOAD_COUNT=$(find uploads -type f 2>/dev/null | wc -l)
+              echo "✅ Uploads directory exists (contains $UPLOAD_COUNT files)"
+            fi
+
+            # 2. Backup .env và package.json cũ (nếu cần)
+            echo "💾 Creating backups..."
+            [ -f .env ] && cp .env .env.backup.$(date +%Y%m%d_%H%M%S)
+            [ -f package.json ] && cp package.json package.json.backup
+
+            # 3. Giải nén deployment package (an toàn vì không chứa uploads)
+            echo "📦 Extracting deployment package..."
+            tar -xzf deploy.tar.gz
+
+            # 4. Phân quyền uploads — KHÔNG fail deploy khi gặp file không đổi được quyền.
+            #    uploads là data runtime, có thể chứa file do nginx/PM2/root tạo (EPERM).
+            #    Dùng `{} +` (gộp batch) thay `{} \;` (1 process/file) cho 54k+ files.
+            echo "🔒 Setting permissions..."
+            chmod 755 uploads 2>/dev/null || true
+            find uploads -type f -exec chmod 644 {} + 2>/dev/null || true
+            find uploads -type d -exec chmod 755 {} + 2>/dev/null || true
+
+            # 5. Set permission cho .env
+            chmod 600 .env 2>/dev/null || true
+
+            # 6. Cài đặt production dependencies
+            echo "📦 Installing production dependencies..."
+            npm ci --omit=dev --legacy-peer-deps
+
+            # 6.1 Generate Prisma client
+            echo "🔧 Generating Prisma client..."
+            # npx prisma generate --schema=prisma/schema.prisma
+
+            # 7. Dọn dẹp
+            echo "🧹 Cleaning up..."
+            rm deploy.tar.gz
+
+            echo "========================================="
+            echo "✅ Deployment completed at $(date)"
+            echo "========================================="
+            echo "📊 Deployment Statistics:"
+            echo "   - Uploads directory: $(du -sh uploads 2>/dev/null | cut -f1 || echo 'Empty')"
+            echo "   - Dist directory: $(du -sh dist 2>/dev/null | cut -f1)"
+            echo "   - .env file: $(wc -l < .env) lines"
+            echo "========================================="
+
+            # 8. Restart hoặc start PM2 qua file ecosystem.config.js (nếu chạy lần đầu)
+            pm2 reload ecosystem.config.js --update-env || pm2 start ecosystem.config.js

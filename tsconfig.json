@@ -1,0 +1,29 @@
+{
+  "compilerOptions": {
+    "target": "ES2020",
+    "module": "node16",
+    "lib": ["ES2020"],
+    "outDir": "./dist",
+    "rootDir": "./src",
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "strictPropertyInitialization": false,
+    "resolveJsonModule": true,
+    "moduleResolution": "node16",
+    "allowSyntheticDefaultImports": true,
+    "sourceMap": false,
+    "declaration": false,
+    "removeComments": true,
+    "paths": {
+      "@/*": ["./src/*"]
+    },
+    "typeRoots": ["./node_modules/@types"],
+    "types": ["node", "express"]
+  },
+  "include": ["src/**/*", "src/shared/types/**/*.d.ts", "src/modules/incomeExpense/line/incomeExpenseLine.types.ts"],
+  "exclude": ["node_modules", "dist"]
+}

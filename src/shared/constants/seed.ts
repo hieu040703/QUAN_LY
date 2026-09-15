@@ -1,0 +1,33 @@
+export const jobPositionDefault = [
+  "Backend Developer",
+  "Business Analyst",
+  "Designer",
+  "Frontend Developer",
+  "Mobile Developer",
+  "Project Manager",
+  "Tester",
+].sort((a, b) => a.localeCompare(b));
+
+export const taskGroupDefault = [
+  "Người dùng",
+  "Kho",
+  "Hàng hóa",
+  "Mua hàng",
+  "Bán hàng",
+  "Báo cáo",
+  "Nhà cung cấp",
+  "Khách hàng",
+  "Sản xuất",
+  "Phát sinh",
+  "Mua tài nguyên",
+  "Đăng App",
+  "Cước tự động",
+  "Khác",
+  "Họp với khách hàng",
+  "Phỏng vấn",
+  "Họp nội bộ",
+  "Phân tích dự án",
+  "Tạo tài nguyên dự án",
+  "Tạo kế hoạch triển khai",
+  "Ứng dụng desktop",
+].sort((a, b) => a.localeCompare(b, "vi")); // dùng locale "vi" cho tiếng Việt

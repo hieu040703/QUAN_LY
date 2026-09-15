@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title><%= title %></title>
+  </head>
+  <style>
+    body {
+      font-family: sans-serif;
+      margin: 0;
+      background: #fff;
+    }
+    .hero {
+      background: #2e8ca6;
+      color: white;
+      display: flex;
+      align-items: center;
+      padding: 2rem;
+    }
+    .rocket {
+      height: 150px;
+      margin-right: 2rem;
+    }
+    .hero-text h1 {
+      margin: 0;
+      font-size: 2rem;
+    }
+    .hero-text span {
+      font-weight: bold;
+    }
+    .btn {
+      background: white;
+      color: #2e8ca6;
+      padding: 0.5rem 1rem;
+      text-decoration: none;
+      font-weight: bold;
+      border-radius: 5px;
+    }
+    .cards {
+      display: flex;
+      gap: 1rem;
+      padding: 2rem;
+    }
+    .card {
+      flex: 1;
+      padding: 1rem;
+      border: 1px solid #ddd;
+      text-align: center;
+    }
+  </style>
+  <body>
+    <header class="hero">
+      <img src="/images/rocket.svg" alt="Rocket" class="rocket" />
+      <div class="hero-text">
+        <h1>Welcome to <span>API PLATFORM</span></h1>
+        <p>This container will host your <b>Next.js</b> application...</p>
+        <a href="#" class="btn">Get started</a>
+      </div>
+    </header>
+
+    <main>
+      <h2>Available services:</h2>
+      <div class="cards">
+        <div class="card">API</div>
+        <div class="card">ADMIN</div>
+        <div class="card">MERCURE DEBUGGER</div>
+      </div>
+    </main>
+  </body>
+</html>
