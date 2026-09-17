@@ -259,6 +259,168 @@ Cookie: access_token=<jwt_token>
 - **bcryptjs**: Password hashing
 - **MySQL2**: MySQL driver
 
+## Thiết kế database quản lý trọ
+
+Phần database quản lý trọ hiện được thiết kế trong thư mục `src/database/models`. Giai đoạn này chỉ có entity và quan hệ dữ liệu; controller, service, route và migration sẽ làm ở các bước sau.
+
+### 1. Khu trọ và phòng
+
+#### `users`
+
+Bảng tài khoản có sẵn. User có thể là chủ trọ, nhân viên quản lý hoặc người thuê.
+
+#### `properties`
+
+Lưu khu trọ hoặc tòa nhà.
+
+- `ownerId` -> `users.id`: user sở hữu hoặc quản lý khu trọ.
+- `code`: mã khu trọ.
+- `name`: tên khu trọ.
+- `addressLine`, `ward`, `district`, `province`: địa chỉ.
+- `status`: khu trọ đang hoạt động hay tạm ngừng.
+
+#### `rooms`
+
+Lưu từng phòng thuộc khu trọ.
+
+- `propertyId` -> `properties.id`: khu trọ chứa phòng.
+- `code`: mã phòng, ví dụ `P101`.
+- `floor`: tầng của phòng.
+- `areaM2`: diện tích phòng.
+- `maxOccupants`: số người tối đa.
+- `rentPrice`: giá thuê cơ bản.
+- `depositAmount`: tiền cọc.
+- `status`: trống, đã giữ, đang thuê, bảo trì hoặc ngừng kinh doanh.
+- `furnished`: phòng có nội thất hay không.
+
+Quan hệ chính:
+
+```text
+users 1 --- n properties 1 --- n rooms
+```
+
+### 2. Tiện ích phòng
+
+- `amenities`: danh mục tiện ích, ví dụ máy lạnh, máy giặt, WiFi.
+- `room_amenities.roomId` -> `rooms.id`.
+- `room_amenities.amenityId` -> `amenities.id`.
+
+Đây là quan hệ nhiều-nhiều:
+
+```text
+rooms n --- n amenities
+          qua room_amenities
+```
+
+### 3. Đăng tin cho thuê hoặc bán
+
+#### `listings`
+
+Lưu tin đăng trên hệ thống.
+
+- `ownerId` -> `users.id`: user tạo tin.
+- `propertyId` -> `properties.id`: đăng cả khu trọ.
+- `roomId` -> `rooms.id`: đăng riêng một phòng.
+- `type`: `rent` cho thuê hoặc `sale` bán.
+- `title`, `slug`, `description`: nội dung tin.
+- `price`: giá thuê hoặc giá bán.
+- `status`: bản nháp, chờ duyệt, đã đăng, từ chối, hết hạn hoặc đóng tin.
+- `publishedAt`, `expiresAt`: thời gian hiển thị tin.
+
+Một tin chỉ liên kết với khu trọ hoặc phòng.
+
+#### Các bảng liên quan
+
+- `listing_media.listingId` -> `listings.id`: hình ảnh của tin.
+- `listing_media.fileId` -> `files.id`: file đã upload.
+- `listing_favorites.userId` -> `users.id`: user lưu tin.
+- `listing_favorites.listingId` -> `listings.id`: tin được lưu.
+- `listing_inquiries.userId` -> `users.id`: user gửi yêu cầu liên hệ.
+- `listing_inquiries.listingId` -> `listings.id`: tin được hỏi.
+- `viewing_appointments.userId` -> `users.id`: user đặt lịch xem.
+- `viewing_appointments.listingId` -> `listings.id`: tin được đặt lịch.
+
+### 4. Người thuê và hợp đồng
+
+- `tenant_profiles.userId` -> `users.id`: thông tin giấy tờ và liên hệ khẩn cấp.
+- `lease_contracts.roomId` -> `rooms.id`: phòng trong hợp đồng.
+- `lease_contracts.landlordId` -> `users.id`: chủ trọ quản lý hợp đồng.
+- `contract_tenants.contractId` -> `lease_contracts.id`: hợp đồng tham gia.
+- `contract_tenants.userId` -> `users.id`: người thuê.
+
+Một hợp đồng có thể có nhiều người thuê. Một phòng chỉ có một hợp đồng đang ở trạng thái `active`.
+
+### 5. Phí, điện nước và thanh toán
+
+- `fee_types`: loại phí, ví dụ điện, nước, WiFi, giữ xe.
+- `property_fees.propertyId` -> `properties.id`: khu trọ áp dụng phí.
+- `property_fees.feeTypeId` -> `fee_types.id`: loại phí.
+- `utility_readings.roomId` -> `rooms.id`: chỉ số điện/nước theo kỳ.
+- `invoices.contractId` -> `lease_contracts.id`: hóa đơn của hợp đồng.
+- `invoice_items.invoiceId` -> `invoices.id`: tiền phòng, điện, nước, dịch vụ.
+- `payments.invoiceId` -> `invoices.id`: các lần thanh toán.
+
+Luồng tiền:
+
+```text
+lease_contracts
+  -> utility_readings
+  -> invoices
+       -> invoice_items
+       -> payments
+```
+
+### 6. Sơ đồ tổng quan
+
+```mermaid
+erDiagram
+    USERS ||--o{ PROPERTIES : manages
+    PROPERTIES ||--o{ ROOMS : contains
+    ROOMS ||--o{ ROOM_AMENITIES : has
+    AMENITIES ||--o{ ROOM_AMENITIES : defines
+
+    USERS ||--o{ LISTINGS : creates
+    PROPERTIES ||--o{ LISTINGS : advertises
+    ROOMS ||--o{ LISTINGS : advertises
+    LISTINGS ||--o{ LISTING_MEDIA : contains
+    FILES ||--o{ LISTING_MEDIA : stores
+    USERS ||--o{ LISTING_FAVORITES : saves
+    LISTINGS ||--o{ LISTING_FAVORITES : saved_by
+    USERS ||--o{ LISTING_INQUIRIES : sends
+    LISTINGS ||--o{ LISTING_INQUIRIES : receives
+    USERS ||--o{ VIEWING_APPOINTMENTS : books
+    LISTINGS ||--o{ VIEWING_APPOINTMENTS : schedules
+
+    USERS ||--o| TENANT_PROFILES : has
+    ROOMS ||--o{ LEASE_CONTRACTS : rented_by
+    USERS ||--o{ LEASE_CONTRACTS : manages
+    LEASE_CONTRACTS ||--o{ CONTRACT_TENANTS : includes
+    USERS ||--o{ CONTRACT_TENANTS : joins
+
+    PROPERTIES ||--o{ PROPERTY_FEES : configures
+    FEE_TYPES ||--o{ PROPERTY_FEES : defines
+    ROOMS ||--o{ UTILITY_READINGS : records
+    LEASE_CONTRACTS ||--o{ INVOICES : creates
+    INVOICES ||--o{ INVOICE_ITEMS : contains
+    INVOICES ||--o{ PAYMENTS : receives
+
+    USERS ||--o{ USER_NOTIFICATIONS : receives
+    NOTIFICATIONS ||--o{ USER_NOTIFICATIONS : targets
+    USERS ||--o{ SEEN_MESSAGES : reads
+```
+
+### 7. Thứ tự triển khai tiếp theo
+
+1. Làm module `Property` và `Room`.
+2. Làm module `Amenity` và liên kết tiện ích phòng.
+3. Làm module `Listing` và upload hình ảnh.
+4. Làm yêu thích, yêu cầu liên hệ và lịch xem.
+5. Làm hồ sơ người thuê và hợp đồng.
+6. Làm điện nước, hóa đơn và thanh toán.
+7. Gắn notification vào từng sự kiện nghiệp vụ.
+
+Chưa chạy đồng bộ database thật. Khi cần tạo bảng từ entity, dùng `npm run db:sync` sau khi kiểm tra lại cấu trúc.
+
 ## 🤝 Contributing
 
 1. Fork repository
@@ -302,30 +464,3 @@ curl -c cookies.txt -X POST http://localhost:4500/api/v1/auth/login \
 # Get profile
 curl -b cookies.txt http://localhost:4500/api/v1/auth/me
 ```
-
-    const typeMap : Record<any, any> = {
-      "confirm": {
-        "pending": "CUS PENDING",
-        "customer_pending": "CONFIRM",
-      },
-      "reject": {
-      },
-    }
-
-    const status = typeMap[body?.status]?[exist];
-
-
-    if (data.details && data.details.length > 0) {
-      const options: FindManyOptions<AttributeDetail> = {
-        where: {
-          id: In(data.details),
-        },
-      };
-      const attributeDetails = await this.attributeDetailRepository.findByOptions(options, tx.manager);
-
-      if (attributeDetails.length !== data.details.length) {
-        throw new BadRequestError("Some attribute details not found");
-      }
-      // product.details = attributeDetails;
-      await tx.manager.save(product);
-    }
